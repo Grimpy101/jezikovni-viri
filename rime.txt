@@ -1,0 +1,2040 @@
+# ab
+kebab, sam
+štab, sam
+švab, sam
+slab, prid
+bab (baba), sam
+barab (baraba), sam
+ogab (ogaba), sam
+uporab (uporaba), sam
+pozab (pozaba), sam
+vab (vaba), sam
+zlorab (zloraba), sam
+žab (žaba), sam
+
+# ac
+pajac, sam
+paparac, sam
+vršac, sam
+štrapac, sam
+plac, sam
+fac (faca), sam
+rac (raca), sam
+tac (taca), sam
+
+# ad
+belobrad, prid
+čad, sam
+divjad, sam
+glad, sam
+grad, sam
+Had, sam
+hlad, sam
+jad, sam
+jelenjad, sam
+kamerad, sam
+komad, sam
+kozjebrad, prid
+mlad, prid
+nomad, sam
+otročad, sam
+perjad, sam
+ploščad, sam
+pomlad, sam
+rad, prid
+sad, sam
+slad, sam
+služinčad, sam
+smrad, sam
+srnjad, sam
+strad, sam
+zelenjad, sam
+zverjad, sam
+žad, sam
+živad, sam
+gad, sam
+izpad, sam
+kad, sam
+močerad, sam
+nasad, sam
+nerad, prid
+odpad, sam
+pad, sam
+prehlad, sam
+prepad, sam
+propad, sam
+protinapad, sam
+razpad, sam
+sklad, sam
+spopad, sam
+upad, sam
+urad, sam
+zaklad, sam
+zapad, sam
+ambasad (ambasada), sam
+arkad (arkada), sam
+armad (armada), sam
+balad (balada), sam
+blokad (blokada), sam
+brad (brada), sam
+brigad (brigada), sam
+čelad (čelada), sam
+cerad (cerada), sam
+čokolad (čokolada), sam
+driad (driada), sam
+fasad (fasada), sam
+gnad (gnada), sam
+grmad (grmada), sam
+kaskad (kaskada), sam
+klad (klada), sam
+limonad (limonada), sam
+livad (livada), sam
+marinad (marinada), sam
+maškarad (maškarada), sam
+marmelad (marmelada), sam
+nad (nada), sam
+nagrad (nagrada), sam
+naklad (naklada), sam
+naslad (naslada), sam
+navad (navada), sam
+odisejad (odisejada), sam
+ograd (ograda), sam
+orad (orada), sam
+parad (parada), sam
+plejad (plejada), sam
+pomad (pomada), sam
+pregrad (pregrada), sam
+promenad (promenada), sam
+razvad (razvada), sam
+rulad (rulada), sam
+samovlad (samovlada), sam
+serenad (serenada), sam
+šarad (šarada), sam
+strahovlad (strahovlada), sam
+tirad (tirada), sam
+triad (triada), sam
+vlad (vlada), sam
+
+# af
+bibliograf, sam
+biograf, sam
+epigraf, sam
+epitaf, sam
+fotograf, sam
+geograf, sam
+graf, sam
+paragraf, sam
+poligraf, sam
+telegraf, sam
+škaf, sam
+karaf (karafa), sam
+žiraf (žirafa), sam
+
+# ag
+blag, prid
+arhipelag, sam
+drag, prid
+mag, sam
+nag, prid
+predrag, prid
+sarkofag, sam
+sovrag, sam
+vrag, sam
+prag, sam
+bisag (bisaga), sam
+čag (čaga), sam
+nesnag (nesnaga), sam
+podlag (podlaga), sam
+prtljag (prtljaga), sam
+razlag (razlaga), sam
+sag (saga), sam
+srag (sraga), sam
+špag (špaga), sam
+vag (vaga), sam
+zgag (zgaga), sam
+zmag (zmaga), sam
+žag (žaga), sam
+
+# ah
+almanah, sam
+amfibrah, sam
+mah, sam
+plah, prid
+prah, sam
+rosomah, sam
+strah, sam
+šah, sam
+ah, medm
+bah, medm
+dah, sam
+grah, sam
+izpah, sam
+poplah, sam
+predah, sam
+preplah, sam
+razmah, sam
+zadah, sam
+zamah, sam
+zapah, sam
+snah (snaha), sam
+zdrah (zdraha), sam
+šprah (špraha), sam
+
+# aj
+bodljaj, sam
+bonsaj, sam
+čaj, sam
+čuvaj, sam
+dihljaj, sam
+doživljaj, sam
+dražljaj, sam
+dregljaj, sam
+držaj, sam
+enačaj, sam
+fičafaj, sam
+gaj, sam
+grižljaj, sam
+izdihljaj, sam
+izpuščaj, sam
+ječaj, sam
+jecljaj, sam
+kaj, pris
+kašljaj, sam
+kdaj, pris
+kihljaj, sam
+klicaj, sam
+končaj, glag
+kričaj, sam
+kupleraj, sam
+lakaj, sam
+ležaj, sam
+lišaj, sam
+lučaj, sam
+mahljaj, sam
+maj, sam
+metljaj, sam
+migljaj, sam
+mlaj, sam
+naraščaj, sam
+narekovaj, sam
+stežaj, pris
+natečaj, sam
+nazaj, pris
+nihaj, sam
+nižaj, sam
+običaj, sam
+odtegljaj, sam
+oklepaj, sam
+opuščaj, sam
+otročaj, sam
+papagaj, sam
+pihljaj, sam
+podčrtaj, sam
+policaj, sam
+položaj, sam
+pomišljaj, sam
+pretresljaj, sam
+prhljaj, sam
+primanjkljaj, sam
+pripetljaj, sam
+raj, sam
+raztežaj, sam
+ročaj, sam
+samuraj, sam
+sijaj, sam
+skakljaj, sam
+slučaj, sam
+smehljaj, sam
+smehljaj (smehljati se), glag
+spodrsljaj, sam
+spotikljaj, sam
+stečaj, sam
+šatraj, sam
+tečaj, sam
+točaj, sam
+tolovaj, sam
+tresljaj, sam
+trepljaj, sam
+trzljaj, sam
+vezaj, sam
+veslaj, sam
+veslaj (veslati), glag
+višaj, sam
+vitraj, sam
+vodostaj, sam
+vprašaj, sam
+vršaj, sam
+vsaj, člen
+vzdihljaj, sam
+zakaj, pris
+zabodljaj, sam
+zalogaj, sam
+zbadljaj, sam
+zmaj, sam
+značaj, sam
+daj (dati), glag
+kaj, pris
+kraj, sam
+marsikaj, zaim
+malokaj, zaim
+malokdaj, pris
+marsikdaj, pris
+mrkaj, sam
+naskrivaj, pris
+okraj, sam
+redkokdaj, pris
+saj, vez
+sedaj, pris
+skrivaj, pris
+tedaj, pris
+vkraj, pris
+zdaj, pris
+predaj (predaja), sam
+predaj (predati se), glag
+graj (graja), sam
+izdaj (izdaja), sam
+izdaj (izdati), glag
+maloprodaj (maloprodaja), sam
+oddaj (oddaja), sam
+oddaj (oddati), glag
+ograj (ograja), sam
+papaj (papaja), sam
+podaj (podaja), sam
+podaj (podati), glag
+postaj (postaja), sam
+predprodaj (predprodaja), sam
+primopredaj (primopredaja), sam
+prodaj (prodaja), sam
+prodaj (prodati), glag
+razprodaj (razprodaja), sam
+razprodaj (razprodati), glag
+staj (staja), sam
+utaj (utaja), sam
+vaj (vaja), sam
+vdaj (vdaja), sam
+vdaj (vdati se), glag
+veleizdaj (veleizdaja), sam
+vstaj (vstaja), sam
+zakonodaj (zakonodaja), sam
+barantaj (barantati), glag
+bezljaj (bezljati), glag
+bingljaj (bingljati), glag
+blebetaj (blebetati), glag
+brbljaj (brbljati), glag
+brbotaj (brbotati), glag
+brkljaj (brkljati), glag
+capljaj (capljati), glag
+čebljaj (čebljati), glag
+čečkaj (čečkati), glag
+razcefraj (razcefrati), glag
+cepetaj (cepetati), glag
+cingljaj (cingljati), glag
+cmokaj (cmokati), glag
+čmokaj (čmokati), glag
+čofotaj (čofotati), glag
+copotaj (copotati), glag
+crkljaj (crkljati), glag
+curljaj (curljati), glag
+čvekaj (čvekati), glag
+divjaj (divjati), glag
+dodaj (dodati), glag
+dokončaj (dokončati), glag
+drdraj (drdrati), glag
+frfotaj (frfotati), glag
+gobcaj (gobcati), glag
+godrnjaj (godrnjati), glag
+goljufaj (goljufati), glag
+grgraj (grgrati), glag
+grizljaj (grizljati), glag
+igraj (igrati), glag
+izklesaj (izklesati), glag
+izravnaj (izravnati), glag
+izrezljaj (izrezljati), glag
+izsesaj (izsesati), glag
+izvohljaj (izvohljati), glag
+jezikaj (jezikati), glag
+kapljaj (kapljati), glag
+kegljaj (kegljati), glag
+klepetaj (klepetati), glag
+klopotaj (klopotati), glag
+klokotaj (klokotati), glag
+skobacaj (skobacati), glag
+afnaj (afnati), glag
+bezaj (bezati), glag
+hihitaj (hihitati), glag
+izbezaj (izbezati), glag
+končaj (končati), glag
+kracaj (kracati), glag
+okrepčaj (okrepčati), glag
+krohotaj (krohotati), glag
+kvantaj (kvantati), glag
+lesketaj (lesketati), glag
+mečkaj (mečkati), glag
+mehčaj (mehčati), glag
+meketaj (meketati), glag
+mencaj (mencati), glag
+migetaj (migetati), glag
+migotaj (migotati), glag
+momljaj (momljati), glag
+mrmraj (mrmrati), glag
+naphaj (naphati), glag
+naplahtaj (naplahtati), glag
+naravnaj (naravnati), glag
+nasekljaj (nasekljati), glag
+navdaj (navdati), glag
+obdaj (obdati), glag
+obveljaj (obveljati), glag
+omehčaj (omehčati), glag
+osedlaj (osedlati), glag
+pacaj (pacati), glag
+podaj (podati), glag
+podivjaj (podivjati), glag
+pokončaj (pokončati), glag
+pokozlaj (pokozlati), glag
+pomendraj (pomendrati), glag
+popackaj (popackati), glag
+poravnaj (poravnati), glag
+ropotaj (ropotati), glag
+posesaj (posesati), glag
+poteptaj (poteptati), glag
+prasketaj (prasketati), glag
+prepoznaj (prepoznati), glag
+prerešetaj (prerešetati), glag
+pretentaj (pretentati), glag
+priracaj (priracati), glag
+veslaj (veslati), glag
+priznaj (priznati), glag
+prodaj (prodati), glag
+ragljaj (ragljati), glag
+ravnaj (ravnati), glag
+razdaj (razdati), glag
+razvozlaj (razvozlati), glag
+rezgetaj (rezgetati), glag
+pokesaj (pokesati), glag
+sladkaj (sladkati), glag
+spoznaj (spoznati), glag
+ščebetaj (ščebetati), glag
+šumljaj (šumljati), glag
+trapaj (trapati), glag
+trepljaj (trepljati), glag
+zadaj (zadati), glag
+zaigraj (zaigrati), glag
+zašepetaj (zašepetati), glag
+zavdaj (zavdati), glag
+zavozlaj (zavozlati), glag
+zaznaj (zaznati), glag
+zgaraj (zgarati se), glag
+požgečkaj (požgečkati), glag
+
+# ak
+bedak, sam
+beljak, sam
+besednjak, sam
+bivak, sam
+blazinjak, sam
+blodnjak, sam
+bodak, sam
+božjak, sam
+cikcak, sam
+človečnjak, sam
+črnodlak, prid
+belodlak, prid
+dečak, sam
+desetak, sam
+dijak, sam
+divjak, sam
+drevak, sam
+dolgokrak, prid
+drobnjak, sam
+dvajsetak, sam
+enak, prid
+dvokrak, prid
+enakokrak, prid
+fak, sam
+frak, sam
+gosak, sam
+graščak, sam
+gumenjak, sam
+jak, sam
+jak, prid
+junak, sam
+južnjak, sam
+kokodak, sam
+kokošnjak, sam
+korak, sam
+korenjak, sam
+koruznjak, sam
+kozjak, sam
+krak, sam
+kvak, sam
+lak, sam
+lesenjak, sam
+letak, sam
+levak, sam
+lijak, sam
+lisjak, sam
+medenjak, sam
+mejak, sam
+možak, sam
+mračnjak, sam
+mrak, sam
+mrlak, sam
+mrtvak, sam
+narodnjak, sam
+nečak, sam
+neenak, prid
+oblak, sam
+očak, sam
+okostnjak, sam
+opičnjak, sam
+orjak, sam
+pak, sam
+paličnjak, sam
+pesjak, sam
+pešak, sam
+peščenjak, sam
+petak, sam
+plak, sam
+polovnjak, sam
+poltrak, sam
+pomorščak, sam
+poltovornjak, sam
+ponočnjak, sam
+praporščak, sam
+predznak, sam
+privlak, sam
+prvak, sam
+razkorak, sam
+rojak, sam
+rumenjak, sam
+sadovnjak, sam
+seljak, sam
+severnjak, sam
+skalnjak, sam
+snežak, sam
+soimenjak, sam
+somrak, sam
+srnjak, sam
+stotak, sam
+strokovnjak, sam
+svak, sam
+svinjak, sam
+svobodnjak, sam
+špičak, sam
+tak, zaim
+težak, sam
+težak, prid
+tiktak, sam
+tisočak, sam
+tlak, sam
+tobak, sam
+tovornjak, sam
+trak, sam
+trebušnjak, sam
+učenjak, sam
+veljak, sam
+vijak, sam
+veseljak, sam
+vlak, sam
+vojak, sam
+volkodlak, sam
+vrtiljak, sam
+vsak, zaim
+vzhodnjak, sam
+vznak, pris
+zahodnjak, sam
+zanesenjak, sam
+zidak, sam
+znak, sam
+zverinjak, sam
+izplak, sam
+krak, sam
+mak, sam
+nak, člen
+marsikak, zaim
+rak, sam
+razmak, sam
+spak, sam
+zrak, sam
+alpak (alpaka), sam
+barak (baraka), sam
+dlak (dlaka), sam
+kloak (kloaka), sam
+mlak (mlaka), sam
+napak (napaka), sam
+navlak (navlaka), sam
+odplak (odplaka), sam
+omak (omaka), sam
+oznak (oznaka), sam
+srak (sraka), sam
+
+# al
+admiral, sam
+arzenal, sam
+aval, sam
+bokal, sam
+ceremonial, sam
+diferencial, sam
+feldmaršal, sam
+festival, sam
+general, sam
+gral, sam
+hospital, sam
+ideal, sam
+integral, sam
+interval, sam
+kal, sam
+kanal, sam
+kanibal, sam
+kapital, sam
+kardinal, sam
+karneval, sam
+koral, sam
+korporal, sam
+kraval, sam
+kriminal, sam
+kristal, sam
+kvartal, sam
+lokal, sam
+madrigal, sam
+maršal, sam
+material, sam
+mineral, sam
+naval, sam
+odsihmal, pris
+opal, sam
+oral, sam
+original, sam
+oval, sam
+pavšal, sam
+pedal, sam
+pokal, sam
+portal, sam
+potencial, sam
+predal, sam
+preval, sam
+rafal, sam
+recital, sam
+regal, sam
+ritual, sam
+rival, sam
+signal, sam
+šakal, sam
+škandal, sam
+šal, sam
+terminal, sam
+tistihmal, pris
+total, sam
+val, sam
+vandal, sam
+vazal, sam
+vogal, sam
+vokal, sam
+zal, prid
+žurnal, sam
+bal (bala), sam
+central (centrala), sam
+diagonal (diagonala), sam
+hval (hvala), sam
+koal (koala), sam
+obal (obala), sam
+očal (očala), sam
+sandal, sam
+skal (skala), sam
+spiral (spirala), sam
+šal (šala), sam
+štal (štala), sam
+transverzal (transverzala), sam
+vertikal (vertikala), sam
+zahval (zahvala), sam
+zijal (zijalo), sam
+bodal (bodalo), sam
+brenkal (brenkalo), sam
+budal (budalo), sam
+dihal (dihala), sam
+držal (držalo), sam
+dvigal (dvigalo), sam
+gibal (gibalo), sam
+godal (godalo), sam
+igral (igralo), sam
+kazal (kazalo), sam
+kukal (kukalo), sam
+letal (letalo), sam
+mehčal (mehčalo), sam
+nabodal (nabodalo), sam
+nakoval (nakovalo), sam
+naslonjal (naslonjalo), sam
+nihal (nihalo), sam
+obuval (obuvalo), sam
+odvajal (odvajalo), sam
+ogledal (ogledalo), sam
+ogrinjal (ogrinjalo), sam
+padal (padalo), sam
+pihal (pihalo), sam
+pisal (pisalo), sam
+pogrinjal (pogrinjalo), sam
+pokrival (pokrivalo), sam
+pomagal (pomagalo), sam
+pomirjeval (pomirjevalo), sam
+pregrinjal (pregrinjalo), sam
+računal (računalo), sam
+skropucal (skropucalo), sam
+slušal (slušalo), sam
+spričeval (spričevalo), sam
+stikal (stikalo), sam
+stojal (stojalo), sam
+stopal (stopalo), sam
+tipal (tipalo), sam
+tnal (tnalo), sam
+tolkal (tolkalo), sam
+varoval (varovalo), sam
+vešal (vešala), sam
+zijal (zijala), sam
+zrcal (zrcalo), sam
+
+# alj
+dalj, prisl
+kralj, sam
+valj, sam
+halj (halja), sam
+medalj (medalja), sam
+razdalj (razdalja), sam
+
+# am
+avtogram, sam
+anagram, sam
+bam, medm
+diagram, sam
+epigram, sam
+flam, sam
+gram, sam
+hologram, sam
+hram, sam
+imam (imeti), glag
+kam, pris
+kilogram, sam
+kriptogram, sam
+makadam, sam
+pentagram, sam
+piktogram, sam
+program, sam
+sam, zaim
+spektrogram, sam
+sram, sam
+telegram, sam
+tram, sam
+seznam, sam
+tam, pris
+dram (drama), sam
+reklam (reklama), sam
+dam (dati), glag
+dioram (diorama), sam
+fam (fama), sam
+jam (jama), sam
+lam (lama), sam
+mam (mama), sam
+melodram (melodrama), sam
+omam (omama), sam
+panoram (panorama), sam
+pižam (pižama), sam
+ram (rama), sam
+salam (salama), sam
+imam (imeti), glag
+poznam (poznati), glag
+predam (predati), glag
+priznam (priznati), glag
+barantam (barantati), glag
+bezljam (bezljati), glag
+podam (podati), glag
+izdam (izdati), glag
+
+# an
+balvan
+ban
+barjan
+bolan
+bran
+bršljan
+butan
+celofan
+česan
+član
+četverostran
+coprijan
+dan
+darovan
+dlan
+dodan
+dognan
+dokončan
+državljan
+dvorjan
+dvostran
+ekran
+etan
+fazan
+faran
+gavran
+goban
+gorjan
+grobijan
+gurman
+human
+huligan
+hurikan
+igran
+imenovan
+iskan
+izbojevan
+izbran
+izdan
+izglasovan
+izgnan
+izigran
+izklesan
+izkopan
+izoblikovan
+izpeljan
+izpodkopan
+izpran
+izravnan
+izsesan
+izžgan
+kan
+kankan
+kapitan
+kaplan
+karavan
+kastelan
+katamaran
+katran
+kaznovan
+klan
+kleptoman
+končan
+Koran
+kovan
+krajan
+kristjan
+lan
+malikovan
+maščevan
+megaloman
+meridijan
+metan
+modrijan
+musliman
+nabran
+nacefran
+načrtovan
+nadzorovan
+nametan
+napeljan
+naphan
+naravnan
+nasejan
+nasmejan
+naspan
+nastlan
+negovan
+nehuman
+neimenovan
+neomadeževan
+neotesan
+neprestan
+nepričakovan
+neslan
+občudovan
+obdan
+obiskan
+objokovan
+oblikovan
+obran
+obrekovan
+obsijan
+obstreljevan
+obvarovan
+ocean
+odbran
+oddan
+odigran
+odkopan
+odlikovan
+odposlan
+ogoljufan
+okopan
+okovan
+okrancljan
+omalovaževan
+omehčan
+opazovan
+opisovan
+opran
+organ
+orkan
+oskrbovan
+osedlan
+osnovan
+oškodovan
+ožgan
+pajčolan
+pan
+parmezan
+partizan
+pelikan
+pesjan
+plan
+piroman
+počečkan
+počesan
+podedovan
+podivjan
+podkovan
+podžgan
+pogan
+poklan
+pokončan
+pokopan
+pokozlan
+pomečkan
+pomendran
+popackan
+poravnan
+poscan
+porcelan
+posejan
+poslan
+postan
+poškodovan
+poteptan
+poveličevan
+pozvan
+požgan
+predan
+preglasovan
+pregnan
+preoran
+prepeljan
+prepoznan
+preprodan
+preran
+prerokovan
+presejan
+pretkan
+pretentan
+pričakovan
+pridržan
+prignan
+pristan
+priznan
+prižgan
+profan
+prostran
+prsobran
+puran
+raketoplan
+ramazan
+ran
+ravan
+razcapan
+razdejan
+razigran
+razklan
+razmetan
+razposlan
+Rimljan
+roman
+rokobran
+samarijan
+samostan
+samozvan
+sežgan
+simultan
+skovan
+slan
+sopran
+spontan
+spoštovan
+stan
+stkan
+stran
+svečan
+svetovljan
+šaman
+šarlatan
+tiran
+tjavdan
+tlakovan
+točkovan
+ugnan
+uležan
+uran
+urban
+usran
+varovan
+vdan
+vegan
+velikan
+veteran
+vetrobran
+vklesan
+vkopan
+volan
+vran
+vsakdan
+vstran
+vulkan
+vzdrževan
+vzravnan
+vzvalovan
+zadržan
+zagnan
+zaklan
+zakopan
+zaležan
+zamolčan
+zaničevan
+zasnovan
+zaspan
+zastran
+zavarovan
+zaverovan
+zavojevan
+zavozlan
+zaznamovan
+zažgan
+zbran
+zlagan
+zmečkan
+zmehčan
+zrahljan
+zravnan
+žafran
+žrtvovan
+župljan
+žveplan
+čekan
+cigan
+dekan
+deželan
+evangeličan
+krpan
+meščan
+nepoznan
+nezemljan
+neznan
+občan
+otočan
+pijan
+podeželan
+poznan
+svečan
+teleban
+tlačan
+uhan
+vaščan
+zaman
+zemljan
+župan
+manj
+danj
+panj
+banj
+dekanj
+kampanj
+kanj
+kotanj
+lazanj
+lobanj
+sanj
+špranj
+županj
+banan
+čežan
+dvoran
+fontan
+havan
+karavan
+katan
+kurtizan
+membran
+nakan
+podgan
+poljan
+ran
+soban
+ukan
+
+# ap
+hlap, sam
+kap, sam
+slap, sam
+knap, sam
+krap, sam
+tap, sam
+trap, sam
+cap (capa), sam
+etap (etapa), sam
+grap (grapa), sam
+sap (sapa), sam
+map (mapa), sam
+šap (šapa), sam
+šlap (šlape), sam
+trap (trapa), sam
+
+# ar
+adresar
+aktuar
+ar
+arhivar
+bar
+barbar
+bazar
+brodar
+car
+čebelar
+čevljar
+čolnar
+dar
+denar
+desetar
+drvar
+glavar
+gospodar
+goslar
+gozdar
+grobar
+hektar
+honorar
+inventar
+jar
+ječar
+jeklar
+kalamar
+kipar
+ključar
+koledar
+kolesar
+kolobar
+komar
+komentar
+komisar
+konjar
+kotlar
+krčmar
+krmar
+kvar
+ladjar
+legionar
+lončar
+lopar
+mar
+mesar
+milijonar
+mornar
+mlekar
+nikar
+notar
+oltar
+orodjar
+orožar
+ovčar
+par
+pisar
+pisoar
+pivovar
+poglavar
+požar
+prostozidar
+redar
+repertoar
+revolucionar
+rezervoar
+rudar
+rovar
+samotar
+samovar
+sekretar
+seminar
+sirar
+slaščičar
+slikar
+slovar
+star
+spletkar
+steklar
+stražar
+stvar
+špar
+šušmar
+tesar
+tiskar
+tvar
+udar
+urar
+usnjar
+var
+veterinar
+vihar
+vinar
+vizionar
+vladar
+vnemar
+vodnar
+volnar
+vozar
+vratar
+vrtnar
+zidar
+zlatar
+zvonar
+žandar
+žar
+kar
+nakar
+odkar
+čar
+fanfar
+kitar
+košar
+obar
+okvar
+omar
+par
+prevar
+punčar
+
+# as
+as, sam
+bas, sam
+črnolas, prid
+plavolas, prid
+gas, sam
+glas, sam
+gorostas, sam
+klas, sam
+kodrolas, prid
+kras, sam
+kvas, sam
+las, sam
+naglas, sam
+pas, sam
+stas, sam
+špas, sam
+vas, sam
+čas, sam
+modras, sam
+oglas, sam
+okras, sam
+opas, sam
+razglas, sam
+svojčas, sam
+tačas, sam
+nas (mi), zaim
+vas (vi), zaim
+biomas (biomasa), sam
+grimas (grimasa), sam
+jas (jasa), sam
+klobas (klobasa), sam
+mas (masa), sam
+ras (rasa), sam
+teras (terasa), sam
+tras (trasa), sam
+
+# aš
+bogataš, sam
+bombaš, sam
+drugoligaš, sam
+frontaš, sam
+harmonikaš, sam
+kljunaš, sam
+mamilaš, sam
+mejaš, sam
+nogometaš, sam
+mišmaš, sam
+pajdaš, sam
+plemenitaš, sam
+pristaš, sam
+rokometaš, sam
+rovaš, sam
+velikaš, sam
+ziheraš, sam
+baš, člen
+naš, zaim
+očenaš, sam
+vaš, zaim
+čaš (čaša), sam
+flaš (flaša), sam
+gamaš (gamaša), sam
+kaš (kaša), sam
+maš (maša), sam
+paš (paša), sam
+
+# at
+acetat, sam
+advokat, sam
+agregat, sam
+ahat, sam
+akrobat, sam
+aparat, sam
+apostat, sam
+avtomat, sam
+bankomat, sam
+birokrat, sam
+certifikat, sam
+citat, sam
+copat, sam
+dekanat, sam
+delegat
+demokrat
+derivat
+diktat
+diplomat
+direktorat
+doktorat
+dolgovrat
+dukat
+eksponat
+fabrikat
+format
+fotoaparat
+gat
+gnjat
+golovrat
+granat
+habitat
+kalifat
+kandidat
+karat
+kavomat
+konzulat
+kurat
+kvadrat
+laminat
+literat
+magnat
+mandat
+mat
+osat
+pagat
+pat
+patriarhat
+pečat
+pirat
+plagiat
+plakat
+plat
+predikat
+prekat
+preparat
+primat
+proletariat
+referat
+psihopat
+rezultat
+senat
+sindikat
+sociopat
+soldat
+svojat
+škrlat
+škržat
+tat
+telepat
+tempomat
+termostat
+ultimat
+valat
+vrat
+zlat
+bat
+bogat
+bradat
+brat
+brkat
+čokat
+enkrat
+gorat
+Hrvat
+jedrnat
+kljunat
+kosmat
+košat
+krat
+krilat
+lasat
+mesnat
+možat
+nepovrat
+obrat
+nosat
+oglat
+plečat
+ploščat
+podolgovat
+podplat
+povrat
+preobrat
+prevrat
+razvrat
+robat
+rogat
+suhljat
+škrat
+takrat
+špehat
+tršat
+zobat
+čabat
+ferat
+granat
+jat
+koordinat
+kravat
+lat
+lopat
+potrat
+solat
+sonat
+trat
+vrat
+zagat
+zaplat
+spat
+stat
+brat
+drat
+ležat
+predat
+barantat
+zbežat
+veslat
+
+# av
+akoprav
+av
+bavbav
+brav
+čav
+čigav
+kakav
+krvav
+mijav
+nav
+nrav
+pav
+plav
+rokav
+splav
+živžav
+bahav
+beloglav
+bistroglav
+bleščav
+blodnjav
+brezglav
+brzojav
+čenčav
+cepetav
+čeprav
+cmerav
+cmokav
+čvekav
+domišljav
+drčav
+dremav
+drgetav
+frfotav
+godrnjav
+gobezdav
+gologlav
+hehetav
+hrustljav
+jezikav
+ječav
+jokav
+klepetav
+krmežljav
+lesketav
+lokav
+majav
+migetav
+nepridiprav
+nergav
+nezdrav
+norčav
+nosljav
+odrezav
+odzdrav
+oglav
+pojav
+poniglav
+pozdrav
+prav
+pravzaprav
+praznoglav
+pozdrav
+pristav
+puhoglav
+renčav
+rjav
+samoglav
+sanjav
+sestav
+solzav
+šegav
+šepetav
+šumljav
+topoglav
+trdoglav
+trepetav
+tresav
+trmoglav
+udav
+vihrav
+vrtoglav
+zaletav
+zdrav
+zvedav
+žerjav
+baklav
+bleščav
+daljav
+dišav
+dobav
+držav
+glav
+enklav
+goličav
+goščav
+izboljšav
+izgovorjav
+izjav
+izmenjav
+izpeljav
+izpostav
+kav
+krajšav
+krav
+menjav
+nabav
+najav
+napeljav
+naprav
+nastav
+navezav
+obdelav
+objav
+obravnav
+očetnjav
+odjav
+odprav
+okrajšav
+oktav
+olajšav
+oprav
+osvetljav
+pisav
+planjav
+podaljšav
+podstav
+pojav
+ponjav
+poplav
+poprav
+poravnav
+poslikav
+postav
+povezav
+pozidav
+predelav
+predstav
+preiskav
+preslikav
+prestav
+prijav
+primerjav
+priprav
+proslav
+puščav
+raziskav
+razprav
+razstav
+razsvetljav
+skušnjav
+spremljav
+stav
+širjav
+težav
+trav
+trdnjav
+tuljav
+uprav
+ustav
+veličav
+vezav
+višav
+vonjav
+zamenjav
+zastav
+bokal
+drhal
+odsihmal
+piščal
+ral
+špital
+vogal
+zmrzal
+vseznal
+žal
+žival
+
+# az
+jaz
+gaz
+maz
+raz
+plaz
+dokaz
+izraz
+igrokaz
+mraz
+namaz
+obraz
+odraz
+poraz
+potokaz
+prikaz
+smerokaz
+ukaz
+baz
+ekstaz
+faz
+fraz
+oaz
+nakaz
+vaz
+
+# až
+bombaž, sam
+draž, sam
+kočijaž, sam
+kolaž, sam
+križkraž, sam
+laž, sam
+opaž, sam
+paž, sam
+staž, sam
+glaž, sam
+arbitraž (arbitraža), sam
+baž (baža), sam
+drenaž (drenaža), sam
+embalaž (embalaža), sam
+etaž (etaža), sam
+garaž (garaža), sam
+maž (maža), sam
+plantaž (plantaža), sam
+plaž (plaža), sam
+sabotaž (sabotaža), sam
+reportaž (reportaža), sam
+stelaž (stelaža), sam
+špijonaž (špijonaža), sam
+tetovaž (tetovaža), sam
+vraž (vraža), sam
+
+# eb
+galeb, sam
+hleb, sam
+jereb, sam
+vodeb, sam
+žleb, sam
+žreb, sam
+pogreb, sam
+škreb, sam
+ameb (ameba), sam
+oseb (oseba), sam
+potreb (potreba), sam
+zajeb, sam
+
+# ec
+hec, sam
+žrec, sam
+prec, pris
+dec, sam
+sklec (skleca), sam
+
+# ed
+bled, prid
+črnogled, prid
+ded, sam
+drevored, sam
+dvosed, sam
+enosed, sam
+gred, sam
+grdogled, prid
+jed, sam
+kislogled, prid
+led, sam
+logoped, sam
+med, sam
+mesojed, prid
+mrkogled, prid
+nared, prid
+nered, sam
+ortoped, sam
+ozkogled, prid
+ostrogled, prid
+ped, sam
+poved, sam
+pred, predl
+predjed, sam
+red, sam
+sladoled, sam
+sled, sam
+srepogled, prid
+traged, sam
+vsejed, prid
+vseved, prid
+žled, sam
+drobnogled, sam
+izgled, sam
+izgred, sam
+nedogled, sam
+obed, sam
+odred, sam
+ogled, sam
+pogled, sam
+predogled, sam
+pregled, sam
+razgled, sam
+razpored, sam
+spored, sam
+spregled, sam
+ugled, sam
+vpogled, sam
+zgled, sam
+sladkosned, prid
+zvezdogled, sam
+abeced (abeceda), sam
+besed (beseda), sam
+čred (čreda), sam
+gred (greda), sam
+kred (kreda), sam
+sosed (soseda), sam
+ujed (ujeda), sam
+ved (veda), sam
+zased (zaseda), sam
+
+# ef
+relief, sam
+sef, sam
+šef, sam
+blef, sam
+chef, sam
+
+# eg
+beg, sam
+breg, sam
+kreg, sam
+pobeg, sam
+sneg, sam
+strateg, sam
+doseg, sam
+izteg, sam
+nateg, sam
+obseg, sam
+poteg, sam
+razteg, sam
+zaseg, sam
+leg (lega), sam
+peg (pega), sam
+priseg (prisega), sam
+šeg (šega), sam
+vpreg (vprega), sam
+zadreg (zadrega), sam
+zaleg (zalega), sam
+zapriseg (zaprisega), sam
+
+# eh
+
+# ej
+
+# ek
+
+# el
+
+# elj
+
+# em
+
+# en
+
+# ep
+belorep
+brezrep
+cep
+dolgorep
+ep
+kačjerep
+lep
+slep
+srep
+step
+čep
+naklep
+odcep
+oklep
+počep
+pohlep
+potep
+precep
+pretep
+protiukrep
+razcep
+rep
+sklep
+šlep
+ukrep
+zaklep
+zatrep
+žep
+
+# er
+
+# es
+
+# eš
+
+# et
+
+# ev
+
+# ez
+
+# ež
+
+# o
+argo
+biro
+bistro
+blago
+bordo
+celo
+črevo
+depo
+drevo
+glasno
+go
+grdo
+grenko
+halo
+hudo
+kako
+kdo
+kolo
+krepko
+lahko
+lepo
+malokdo
+marsikdo
+meso
+metro
+močno
+najsibo
+nato
+nebo
+nekdo
+nivo
+oho
+oko
+pano
+pero
+plato
+proso
+protitelo
+redkokdo
+ringlo
+rolo
+rokoko
+rondo
+samo
+seno
+skiro
+slabo
+slovo
+srebro
+sto
+svetlo
+tablo
+tako
+telo
+tesno
+teso
+težko
+toplo
+trdo
+uho
+zapovrstjo
+zato
+zelo
+zlato
+dno
+hoho
+no
+zlo
+njo
+temo
+
+# ob
+zob
+gob
+rob
+grob
+škrob
+otrob
+gnilob
+belozob
+bob
+dob
+dolgozob
+drob
+enakorob
+golob
+lob
+odsihbod
+ostrorob
+ostrozob
+pob
+pregrob
+snob
+trizob
+zdrob
+garderob
+glob
+gnilob
+gob
+gnusob
+grdob
+grenkob
+hudob
+lenob
+maščob
+mehkob
+podob
+predsob
+sitnob
+samopodob
+sladkob
+sob
+svetlob
+šob
+tečnob
+tegob
+žlehtnob
+
+# oj
+ahoj
+dvoj
+gnoj
+heroj
+hoj
+konvoj
+loj
+moj
+nocoj
+noj
+samosvoj
+stoj
+svoj
+takoj
+tvoj
+znoj
+boj
+broj
+dvoboj
+joj
+kroj
+naboj
+napoj
+navoj
+nebroj
+obstoj
+odboj
+oj
+ovoj
+poboj
+podboj
+pogoj
+poj
+postoj
+postroj
+povoj
+pozoj
+preboj
+predpogoj
+prejoj
+razkroj
+razvoj
+roj
+sestoj
+sloj
+soj
+spoj
+spokoj
+stroj
+uboj
+ustroj
+zaboj
+zastoj
+zavoj
+zapoj
+boj
+izposoj
+presoj
+vzgoj
+šoj
+menoj
+
+# op
+okop
+stop
+strop
+klop
+top
+pop
+agropop
+filantrop
+izotop
+kiklop
+mikroskop
+mizantrop
+rop
+skop
+štop
+hiphop
+antilop
+jop
+lop
+šop
+galop
+izstop
+izkop
+dostop
+krop
+nastop
+odklop
+odstop
+pokop
+potop
+preklop
+prestop
+pristop
+sestop
+sklop
+snop
+strop
+tiptop
+top
+vklop
+vstop
+zlatokop
