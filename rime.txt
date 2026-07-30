@@ -693,7 +693,7 @@ zijal (zijala), sam
 zrcal (zrcalo), sam
 
 # alj
-dalj, prisl
+dalj, pris
 kralj, sam
 valj, sam
 halj (halja), sam
@@ -1590,30 +1590,30 @@ vseznal
 žival
 
 # az
-jaz
-gaz
-maz
-raz
-plaz
-dokaz
-izraz
-igrokaz
-mraz
-namaz
-obraz
-odraz
-poraz
-potokaz
-prikaz
-smerokaz
-ukaz
-baz
-ekstaz
-faz
-fraz
-oaz
-nakaz
-vaz
+jaz, zaim
+gaz, sam
+maz, sam
+raz, sam
+plaz, sam
+dokaz, sam
+izraz, sam
+igrokaz, sam
+mraz, sam
+namaz, sam
+obraz, sam
+odraz, sam
+poraz, sam
+potokaz, sam
+prikaz, sam
+smerokaz, sam
+ukaz, sam
+baz (baza), sam
+ekstaz (ekstaz), sam
+faz (faza), sam
+fraz (fraza), sam
+oaz (oaza), sam
+nakaz (nakaza), sam
+vaz (vaza), sam
 
 # až
 bombaž, sam
@@ -1756,58 +1756,1050 @@ zaleg (zalega), sam
 zapriseg (zaprisega), sam
 
 # eh
+ceh, sam
+greh, sam
+meh, sam
+smeh, sam
+zeh, sam
+Čeh, sam
+nasmeh, sam
+neuspeh, sam
+pleh, sam
+posmeh, sam
+špeh, sam
+uspeh, sam
+keh (keha), sam
+podstreh (podstreha), sam
+pregreh (pregreha), sam
+streh (streha), sam
+uteh (uteha), sam
 
 # ej
+ajej, medm
+fej, medm
+primej, medm
+apogej, sam
+didžej, sam
+doslej, pris
+dotlej, pris
+ej, medm
+esej, sam
+farizej, sam
+gej, sam
+brej (breja), prid
+glej (gledati), glag
+hej, medm
+jubilej, sam
+juhej, medm
+kolosej, sam
+lej, medm
+licej, sam
+linolej, sam
+maloprej, pris
+mavzolej, sam
+muzej, sam
+naprej, pris
+obsorej, pris
+odslej, pris
+odtlej, pris
+ojej, medm
+okej, prid
+poprej, pris
+precej, pris
+prej, pris
+slej, pris
+prometej, sam
+skarabej, sam
+sprej, sam
+vnaprej, pris
+volej, sam
+alej (aleja), sam
+epopej (epopeja), sam
+galej (galeja), sam
+gvinej (gvineja), sam
+idej (ideja), sam
+livrej (livreja), sam
+mej (meja), sam
+mošej (mošeja), sam
+odej (odeja), sam
+odisej (odiseja), sam
+trofej (trofeja), sam
+turnej (turneja), sam
+vej (veja), sam
+verej (vereja), sam
 
 # ek
+ček, sam
+jek, sam
+lek, sam
+navprek, pris
+pamtivek, sam
+pek, sam
+picopek, sam
+povprek, pris
+pravek, sam
+rek, sam
+tek, sam
+vek, sam
+vsevprek, pris
+cvek, sam
+drek, sam
+drvosek, sam
+glavosek, sam
+golosek, sam
+izrek, sam
+izsek, sam
+kamnosek, sam
+narek, sam
+novorek, sam
+odsek, sam
+presek, sam
+pretek, sam
+pucflek, sam
+sek, medm
+zarek, sam
+datotek (datoteka), sam
+dek (deka), sam
+diskotek (diskoteka), sam
+filmotek (filmoteka), sam
+hipotek (hipoteka), sam
+kartotek (kartoteka), sam
+kinotek (kinoteka), sam
+mediatek (mediateka), sam
+oblek (obleka), sam
+opek (opeka), sam
+osek (oseka), sam
+pokvek (pokveka), sam
+preoblek (preobleka), sam
+prevlek (prevleka), sam
+rek (reka), sam
+smrek (smreka), sam
+vek (veka), sam
+vinotek (vinoteka), sam
 
 # el
+akvarel, sam
+apel, sam
+bešamel, sam
+bordel, sam
+decibel, sam
+fotomodel, sam
+gel, sam
+hotel, sam
+kapitel, sam
+kartel, sam
+kaštel, sam
+kopel, sam
+model, sam
+motel, sam
+obstrel, sam
+odstrel, sam
+panel, sam
+pastel, sam
+predel, sam
+razstrel, sam
+samostrel, sam
+skalpel, sam
+strel, sam
+smel, prid
+španjel, sam
+šrapnel, sam
+tunel, sam
+zel, sam
+sel, sam
+del (delo), sam
+krdel (krdelo), sam
+krepel (krepelo), sam
+načel (načelo), sam
+omel (omelo), sam
+razpel (razpelo), sam
+žrel (žrelo), sam
 
 # elj
+fotelj, sam
+hmelj, sam
+melj, sam
+portfelj, sam
+zategadelj, pris
+nedelj (nedelja), sam
+paelj (paelja), sam
+želj (želja), sam
 
 # em
+boem, sam
+diadem, sam
+džem, sam
+ekosistem, sam
+ekstrem, sam
+emblem, sam
+frazem, sam
+gluhonem, prid
+leksem, sam
+medtem, pris
+nem, prid
+potem, pris
+prem, prid
+problem, sam
+sistem, sam
+šlem, sam
+tandem, sam
+tem, zaim
+vtem, pris
+teorem, sam
+zatem, pris
+najem, sam
+objem, sam
+odjem, sam
+odvzem, sam
+oprijem, sam
+povsem, pris
+predvsem, člen
+prejem, sam
+prevzem, sam
+prijem, sam
+sem, pris
+sprejem, sam
+zajem, sam
+anatem (anatema), sam
+dilem (dilema), sam
+izjem (izjema), sam
+krem (krema), sam
+lem (lema), sam
+krizantem (krizantema), sam
+shem (shema), sam
+šem (šema), sam
 
 # en
+alergen, sam
+apnen, prid
+bakren, prid
+bazen, sam
+cenen, prid
+cerkven, prid
+člen, sam
+cukren, prid
+dragocen, prid
+drven, prid
+estrogen, sam
+erogen, prid
+fen, sam
+fenomen, sam
+gen, sam
+glen, sam
+glinen, prid
+gluten, sam
+golen, sam
+greben, sam
+grlen, prid
+halogen, prid
+hidrogen, prid
+homogen, prid
+iskren, prid
+jeklen, prid
+jesen, sam
+kamen, prid
+klen, prid
+koren, sam
+koščen, prid
+kreten, sam
+krznen, prid
+lanen, prid
+leden, prid
+len, prid
+lesen, prid
+lončen, prid
+maslen, prid
+mecen, sam
+meden, prid
+meglen, prid
+mesen, prid
+neiskren, prid
+njen, zaim
+ognjen, prid
+ovsen, prid
+patogen, prid
+peščen, prid
+platnen, prid
+plen, sam
+plemen (pleme), sam
+polten, prid
+prosen, prid
+prsten, prid
+ržen, prid
+saten, sam
+shizofren, prid
+snežen, prid
+steklen, prid
+strupen, prid
+stržen, sam
+suknen, prid
+suveren, prid
+svilen, prid
+svinčen, prid
+teren, sam
+usnjen, prid
+voden, prid
+volnen, prid
+voščen, prid
+zelen, prid
+zen, sam
+žveplen, prid
+anten (antena), sam
+aren (arena), sam
+cen (cena), sam
+domen (domena), sam
+izmen (izmena), sam
+hijen (hijena), sam
+kopren (koprena), sam
+mren (mrena), sam
+ocen (ocena), sam
+premen (premena), sam
+scen (scena), sam
+siren (sirena), sam
+sten (stena), sam
+štren (štrena), sam
+ven (vena), sam
+žen (žena), sam
+kolen (koleno), sam
+polen (poleno), sam
+vreten (vreteno), sam
+blagoslovljen, prid
+čaščen, prid
+deljen, prid
+dobljen, prid
+dodeljen, prid
+dogovorjen, prid
+dopuščen, prid
+dovršen, prid
+dorečen, prid
+dren, sam
+dušen, prid
+en, štev
+edinorojen, prid
+gašen, prid
+gojen, prid
+govorjen, prid
+hlajen, prid
+hren, sam
+izgovorjen, prid
+izgubljen, prid
+izplen, sam
+izpuščen, prid
+izrečen, prid
+izročen, prid
+izstreljen, prid
+izsušen, prid
+izučen, prid
+izveden, prid
+izvršen, prid
+kaljen, prid
+klen, prid
+krone, prid
+mrtvorojen, prid
+nadgrajen, prid
+nadomeščen, prid
+nadrejen, prid
+naglašen, prid
+nadrobljen, prid
+nagrajen, prid
+naložen, prid
+namen, sam
+nameščen, prid
+nanesen, prid
+naostren, prid
+napojen, prid
+narejen, prid
+naročen, prid
+nasajen, prid
+naslovljen, prid
+nasoljen, prid
+naučen, prid
+naveden, prid
+navzven, pris
+nebogljen, prid
+nehoten, prid
+neizrečen, prid
+neobremenjen, prid
+neomejen, prid
+nepošten, prid
+neskaljen, prid
+nespremenjen, prid
+neurejen, prid
+neuvrščen, prid
+nezaposlen, prid
+nezaželen, prid
+noben, zaim
+novorojen, prid
+novopečen, prid
+obložen, prid
+obnovljen, prid
+obogaten, prid
+oborožen, prid
+obrazložen, prid
+obremenjen, prid
+obtežen, prid
+obveščen, prid
+oddrobljen, prid
+odebeljen, prid
+odložen, prid
+odmašen, prid
+odnesen, prid
+odobren, prid
+odpuščen, prid
+odrejen, prid
+odstreljen, prid
+odtujen, prid
+odveden, prid
+ogovorjen, prid
+ograjen, prid
+ohlajen, prid
+ohromljen, prid
+okajen, prid
+okrašen, prid
+okrepljen, prid
+omejen, prid
+opečen, prid
+oplojen, prid
+opozorjen, prid
+oprašen, prid
+opredeljen, prid
+oproščen, prid
+opuščen, prid
+oslabljen, prid
+oslepljen, prid
+osmojen, prid
+osramočen, prid
+osvetljen, prid
+osvežen, prid
+osvobojen, prid
+osvojen, prid
+otečen, prid
+otežen, prid
+ozemljen, prid
+pečen, prid
+počaščen, prid
+podeljen, prid
+podhlajen, prid
+podložen, prid
+podnaslovljen, prid
+podojen, prid
+podrejen, prid
+podučen, prid
+podvojen, prid
+poglobljen, prid
+pogojen, prid
+pogubljen, prid
+pokajen, prid
+pokošen, prid
+položen, prid
+pomen, sam
+pomnožen, prid
+ponarejen, prid
+pooblaščen, prid
+poostren, prid
+porazdeljen, prid
+poročen, prid
+posmojen, prid
+posoljen, prid
+posrebren, prid
+posušen, prid
+posvečen, prid
+posvojen, prid
+pošten, prid
+potešen, prid
+potopljen, prid
+poučen, prid
+pozlačen, prid
+prebujen, prid
+predložen, prid
+preložen, prid
+premeščen, prid
+premeten, prid
+prenesen, prid
+preobložen, prid
+preobremenjen, prid
+prepečen, prid
+prepleten, prid
+prepojen, prid
+prepoten, prid
+prepolovljen, prid
+prepuščen, prid
+prerojen, prid
+presajen, prid
+preskrbljen, prid
+presušen, prid
+presvetljen, prid
+pretečen, prid
+pretepen, prid
+preurejen, prid
+preveden, prid
+prevetren, prid
+prevzgojen, prid
+preznojen, prid
+pričvrščen, prid
+pridobljen, prid
+priglašen, prid
+prilagojen, prid
+prikrojen, prid
+priložen, prid
+prinesen, prid
+priostren, prid
+pripojen, prid
+priporočen, prid
+prirejen, prid
+prizanesen, prid
+prizemljen, prid
+prizven, sam
+prizveden, prid
+prvorojen, prid
+puščen, prid
+razbolen, prid
+razbremenjen, prid
+razdeljen, prid
+razdvojen, prid
+razložen, prid
+razmnožen, prid
+raznesen, prid
+razorožen, prid
+razpleten, prid
+razpolovljen, prid
+razpoložen, prid
+razporejen, prid
+razposajen, prid
+razpršen, prid
+razpuščen, prid
+razsvetljen, prid
+raztopljen, prid
+razvejen, prid
+razvrščen, prid
+razžaloščen, prid
+rejen, prid
+rumen, prid
+samonamen, sam
+samozaposlen, sam
+sen, sam
+skaljen, prid
+skoten, prid
+soljen, prid
+sleporojen, prid
+spečen, prid
+spleten, prid
+spokorjen, prid
+spregovorjen, prid
+spremenjen, prid
+sproščen, prid
+spuščen, prid
+sršen, sam
+staljen, prid
+stopljen, prid
+storjen, prid
+sušen, prid
+tepen, prid
+tren, sam
+učen, prid
+uglašen, prid
+ugonobljen, prid
+ugotovljen, prid
+ukročen, prid
+ulovljen, prid
+umeščen, prid
+umorjen, prid
+unesen, prid
+upepeljen, prid
+upokojen, prid
+urejen, prid
+usklajen, prid
+usmrčen, prid
+ustaljen, prid
+ustanovljen, prid
+ustreljen, prid
+ustrojen, prid
+usvojen, prid
+utečen, prid
+utemeljen, prid
+utesnjen, prid
+utopljen, prid
+uvrščen, prid
+ven, pris
+vgrajen, prid
+vložen, prid
+vpleten, prid
+vzgojen, prid
+vznesen, prid
+vzrejen, prid
+zadolžen, prid
+zadoščen, prid
+zadušen, prid
+zagotovljen, prid
+zagrajen, prid
+zakasnjen, prid
+zamašen, prid
+zamegljen, prid
+zamujen, prid
+zaostren, prid
+zapečen, prid
+zapleten, prid
+zaplojen, prid
+zaposlen, prid
+zapuščen, prid
+zasajen, prid
+zaskrbljen, prid
+zaslepljen, prid
+zasnežen, prid
+zastrupljen, prid
+zasvojen, prid
+zatajen, prid
+zatečen, prid
+zatemnjen, prid
+zatesnjen, prid
+zatežen, prid
+zatopljen, prid
+zaželen, prid
+zelen, prid
+zgoščen, prid
+zgrajen, prid
+zgrešen, prid
+zimzelen, prid
+zložen, prid
+zven, sam
+želen, prid
 
 # ep
-belorep
-brezrep
-cep
-dolgorep
-ep
-kačjerep
-lep
-slep
-srep
-step
-čep
-naklep
-odcep
-oklep
-počep
-pohlep
-potep
-precep
-pretep
-protiukrep
-razcep
-rep
-sklep
-šlep
-ukrep
-zaklep
-zatrep
-žep
+belorep, prid
+brezrep, prid
+cep, sam
+dolgorep, prid
+ep, sam
+kačjerep, sam
+lep, prid
+slep, prid
+srep, prid
+step, sam
+čep, sam
+naklep, sam
+odcep, sam
+oklep, sam
+počep, sam
+pohlep, sam
+potep, sam
+precep, sam
+pretep, sam
+protiukrep, sam
+razcep, sam
+rep, sam
+sklep, sam
+šlep, sam
+ukrep, sam
+zaklep, sam
+zatrep, sam
+žep, sam
+step (stepa), sam
 
 # er
+časomer, sam
+čer, sam
+daljinomer, sam
+globinomer, sam
+iver, sam
+podvečer, sam
+polmer, sam
+predvečer, sam
+premer, sam
+primer, sam
+smer, sam
+stožer, sam
+tlakomer, sam
+večer, sam
+vodomer, sam
+vetromer, sam
+višinomer, sam
+zvečer, pris
+zver, sam
+čeber, sam
+deber, sam
+dokler, vez
+kjer, pris
+sicer, vez
+steber, sam
+akter, sam
+akviziter, sam
+amater, sam
+amper, sam
+aranžer, sam
+betoner, sam
+buldožer, sam
+cvetožer, sam
+dezerter, sam
+distributer, sam
+frizer, sam
+financer, sam
+frižider, sam
+guverner, sam
+hardver, sam
+hazarder, sam
+hipnotizer, sam
+interier, sam
+kalorifer, sam
+karabinjer, sam
+kler, sam
+knjigožer, sam
+kolporter, sam
+ler, sam
+maser, sam
+masker, sam
+modeler, sam
+montažer, sam
+monter, sam
+operater, sam
+parter, sam
+pavzer, sam
+polimer, sam
+pozer, sam
+programer, sam
+rekorder, sam
+režiser, sam
+saboter, sam
+serviser, sam
+simpatizer, sam
+šminker, sam
+šofer, sam
+špediter, sam
+terier, sam
+transfer, sam
+trenažer, sam
+trener, sam
+vulkanizer, sam
+žongler, sam
+žurer, sam
+afer (afera), sam
+atmosfer (atmosfera), sam
+cmer (cmera), sam
+garsonjer (garsonjera), sam
+hemisfer (hemisfera), sam
+izmer (izmera), sam
+jer (jera), sam
+karier (kariera), sam
+mer (mera), sam
+namer (namera), sam
+premier (premiera), sam
+razmer (razmera), sam
+sfer (sfera), sam
+ver (vera), sam
+zamer (zamera), sam
 
 # es
+bes, sam
+dres, sam
+eksces, sam
+ekspres, sam
+kongres, sam
+kres, sam
+les, sam
+mrčes, sam
+ples, sam
+primes, sam
+proces, sam
+regres, sam
+res, člen
+samokres, sam
+stres, sam
+vmes, pris
+zares, člen
+zmes, sam
+interes, sam
+krvoses, sam
+pes, sam
+potres, sam
+pretres, sam
+ves, zaim
+es, sam
+des, sam
+ces, sam
+fes, sam
+hes, sam
+cipres (cipresa), sam
+delikates (delikatesa), sam
+fines (finesa), sam
+hostes (hostesa), sam
+les (lesa), sam
+nebes (nebesa), sam
+princes (princesa), sam
+stevardes (stevardesa), sam
+šabes (šabesa), sam
+zaves (zavesa), sam
 
 # eš
+fleš, sam
+leš, sam
+peš, sam
+češ, člen
+keš, sam
+depeš (depeša), sam
+pleš (pleša), sam
+preš (preša), sam
+greš (iti), glag
+veš (vedeti), glag
+prispeš (prispeti), glag
+vtreš (vtreti), glag
+izveš (izvedeti), glag
+odpreš (odpreti), glag
+otmeš (oteti), glag
+poveš (povedati), glag
+pripreš (pripreti), glag
+zaveš (zavedeti se), glag
+ješ (jesti), glag
 
 # et
+amulet, sam
+analfabet, sam
+apologet, sam
+asket, sam
+atlet, sam
+avtoportret, sam
+bajonet, sam
+balet, sam
+banket, sam
+baret, sam
+bosopet, prid
+briket, sam
+cvet, sam
+dekret, sam
+deset, štev
+devet, štev
+doživet, prid
+duet, sam
+estet, sam
+falzet, sam
+internet, sam
+interpret, sam
+intranet, sam
+izpet, prid
+izvzet, prid
+izžet, prid
+kabaret, sam
+kabinet, sam
+kadet, sam
+katehet, sam
+klarinet, sam
+klet, sam
+klozet, sam
+komet, sam
+komplet, sam
+kornet, sam
+korzet, sam
+kotlet, sam
+kroket, sam
+kuplet, sam
+kvartet, sam
+kvintet, sam
+magnet, sam
+načet, prid
+nadet, prid
+najet, prid
+napet, prid
+nedoživet, prid
+neprizadet, prid
+odet, prid
+odvzet, prid
+oktet, sam
+otet, prid
+ožet, prid
+paket, sam
+pamflet, sam
+parket, sam
+pet, štev
+planet, sam
+poet, sam
+pogret, prid
+portret, sam
+posnet, prid
+prejet, prid
+preklet, prid
+prenapet, prid
+preplet, sam
+presnet, prid
+prevzet, prid
+preživet, prid
+pripet, prid
+prizadet, prid
+razgret, prid
+razpet, prid
+razživet, prid
+sekret, sam
+servet, sam
+set, sam
+skelet, sam
+smet, sam
+snet, sam
+sonet, sam
+sorbet, sam
+Sovjet, sam
+spet, pris
+spet, prid
+spočet, prid
+sprejet, prid
+svet, sam
+ujet, prid
+uklet, prid
+verzet, sam
+vnet, prid
+vpet, prid
+vštet, prid
+vzmet, sam
+zadet, prid
+zagret, prid
+zajet, prid
+zaklet, prid
+zapet, prid
+zavzet, prid
+zmlet, prid
+avtopromet, sam
+bet, sam
+domet, sam
+drget, sam
+izlet, sam
+klepet, sam
+kmet, sam
+let, sam
+met, sam
+minomet, sam
+nalet, sam
+namet, sam
+nasvet, sam
+nogomet, sam
+obet, sam
+ognjemet, sam
+okret, sam
+omet, sam
+plamenomet, sam
+pokret, sam
+polet, sam
+posvet, sam
+prelet, sam
+premet, sam
+preplet, sam
+promet, sam
+raketomet, sam
+razcvet, sam
+razplet, sam
+rezget, sam
+rokomet, sam
+splet, sam
+šepet, sam
+trepet, sam
+vodomet, sam
+vzlet, sam
+zalet, sam
+zamet, sam
+zaplet, sam
+zet, sam
+žaromet, sam
+žvenket, sam
+anket (anketa), sam
+anuitet (anuiteta), sam
+baget (bageta), sam
+beret (bereta), sam
+bombet (bombeta), sam
+bonitet (boniteta), sam
+čet (četa), sam
+cigaret (cigareta), sam
+diet (dieta), sam
+disket (disketa), sam
+entitet (entiteta), sam
+etiket (etiketa), sam
+fakultet (fakulteta), sam
+identitet (identiteta), sam
+imunitet (imuniteta), sam
+kapacitet (kapaciteta), sam
+kaset (kaseta), sam
+klafet (klafeta), sam
+katet (kateta), sam
+klevet (kleveta), sam
+kvalitet (kvaliteta), sam
+maket (maketa), sam
+manšet (manšeta), sam
+marionet (marioneta), sam
+novitet (noviteta), sam
+omlet (omleta), sam
+operet (opereta), sam
+palet (paleta), sam
+pet (peta), sam
+plaket (plaketa), sam
+piruet (pirueta), sam
+prioritet (prioriteta), sam
+raket (raketa), sam
+silhuet (silhueta), sam
+specialitet (specialiteta), sam
+striptizet (striptizeta), sam
+štafet (štafeta), sam
+tablet (tableta), sam
+tapet (tapeta), sam
+tet (teta), sam
+toalet (toaleta), sam
+tonalitet (tonaliteta), sam
+valet (valeta), sam
+vinjet (vinjeta), sam
+dlet (dleto), sam
+let (leto), sam
+
 
 # ev
+cev, sam
+gnev, sam
+hlev, sam
+lev, sam
+napošev, pris
+sev, sam
+zev, sam
+bev, medm
+hvalospev, sam
+nadev, sam
+napev, sam
+odmev, sam
+odsev, sam
+poštev, sam
+presev, sam
+samospev, sam
+slavospev, sam
+spev, sam
+bel, prid
+cel, prid
+debel, prid
+del, sam
+globel, sam
+neuspel, prid
+nezrel, prid
+ovel, prid
+pepel, sam
+plevel, sam
+uvel, prid
+večidel, člen
+vesel, prid
+vrel, prid
+vrzel, sam
+zablodel, prid
+zadel (zadeti), glag
+zaletel (zaleteti se), glag
+zapoznel, prid
+zrel, prid
+zavel (zaveti), glag
+napel (napeti), glag
+posnel (posneti), glag
+zapel (zapeti), glag
+imel (imeti), glag
+odšel (oditi), glag
+dospel (dospeti), glag
+porumenel (porumeneti), glag
+pozelenel (pozeleneti), glag
+porčnel (porčneti), glag
+pomodrel (pomodreti), glag
+zdel (zdeti se), glag
+počel (početi), glag
+prijel (prijeti), glag
+prišel (priti), glag
+prispel (prispeti), glag
+povzel (povzeti), glag
+načel (načeti), glag
 
 # ez
 
