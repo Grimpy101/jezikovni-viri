@@ -2857,6 +2857,290 @@ rež (reža), sam
 tež (teža), sam
 vež (veža), sam
 
+# i
+či, sam
+čri, medm
+etui, sam
+hči, sam
+hojladri, medm
+kikiriki, medm
+kri, sam
+kroki, sam
+meni, sam
+mi, zaim
+pi, sam
+remi, sam
+sani, sam
+ti, zaim
+vi, zaim
+preti (pretiti), glag
+oči (oko), sam
+boli (boleti), glag
+kosti (kost), sam
+zdani (zdaniti se), glag
+čemi (čemeti), glag
+čepi (čepeti), glag
+drvi (drveti), glag
+čeri (čer), sam
+brvi (brv), sam
+brenči (brenčati), glag
+besni (besneti), glag
+bedi (bedeti), glag
+buči (bučati), glag
+buhti (buhteti), glag
+bori (boriti se), glag
+blešči (bleščati se), glag
+boji (bati se), glag
+cedi (cediti se), glag
+cevi (cev), sam
+diši (dišati), glag
+dehti (dehteti), glag
+zadosti (zadostiti), glag
+
+# ib
+gib, sam
+hrib, sam
+izogib, sam
+nagib, sam
+pregib, sam
+ugib, sam
+vzgib, sam
+zgib, sam
+hib (hiba), sam
+kolib (koliba), sam
+rib (riba), sam
+šib (šiba), sam
+
+# ic
+hospic, sam
+indic, sam
+klic, sam
+možic, sam
+navzlic, pris
+odpoklic, sam
+poklic, sam
+preklic, sam
+sklic, sam
+stric, sam
+škric, sam
+šlic, sam
+vic, sam
+vnic, pris
+vpoklic, sam
+vštric, pris
+vzlic, pred
+zic, sam
+betic (betica), sam
+bleščic (bleščica), sam
+bodic (bodica), sam
+bolnic (bolnica), sam
+bradavic (bradavica), sam
+borovnic (borovnica), sam
+brzic (brzica), sam
+cesaric (cesarica), sam
+cvetic (cvetica), sam
+cvetlic (cvetlica), sam
+daljic (daljica), sam
+desetic (desetica), sam
+desnic (desnica), sam
+devic (devica), sam
+dolžnic (dolžnica), sam
+družic (družica), sam
+dvojic (dvojica), sam
+enic (enica), sam
+golobic (golobica), sam
+goric (gorica), sam
+gospodaric (gospodarica), sam
+govoric (govorica), sam
+grofic (grofica), sam
+hrbtenic (hrbtenica), sam
+jeklenic (jeklenica), sam
+jerebic (jerebica), sam
+jetnic (jetnica), sam
+ježic (ježica), sam
+kapric (kaprica), sam
+kmetic (kmetica), sam
+končnic (končnica), sam
+konic (konica), sam
+konjenic (konjenica), sam
+kopic (kopica), sam
+kosic (kosica), sam
+koščic (koščica), sam
+košenic (košenica), sam
+kozic (kozica), sam
+kraljic (kraljica), sam
+krasotic (krasotica), sam
+kratic (kratica), sam
+krčmaric (krčmarica), sam
+kresnic (kresnica), sam
+krivic (krivica), sam
+krnic (krnica), sam
+krvnic (krvnica), sam
+lastnic (lastnica), sam
+ledenic (ledenica), sam
+ledvic (ledvica), sam
+lepotic (lepotica), sam
+levic (levica), sam
+lisic (lisica), sam
+ločnic (ločnica), sam
+meglic (meglica), sam
+mejnic (mejnica), sam
+menic (menica), sam
+mesaric (mesarica), sam
+mesnic (mesnica), sam
+modric (modrica), sam
+mučenic (mučenica), sam
+mušic (mušica), sam
+naročnic (naročnica), sam
+nogavic (nogavica), sam
+novic (novica), sam
+nožic (nožica), sam
+ovčic (ovčica), sam
+pasic (pasica), sam
+pastiric (pastirica), sam
+pečic (pečica), sam
+peric (perica), sam
+pic (pica), sam
+plamenic (plamenica), sam
+platnic (platnica), sam
+polic (polica), sam
+polovic (polovica), sam
+pomočnic (pomočnica), sam
+potic (potica), sam
+prasic (prasica), sam
+pravic (pravica), sam
+ptic (ptica), sam
+ravnic (ravnica), sam
+resnic (resnica), sam
+ročic (ročica), sam
+rokavic (rokavica), sam
+samic (samica), sam
+sinic (sinica), sam
+skic (skica), sam
+skrbnic (skrbnica), sam
+sladic (sladica), sam
+slaščic (slaščica), sam
+sodnic (sodnica), sam
+spomenic (spomenica), sam
+sredic (sredica), sam
+steklenic (steklenica), sam
+stenic (stenica), sam
+stezic (stezica), sam
+stopnic (stopnica), sam
+stranic (stranica), sam
+svetnic (svetnica), sam
+škratic (škratica), sam
+špic (špica), sam
+tančic (tančic), sam
+tatic (tatica), sam
+telic (telica), sam
+temnic (temnica), sam
+toplic (toplica), sam
+tovarišic (tovarišica), sam
+veselic (veselica), sam
+vladaric (vladarica), sam
+vodnic (vodnica), sam
+voznic (voznica), sam
+vrstic (vrstica), sam
+vrstnic (vrstnica), sam
+zdravnic (zdravnica), sam
+zelenic (zelenica), sam
+zlatic (zlatica), sam
+žic (žica), sam
+žebljic (žebljica), sam
+žlic (žlica), sam
+žrebic (žrebica), sam
+
+# id
+arašid, sam
+asteroid, sam
+druid, sam
+dioksid, sam
+hibrid, sam
+insekticid, sam
+invalid, sam
+izid, sam
+izvid, sam
+pesticid, sam
+polaroid, sam
+prid, sam
+privid, sam
+spid, sam
+tabloid, sam
+tvid, sam
+uvid, sam
+vid, sam
+vsevid, sam
+zemljevid, sam
+zid, sam
+žid, sam
+gnid (gnida), sam
+piramid (piramida), sam
+sinusoid (sinusoida), sam
+robid (robida), sam
+rid (rida), sam
+
+# if
+hieroglif, sam
+hipogrif, sam
+kalif, sam
+mastif, sam
+snif, sam
+tartif, sam
+hif (hifa), sam
+tarif (tarifa), sam
+
+# ig
+dvig, sam
+mig, sam
+namig, sam
+ožig, sam
+podvig, sam
+požig, sam
+prižig, sam
+samovžig, sam
+sežig, sam
+skomig, sam
+žig, sam
+švig, medm
+fig (figa), sam
+knjig (knjiga), sam
+lig (liga), sam
+ostrig (ostriga), sam
+strig (striga), sam
+štrig (štriga), sam
+verig (veriga), sam
+
+# ih
+
+# ij
+
+# ik
+
+# il
+
+# ilj
+
+# im
+
+# in
+
+# ip
+
+# ir
+
+# is
+
+# iš
+
+# it
+
+# iv
+
+# iz
+
+# iž
+
 # o
 argo, sam
 biro, sam
