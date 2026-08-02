@@ -3112,16 +3112,304 @@ strig (striga), sam
 verig (veriga), sam
 
 # ih
+dih, sam
+izdih, sam
+kih, sam
+lih, prid
+menih, sam
+navdih, sam
+oddih, sam
+pih, sam
+prepih, sam
+pridih, sam
+stih, sam
+tih, prid
+vdih, sam
+vzdih, sam
+zavih, sam
+ačih, medm
+kih, medm
+štih, sam
+pavlih (pavliha), sam
+pretih, prid
+slih (sel), sam
+akrostih, sam
+njih (on), zaim
 
 # ij
+kij, sam
+lij, sam
+sij, sam
+akademij (akademija), sam
+alergij (alergija), sam
+aluzij (aluzija), sam
+analogij (analogija), sam
+anomalij (anomalija), sam
+arcnij (arcnija), sam
+avemarij (avemarija), sam
+barabij (barabija), sam
+baterij (baterija), sam
+bedarij (bedarija), sam
+bibliografij (bibliografija), sam
+čarovnij (čarovnija), sam
+coprnij (coprnija), sam
+čvekarij (čvekarija), sam
+dinastij (dinastija), sam
+divizij (divizija), sam
+domačij (domačija), sam
+elegij (elegija), sam
+emisij (emisija), sam
+epidemij (epidemija), sam
+fantazij (fantazija), sam
+fobij (fobija), sam
+fotografij (fotografija), sam
+galerij (galerija), sam
+galaksij (galaksija), sam
+garnizij (garnizija), sam
+gostij (gostija), sam
+grdobij (grdobija), sam
+grofij (grofija), sam
+harmonij (harmonija), sam
+hierarhij (hierarhij), sam
+hudobij (hudobija), sam
+ideologij (ideologija), sam
+iluzij (iluzija), sam
+industrij (industrija), sam
+invazij (invazija), sam
+kalorij (kalorija), sam
+kategorij (kategorija), sam
+kmetij (kmetija), sam
+kočij (kočija), sam
+kolonij (kolonija), sam
+komisij (komisija), sam
+kompanij (kompanija), sam
+koncesij (koncesija), sam
+kovačij (kovačija), sam
+kronologij (kronologija), sam
+kupčij (kupčija), sam
+lobotomij (lobotomija), sam
+loterij (loterija), sam
+melodij (melodija), sam
+menažerij (menažerija), sam
+mesarij (mesarija), sam
+misij (misija), sam
+monarhij (monarhija), sam
+morij (morija), sam
+norčij (norčija), sam
+opatij (opatija), sam
+oslarij (oslarija), sam
+oštarij (oštarija), sam
+packarij (packarija), sam
+parodij (parodija), sam
+partij (partija), sam
+peripetij (peripetija), sam
+picerij (picerija), sam
+pizdarij (pizdarija), sam
+podrtij (podrtija), sam
+polomij (polomija), sam
+požrtij (požrtija), sam
+prismodarij (prismodarija), sam
+rapsodij (rapsodija), sam
+razprtij (razprtija), sam
+recesij (recesija), sam
+revij (revija), sam
+revizij (revizija), sam
+simfonij (simfonija), sam
+sleparij (sleparija), sam
+strategij (strategija), sam
+svinjarij (svinjarija), sam
+škofij (škofija), sam
+tehnologij (tehnologija), sam
+televizij (televizija), sam
+teorij (teorija), sam
+terapij (terapija), sam
+traparij (traparija), sam
+trilogij (trilogija), sam
+umetnij (umetnija), sam
+vizij (vizija), sam
+zoprnij (zoprnija), sam
+žaluzij (žaluzija), sam
+župnij (župnija), sam
 
 # ik
+bolnik, sam
+branik, sam
+butik, sam
+brodnik, sam
+cenik, sam
+čik, sam
+dežnik, sam
+dolžnik, sam
+dotik, sam
+glasnik, sam
+glavnik, sam
+gradnik, sam
+hodnik, sam
+imenik, sam
+izmik, sam
+jetnik, sam
+kisik, sam
+klik, sam
+konjenik, sam
+kresnik, sam
+krik, sam
+krvnik, sam
+kubik, sam
+lastnik, sam
+ledenik, sam
+lik, sam
+malik, sam
+mejnik, sam
+mežik, sam
+mozaik, sam
+mučenik, sam
+nalik, pred
+naročnik, sam
+navpik, pris
+obrtnik, sam
+odmik, sam
+ogljik, sam
+ognjenik, sam
+oskrbnik, sam
+ostnik, sam
+pik, sam
+plačnik, sam
+pomik, sam
+pomočnik, sam
+premik, sam
+razmik, sam
+razsodnik, sam
+rejnik, sam
+rik, sam
+robnik, sam
+skovik, sam
+skrbnik, sam
+slanik, sam
+smodnik, sam
+sodnik, sam
+spomenik, sam
+spovednik, sam
+srebrnik, sam
+stik, sam
+svečenik, sam
+svetnik, sam
+šik, prid
+špik, sam
+tik, pris
+trik, sam
+umik, sam
+urednik, sam
+vidik, sam
+vodik, sam
+vodnik, sam
+voznik, sam
+vrstnik, sam
+vzklik, sam
+zakonik, sam
+založnik, sam
+zamik, sam
+zapik, sam
+zdravnik, sam
+zlatnik, sam
+zobnik, sam
+zvonik, sam
+zvodnik, sam
+žrtvenik, sam
+bik, sam
+sik, medm
+štrik, sam
+bodik (bodika), sam
+korenik (korenika), sam
+lovorik (lovorika), sam
+matrik (matrika), sam
+mladik (mladika), sam
+motik (motika), sam
+nalik (nalika), sam
+oblik (oblika), sam
+odlik (odlika), sam
+pik (pika), sam
+razlik (razlika), sam
+replik (replika), sam
+rubrik (rubrika), sam
+sadik (sadika), sam
+slik (slika), sam
+srčik (srčika), sam
+trafik (trafika), sam
+trstik (trstika), sam
+zelenik (zelenika), sam
 
 # il
+april, sam
+avdiofil, sam
+avtomobil, sam
+azil, sam
+bacil, sam
+bibliofil, sam
+čil, prid
+civil, sam
+debil, sam
+domicil, sam
+filmofil, sam
+fosil, sam
+kolorofil, sam
+krokodil, sam
+lahkokril, prid
+ljudomil, prid
+mil, prid
+polivinil, sam
+profil, sam
+projektil, sam
+ringelšpil, sam
+stil, sam
+špil, sam
+tekstil, sam
+ventil, sam
+činčil (činčila), sam
+dil (dila), sam
+gomil (gomila), sam
+goril (gorila), sam
+idil (idila), sam
+kil (kila), sam
+kobil (kobila), sam
+pil (pila), sam
+rogovil (rogovila), sam
+sil (sila), sam
+vil (vila), sam
+žil (žila), sam
 
 # ilj
+cilj, sam
+vsevdilj, pris
+peteršilj, sam
+dojilj (dojilja), sam
+eskadrilj (eskadrilja), sam
+milj (milja), sam
+šivilj (šivilja), sam
+špilj (špilja), sam
+tortilj (tortilja), sam
 
 # im
+akronim, sam
+anonim, sam
+čim, pris
+dočim, vez
+encim, sam
+psevdonim, sam
+režim, sam
+sinonim, sam
+Rim, sam
+tim, sam
+dim, sam
+maksim (maksima), sam
+rim (rima), sam
+zim (zima), sam
+dobim (dobiti), glag
+ukrotim (ukrotiti), glag
+njim (on), zaim
+prehitim (prehiteti), glag
+storim (storiti), glag
+naredim (narediti), glag
+stopim (stopiti), glag
 
 # in
 
