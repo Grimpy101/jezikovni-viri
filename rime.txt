@@ -2791,7 +2791,7 @@ odšel (oditi), glag
 dospel (dospeti), glag
 porumenel (porumeneti), glag
 pozelenel (pozeleneti), glag
-porčnel (porčneti), glag
+počrnel (porčneti), glag
 pomodrel (pomodreti), glag
 zdel (zdeti se), glag
 počel (početi), glag
@@ -2800,233 +2800,960 @@ prišel (priti), glag
 prispel (prispeti), glag
 povzel (povzeti), glag
 načel (načeti), glag
+povzpel (povzpeti se), glag
+vzletel (vzleteti), glag
+letel (leteti), glag
+pripel (pripeti), glag
 
 # ez
+čez, pris
+grez, sam
+jez, sam
+knez, sam
+knjigovez, sam
+mitraljez, sam
+počez, pris
+rez, sam
+trapez, sam
+vez, sam
+izrez, sam
+kamnorez, sam
+glavorez, sam
+prerez, sam
+privez, sam
+entitez (antiteza), sam
+brez (breza), sam
+derez (dereza), sam
+genez (geneza), sam
+hipotez (hipoteza), sam
+histerez (histereza), sam
+irokez (irokeza), sam
+kontrapez (kontrapeza), sam
+obvez (obveza), sam
+odvez (odveza), sam
+potez (poteza), sam
+pretvez (pretveza), sam
+prevez (preveza), sam
+protez (proteza), sam
+sintez (sinteza), sam
+stez (steza), sam
+tez (teza), sam
+vez (veza), sam
+zarez (zareza), sam
+zavez (zaveza), sam
+zvez (zveza), sam
+žlez (žleza), sam
 
 # ež
+jež, sam
+protiutež, sam
+srež, sam
+svež, sam
+utež, sam
+dež, sam
+mrež (mreža), sam
+než (neža), sam
+rež (reža), sam
+tež (teža), sam
+vež (veža), sam
 
 # o
-argo
-biro
-bistro
-blago
-bordo
-celo
-črevo
-depo
-drevo
-glasno
-go
-grdo
-grenko
-halo
-hudo
-kako
-kdo
-kolo
-krepko
-lahko
-lepo
-malokdo
-marsikdo
-meso
-metro
-močno
-najsibo
-nato
-nebo
-nekdo
-nivo
-oho
-oko
-pano
-pero
-plato
-proso
-protitelo
-redkokdo
-ringlo
-rolo
-rokoko
-rondo
-samo
-seno
-skiro
-slabo
-slovo
-srebro
-sto
-svetlo
-tablo
-tako
-telo
-tesno
-teso
-težko
-toplo
-trdo
-uho
-zapovrstjo
-zato
-zelo
-zlato
-dno
-hoho
-no
-zlo
-njo
-temo
+argo, sam
+biro, sam
+bistro, sam
+blago, sam
+bordo, sam
+celo, člen
+črevo, sam
+depo, sam
+drevo, sam
+glasno, pris
+go, sam
+grdo, pris
+grenko, pris
+halo, sam
+hudo, pris
+kako, pris
+kdo, zaim
+kolo, sam
+krepko, pris
+lahko, pris
+lepo, pris
+malokdo, zaim
+marsikdo, zaim
+meso, sam
+metro, sam
+močno, pris
+najsibo, vez
+nato, pris
+nebo, sam
+nekdo, zaim
+nivo, sam
+oho, medm
+oko, sam
+pano, sam
+pero, sam
+plato, sam
+proso, sam
+protitelo, sam
+redkokdo, zaim
+ringlo, sam
+rolo, sam
+rokoko, sam
+rondo, sam
+samo, člen
+seno, sam
+skiro, sam
+slabo, pris
+slovo, sam
+srebro, sam
+sto, štev
+svetlo, pris
+tablo, sam
+tako, pris
+telo, sam
+tesno, pris
+testo, sam
+težko, pris
+toplo, pris
+trdo, pris
+uho, sam
+zapovrstjo, pris
+zato, pris
+zelo, pris
+zlato, sam
+dno, sam
+hoho, medm
+no, medm
+zlo, sam
+njo (ona), zaim
+temo (tema), sam
+gospo (gospa), sam
+dlanjo (dlan), sam
 
 # ob
-zob
-gob
-rob
-grob
-škrob
-otrob
-gnilob
-belozob
-bob
-dob
-dolgozob
-drob
-enakorob
-golob
-lob
-odsihbod
-ostrorob
-ostrozob
-pob
-pregrob
-snob
-trizob
-zdrob
-garderob
-glob
-gnilob
-gob
-gnusob
-grdob
-grenkob
-hudob
-lenob
-maščob
-mehkob
-podob
-predsob
-sitnob
-samopodob
-sladkob
-sob
-svetlob
-šob
-tečnob
-tegob
-žlehtnob
+zob, sam
+rob, sam
+grob, sam
+škrob, sam
+otrob, sam
+belozob, prid
+bob, sam
+dob, sam
+dolgozob, prid
+drob, sam
+enakorob, prid
+golob, sam
+lob, sam
+ostrorob, prid
+ostrozob, prid
+pob, sam
+pregrob, prid
+snob, sam
+trizob, sam
+zdrob, sam
+garderob (garderoba), sam
+glob (globa), sam
+gnilob (gniloba), sam
+gob (goba), sam
+gnusob (gnusoba), sam
+grdob (grdoba), sam
+grenkob (grenkoba), sam
+hudob (hudoba), sam
+lenob (lenoba), sam
+maščob (maščoba), sam
+mehkob (mehkoba), sam
+podob (podoba), sam
+predsob (predsoba), sam
+sitnob (sitnoba), sam
+samopodob (samopodoba), sam
+sladkob (sladkoba), sam
+sob (soba), sam
+svetlob (svetloba), sam
+šob (šoba), sam
+tečnob (tečnoba), sam
+tegob (tegoba), sam
+žlehtnob (žlehtnoba), sam
+
+# oc
+froc, sam
+škloc, medm
+škartoc, sam
+
+# od
+brod, sam
+drugod, pris
+god, sam
+gospod, sam
+hlod, sam
+jod, sam
+kod, sam
+kod, pris
+labod, sam
+marsikod, pris
+plod, sam
+ponekod, pris
+povsod, pris
+prod, sam
+rapsod, sam
+rod, sam
+sod, sam
+tod, pris
+vsepovsod, pris
+velblod, sam
+cevovod, sam
+daljnovod, sam
+dovod, sam
+elektrovod, sam
+hod, sam
+izhod, sam
+izvod, sam
+jugovzhod, sam
+jugozahod, sam
+mimohod, sam
+nadhod, sam
+naftovod, sam
+obhod, sam
+obod, sam
+obvod, sam
+odhod, sam
+odvod, sam
+plinovod, sam
+pod, sam
+podhod, sam
+pohod, sam
+porod, sam
+povod, sam
+prehod, sam
+preporod, sam
+prerod, sam
+prevod, sam
+prihod, sam
+proizvod, sam
+razhod, sam
+razplod, sam
+severovzhod, sam
+severozahod, sam
+shod, sam
+sluhovod, sam
+sprehod, sam
+sprevod, sam
+strelovod, sam
+uvod, sam
+vbod, sam
+vhod, sam
+vodovod, sam
+vzhod, sam
+vzvod, sam
+zahod, sam
+elektrod (elektroda), sam
+epizod (epizoda), sam
+metod (metoda), sam
+nezgod (nezgoda), sam
+od (oda), sam
+oprod (oproda), sam
+period (perioda), sam
+posod (posoda), sam
+prigod (prigoda), sam
+prismod (prismoda), sam
+usod (usoda), sam
+vod (voda), sam
+zablod (zabloda), sam
+
+# of
+apostrof, sam
+filozof, sam
+štof, sam
+cof, sam
+grof, sam
+knof, sam
+krof, sam
+škof, sam
+tof, medm
+katastrof (katastrofa), sam
+zof (zofa), sam
+
+# og
+analog, sam
+arheolog, sam
+antropolog, sam
+biolog, sam
+bog, sam
+bosonog, prid
+brzonog, prid
+četveronog, prid
+delokrog, sam
+demagog, sam
+dialog, sam
+dolgonod, prid
+dolgorog, prid
+drog, sam
+ekolog, sam
+epilog, sam
+geolog, sam
+grog, sam
+golonog, prid
+ideolog, sam
+katalog, sam
+kozorog, sam
+kratkonog, prid
+krivonog, prid
+krog, sam
+lahkonog, prid
+lažibog, sam
+leponog, prid
+log, sam
+meteorolog, sam
+monolog, sam
+naokrog, pris
+muzikolog, sam
+nosorog, sam
+okrog, pris
+pedagog, sam
+polbog, sam
+polkrog, sam
+prestrog, prid
+prolog, sam
+psiholog, sam
+rog, sam
+samorog, sam
+skokonog, prid
+slog, sam
+smog, sam
+soprog, sam
+strog, prid
+tehnolog, sam
+teolog, sam
+tog, prid
+tokokrog, sam
+trinog, sam
+ubog, prid
+zlatorog, sam
+zemljekrog, sam
+žalibog, člen
+brlog, sam
+hot dog, sam
+odlog, sam
+polog, sam
+zlog, sam
+drog (droga), sam
+marog (maroga), sam
+nadlog (nadloga), sam
+nalog (naloga), sam
+nog (noga), sam
+oblog (obloga), sam
+ostrog (ostroga), sam
+podlog (podloga), sam
+predlog (predloga), sam
+preprog (preproga), sam
+prilog (priloga), sam
+prog (proga), sam
+sinagog (sinagoga), sam
+soprog (soproga), sam
+stonog (stonoga), sam
+tog (toga), sam
+vlog (vloga), sam
+zalog (zaloga), sam
+žog (žoga), sam
+
+# oh
+voh, sam
+nasploh, člen
+oh, medm
+ploh, sam
+sploh, člen
+epoh (epoha), sam
+ploh (ploha), sam
+soh (soha), sam
 
 # oj
-ahoj
-dvoj
-gnoj
-heroj
-hoj
-konvoj
-loj
-moj
-nocoj
-noj
-samosvoj
-stoj
-svoj
-takoj
-tvoj
-znoj
-boj
-broj
-dvoboj
-joj
-kroj
-naboj
-napoj
-navoj
-nebroj
-obstoj
-odboj
-oj
-ovoj
-poboj
-podboj
-pogoj
-poj
-postoj
-postroj
-povoj
-pozoj
-preboj
-predpogoj
-prejoj
-razkroj
-razvoj
-roj
-sestoj
-sloj
-soj
-spoj
-spokoj
-stroj
-uboj
-ustroj
-zaboj
-zastoj
-zavoj
-zapoj
-boj
-izposoj
-presoj
-vzgoj
-šoj
-menoj
+ahoj, medm
+gnoj, sam
+heroj, sam
+hoj, medm
+konvoj, sam
+loj, sam
+moj, zaim
+nocoj, pris
+noj, sam
+samosvoj, prid
+stoj (stati), glag
+svoj, zaim
+takoj, pris
+tvoj, zaim
+znoj, sam
+boj, sam
+broj, sam
+dvoboj, sam
+joj, medm
+kroj, sam
+naboj, sam
+napoj, sam
+navoj, sam
+nebroj, pris
+obstoj, sam
+odboj, sam
+oj, medm
+ovoj, sam
+poboj, sam
+podboj, sam
+pogoj, sam
+poj (peti), glag
+postoj (postati), glag
+postroj, sam
+povoj, sam
+pozoj, sam
+preboj, sam
+predpogoj, sam
+prejoj, medm
+razkroj, sam
+razvoj, sam
+roj, sam
+sestoj, sam
+sloj, sam
+soj, sam
+spoj, sam
+spokoj, sam
+stroj, sam
+uboj, sam
+ustroj, sam
+zaboj, sam
+zastoj, sam
+zavoj, sam
+zapoj (zapeti), glag
+boj (bati se), glag
+boj (boja), sam
+izposoj (izposoja), sam
+presoj (presoja), sam
+šoj (šoja), sam
+menoj, zaim
+
+# ok
+barok, sam
+bistrook, prid
+blok, sam
+bok, sam
+brezok, prid
+brezrok, prid
+črnook, prid
+diplodok, sam
+dok, sam
+dolgorok, prid
+drznook, prid
+elektrošok, sam
+enook, prid
+enorok, prid
+golorok, prid
+jok, sam
+kačjeok, prid
+križemrok, pris
+lok, sam
+njok, sam
+podzvok, sam
+rok, sam
+slavolok, sam
+slok, prid
+sok, sam
+sozvok, sam
+stok, sam
+šok, sam
+širokobok, prid
+tarok, sam
+tok, sam
+trdorok, prid
+trozvok, sam
+ultrazvok, sam
+veletok, sam
+vok, sam
+zvok, sam
+cmok, sam
+čmok, medm
+čok, sam
+doskok, sam
+globok, prid
+krogotok, sam
+krvolok, sam
+naskok, sam
+obok, sam
+obrok, sam
+obtok, sam
+odlok, sam
+odrok, sam
+odskok, sam
+odtok, sam
+odzvok, sam
+otrok, sam
+pok, sam
+poskok, sam
+preskok, sam
+pretok, sam
+pritok, sam
+prizvok, sam
+skok, sam
+stok, sam
+strok, sam
+širok, prid
+urok, sam
+vinotok, sam
+visok, prid
+vzrok, sam
+zatok, sam
+rok (roka), sam
+razpok (razpoka), sam
+artičok (artičoka), sam
+oporok (oporoka), sam
+pikapok (pikapoka), sam
+porok (poroka), sam
+zarok (zaroka), sam
+
+# ol
+alkohol, sam
+avtogol, sam
+bol, sam
+dol, sam
+etanol, sam
+gol, sam
+holesterol, sam
+idol, sam
+karambol, sam
+mentol, sam
+mol, sam
+monopol, sam
+parazol, sam
+pol, sam
+protokol, sam
+simbol, sam
+trol, sam
+glavobol, sam
+podmol, sam
+pokol, sam
+pomol, sam
+razkol, sam
+spodmol, sam
+spol, sam
+zakol, sam
+zobobol, sam
+banderol (banderola), sam
+bržol (bržola), sam
+kokakol (kokakola), sam
+karjol (karjola), sam
+karfijol (karfijola), sam
+kastrol (kastrola), sam
+kontrol (kontrola), sam
+konzol (konzola), sam
+parol (parola), sam
+pištol (pištola), sam
+pol (pola), sam
+rol (rola), sam
+šol (šola), sam
+trol (trola), sam
+vijol (vijola), sam
+
+# olj
+gomolj, sam
+mozolj, sam
+školj, sam
+bolj, pris
+dovolj, pris
+molj, sam
+zgolj, člen
+okolj (okolje), sam
+olj (olje), sam
+polj (polje), sam
+vesolj (vesolje), sam
+
+# om
+aksiom, sam
+astronom, sam
+atom, sam
+avtodom, sam
+bom (biti), glag
+dom, sam
+dvom, sam
+fantom, sam
+genom, sam
+idiom, sam
+karcinom, sam
+kondom, sam
+kromosom, sam
+majordom, sam
+metronom, sam
+polinom, sam
+palindrom, sam
+simptom, sam
+sindrom, sam
+tapisom, sam
+brodolom, sam
+grom, sam
+hrom, prid
+kamnolom, sam
+lom, sam
+pogrom, sam
+polom, sam
+prelom, sam
+rompompom, sam
+snegolom, sam
+som, sam
+vetrolom, sam
+vlom, sam
+vratolom, sam
+zakonolom, sam
+zlom, sam
+arom (aroma), sam
+diplom (diploma), sam
+kom (kdo), zaim
+nekom (nekdo), zaim
+tlom (tla), sam
+
+# on
+avion, sam
+balkon, sam
+avtohton, prid
+balon, sam
+baron, sam
+bataljon, sam
+beton, sam
+bilijon, sam
+bon, sam
+bonbon, sam
+bonton, sam
+ciklon, sam
+demon, sam
+domofon, sam
+elektron, sam
+eon, sam
+eskadron, sam
+feferon, sam
+feljton, sam
+flaškon, sam
+foton, sam
+galeon, sam
+gibon, sam
+grafikon, sam
+gramofon, sam
+grifon, sam
+hegemon, sam
+ion, sam
+kamion, sam
+kanjon, sam
+kanton, sam
+karton, sam
+keson, sam
+klon, sam
+kokon, sam
+kolofon, sam
+kombinezon, sam
+kompanjon, sam
+ksilofon, sam
+kujon, sam
+kupon, sam
+lampijon, sam
+lon, sam
+mačkon, sam
+magnetofon, sam
+majaron, sam
+maron, sam
+medaljon, sam
+megafon, sam
+mikrofon, sam
+milijon, sam
+misijon, sam
+monoton, prid
+nevron, sam
+ozon, sam
+pardon, medm
+pasijon, sam
+patron, sam
+paviljon, sam
+penzion, sam
+peron, sam
+piton, sam
+plafon, sam
+podton, sam
+poligon, sam
+rajon, sam
+salon, sam
+sifon, sam
+silikon, sam
+sinhron, prid
+šampinjon, sam
+šampion, sam
+šampon, sam
+šanson, sam
+škorpijon, sam
+špijon, sam
+talon, sam
+tampon, sam
+telefon, sam
+ton, sam
+testosteron, sam
+tron, sam
+vagon, sam
+zvon, sam
+žargon, sam
+žeton, sam
+bron, sam
+izgon, sam
+nagon, sam
+naklon, sam
+naslon, sam
+odklon, sam
+on, zaim
+pogon, sam
+poklon, sam
+pregon, sam
+priklon, sam
+razpon, sam
+sklon, sam
+slon, sam
+vzgon, sam
+vzpon, sam
+zagon, sam
+zaklon, sam
+zaton, sam
+con (cona), sam
+gorgon (gorgona), sam
+galon (galona), sam
+ikon (ikona), sam
+kolon (kolona), sam
+kron (krona), sam
+limon (limona), sam
+madon (madona), sam
+melon (melona), sam
+primadon (primadona), sam
+sezon (sezona), sam
+spon (spona), sam
+šablon (šablona), sam
+ton (tona), sam
+zapon (zapona), sam
 
 # op
-okop
-stop
-strop
-klop
-top
-pop
-agropop
-filantrop
-izotop
-kiklop
-mikroskop
-mizantrop
-rop
-skop
-štop
-hiphop
-antilop
-jop
-lop
-šop
-galop
-izstop
-izkop
-dostop
-krop
-nastop
-odklop
-odstop
-pokop
-potop
-preklop
-prestop
-pristop
-sestop
-sklop
-snop
-strop
-tiptop
-top
-vklop
-vstop
-zlatokop
+okop, sam
+stop, sam
+strop, sam
+klop, sam
+top, sam
+pop, sam
+agropop, sam
+filantrop, sam
+izotop, sam
+kiklop, sam
+mikroskop, sam
+mizantrop, sam
+rop, sam
+skop, prod
+štop, sam
+hiphop, sam
+antilop (antilopa), sam
+jop (jopa), sam
+lop (lopa), sam
+šop, sam
+galop, sam
+izstop, sam
+izkop, sam
+dostop, sam
+krop, sam
+nastop, sam
+odklop, sam
+odstop, sam
+pokop, sam
+potop, sam
+preklop, sam
+prestop, sam
+pristop, sam
+sestop, sam
+sklop, sam
+snop, sam
+strop, sam
+tiptop, prid
+top, prid
+vklop, sam
+vstop, sam
+zlatokop, sam
+čop, sam
+hop, medm
+
+# or
+dekor, sam
+dvor, sam
+humor, sam
+kdor, zaim
+klor, sam
+kolodvor, sam
+konkvistador, sam
+kontrolor, sam
+kor, sam
+lavor, sam
+major, sam
+matador, sam
+meteor, sam
+motor, sam
+pikador, sam
+resor, sam
+semafor, sam
+stiropor, sam
+štor, sam
+tenor, sam
+termofor, sam
+teror, sam
+trezor, sam
+tvor, sam
+bor, sam
+detomor, sam
+bratomor, sam
+izbor, sam
+izvor, sam
+nabor, sam
+kraljemor, sam
+nadzor, sam
+napor, sam
+navor, sam
+navzgor, pris
+nor, prid
+očetomor, sam
+odbor, sam
+odmor, sam
+odpor, sam
+podor, sam
+pomor, sam
+ponor, sam
+pozor, sam
+predor, sam
+premor, sam
+pribor, sam
+pripor, sam
+prizor, sam
+prodor, sam
+razdor, sam
+samomor, sam
+rodomor, sam
+spor, sam
+samonadzor, sam
+stvor, sam
+udor, sam
+ukor, sam
+umor, sam
+umotvor, sam
+upor, sam
+vdor, sam
+vzor, sam
+zapor, sam
+zbor, sam
+gor, pris
+zavor (zavora), sam
+for (fora), sam
+gor (gora), sam
+mor (mora), sam
+opor (opora), sam
+por (pora), sam
+spor (spora), sam
+zapor (zapora), sam
+
+# os
+bos, prid
+dolgonos, prid
+gos, sam
+kos, sam
+los, sam
+kros, sam
+nos, sam
+os, sam
+štos, sam
+polos, sam
+ploskonos, prid
+tros, sam
+zos, sam
+donos, sam
+doprinos, sam
+nanos, sam
+odnos, sam
+ponos, sam
+prenos, sam
+vnos, sam
+zanos, sam
+kos (kosa), sam
+os (osa), sam
+
+# oš
+kokoš, sam
+groš, sam
+koš, sam
+galoš (galoša), sam
+noš (noša), sam
+pismonoš (pismonoša), sam
+zastavonoš (zastavonoša), sam
+boš (biti), glag
+
+# ov
+blagoslov, sam
+gotov, prid
+hov, medm
+kitolov, sam
+kov, sam
+krivolov, sam
+krov, sam
+lov, sam
+naslov, sam
+negotov, prid
+nov, prid
+podnaslov, sam
+pokrov, sam
+prislov, sam
+ribolov, sam
+rov, sam
+srečelov, sam
+surov, prid
+ulov, sam
+zrakoplov, sam
+domov, pris
+njegov, zaim
+snov, sam
+šov, sam
+alkov (alkova), sam
+osnov (osnova), sam
+prenov (prenova), sam
+sov (sova), sam
+supernov (supernova), sam
+ustanov (ustanova), sam
+vdov (vdova), sam
+zasnov (zasnova), sam
+gol, prid
+fižol, sam
+kol, sam
+navzdol, pris
+stol, sam
+vol, sam
+napol, pris
+pol, pris
+sol, sam
+
+# oz
+francoz, sam
+motvoz, sam
+virtuoz, sam
+voz, sam
+dovoz, sam
+gramoz, sam
+izvoz, sam
+kolovoz, sam
+nadvoz, sam
+obvoz, sam
+podvoz, sam
+prevoz, sam
+privoz, sam
+uvoz, sam
+diagnoz (diagnoza), sam
+doz (doza), sam
+koz (koza), sam
+poz (poza), sam
+prognoz (prognoza), sam
+
+# ož
+figamož, sam
+gož, sam
+mož, sam
+mrož, sam
+nož, sam
+lož (loža), sam
+rož (roža), sam
+tavžentrož (tavžentroža), sam
