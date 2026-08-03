@@ -3407,27 +3407,584 @@ dobim (dobiti), glag
 ukrotim (ukrotiti), glag
 njim (on), zaim
 prehitim (prehiteti), glag
+prihitim (prihiteti), glag
 storim (storiti), glag
 naredim (narediti), glag
 stopim (stopiti), glag
+velim (veleti), glag
+znebim (znebiti), glag
+prežim (prežati), glag
+sledim (slediti), glag
+smetim (smetiti), glag
 
 # in
+adrenalin, sam
+amfetamin, sam
+albin, sam
+aspirin, sam
+baldahin, sam
+balin, sam
+barabin, sam
+bencin, sam
+bogatin, sam
+brancin, sam
+capin, sam
+cekin, sam
+cepelin, sam
+cepin, sam
+čin, sam
+cin, sam
+delfin, sam
+dolgin, sam
+domačin, sam
+dopamin, sam
+duhovin, sam
+fakin, sam
+fantalin, sam
+fantin, sam
+fin, prid
+formalin, sam
+frkolin, sam
+gizdalin, sam
+grdin, sam
+harlekin, sam
+heroin, sam
+hitin, sam
+inzulin, sam
+jasmin, sam
+kamin, sam
+karabin, sam
+kofein, sam
+kokain, sam
+kosmatin, sam
+magazin, sam
+mandarin, sam
+metamfetamin, sam
+mizogin, sam
+mlin, sam
+mudžahedin, sam
+način, sam
+naftalin, sam
+nevrotoksin, sam
+nikotin, sam
+opomin, sam
+paladin, sam
+palankin, sam
+penicilin, sam
+pingvin, sam
+PIN, sam
+plastelin, sam
+plin, sam
+pobalin, sam
+pogin, sam
+potepin, sam
+protein, sam
+rabin, sam
+rešpetlin, sam
+rubin, sam
+seratonin, sam
+sin, sam
+skin, sam
+smrkolin, sam
+spomin, sam
+tamburin, sam
+termin, sam
+toksin, sam
+trampolin, sam
+ultramarin, sam
+urin, sam
+vazelin, sam
+vitamin, sam
+zločin, sam
+zvin, sam
+brin, sam
+klin, sam
+in, vez
+bankin (bankina), sam
+beljakovin (beljakovina), sam
+blazin (blazina), sam
+bolečin (bolečina), sam
+brazgotin (brazgotina), sam
+brežin (brežina), sam
+brzin (brzina), sam
+carin (carina), sam
+celin (celina), sam
+cestnin (cestnina), sam
+četrtin (četrtina), sam
+čistin (čistina), sam
+članarin (članarina), sam
+crkovin (crkovina), sam
+črvin (črvina), sam
+daljin (daljina), sam
+davnin (davnina), sam
+deklin (deklina), sam
+desetin (desetina), sam
+disciplin (disciplina), sam
+dobrin (dobrina), sam
+doktrin (doktrina), sam
+dolin (dolina), sam
+dolžin (dolžina), sam
+domovin (domovina), sam
+drobtin (drobtina), sam
+družin (družina), sam
+duplin (duplina), sam
+gladin (gladina), sam
+giljotin (giljotina), sam
+globin (globina), sam
+globočin (globočina), sam
+graščin (graščina), sam
+izboklin (izboklina), sam
+izkopanin (izkopanina), sam
+izmišljotin (izmišljotina), sam
+izvrtin (izvrtina), sam
+jestvin (jestvina), sam
+kabin (kabina), sam
+kamnin (kamnina), sam
+kislin (kislina), sam
+klančin (klančina), sam
+kolin (koline), sam
+konkubin (konkubina), sam
+korenin (korenina), sam
+košenin (košenina), sam
+kotlin (kotlina), sam
+kovin (kovina), sam
+kraljevin (kraljevina), sam
+krtin (krtina), sam
+latrin (latrina), sam
+lavin (lavina), sam
+ledin (ledina), sam
+limuzin (limuzina), sam
+lin (lina), sam
+ločin (ločina), sam
+lupin (lupina), sam
+luskin (luskine), sam
+luščin (luščina), sam
+malin (malina), sam
+mandarin (mandarina), sam
+mandolin (mandolina), sam
+manjšin (manjšina), sam
+mašin (mašina), sam
+mesnin (mesnina), sam
+min (mina), sam
+mojstrovin (mojstrovina), sam
+mrcin (mrcina), sam
+napitnin (napitnina), sam
+najemnin (najemnina), sam
+nižin (nižina), sam
+odprtin (odprtina), sam
+odrgnin (odrgnina), sam
+okončin (okončine), sam
+opeklin (opeklina), sam
+osmin (osmina), sam
+ostalin (ostalina), sam
+oteklin (oteklina), sam
+ozeblin (ozeblina), sam
+ožganin (ožganina), sam
+ožin (ožina), sam
+padavin (padavine), sam
+pajčevin (pajčevina), sam
+pečin (pečina), sam
+pelerin (pelerina), sam
+peščin (peščina), sam
+planin (planina), sam
+podkupnin (podkupnina), sam
+površin (površina), sam
+pritiklin (pritikline), sam
+prvin (prvina), sam
+rastlin (rastlina), sam
+ravnin (ravnina), sam
+razbitin (razbitina), sam
+raztopin (raztopina), sam
+razvalin (razvalina), sam
+rezin (rezina), sam
+rodbin (rodbina), sam
+rudnin (rudnina), sam
+ruševin (ruševina), sam
+sardin (sardina), sam
+serpentin (serpentina), sam
+sestavin (sestavina), sam
+sipin (sipina), sam
+skomin (skomine), sam
+skupin (skupina), sam
+spojin (spojina), sam
+starešin (starešina), sam
+starin (starina), sam
+stotin (stotina), sam
+strmin (strmina), sam
+surovin (surovina), sam
+ščetin (ščetina), sam
+škrbin (škrbina), sam
+šolnin (šolnina), sam
+tatvin (tatvina), sam
+tekočin (tekočina), sam
+tiskovin (tiskovina), sam
+tkanin (tkanina), sam
+trdnin (trdnina), sam
+tretjin (tretjina), sam
+trgovin (trgovina), sam
+tropin (tropine), sam
+udrtin (udrtina), sam
+ugreznin (ugreznina), sam
+umetnin (umetnina), sam
+usedlin (usedlina), sam
+vagin (vagina), sam
+vbodnin (vbodnina), sam
+vdolbin (vdolbina), sam
+veščin (veščina), sam
+violin (violina), sam
+višin (višina), sam
+vitrin (vitrina), sam
+vladavin (vladavina), sam
+vlaknin (vlaknina), sam
+votlin (votlina), sam
+vrlin (vrlina), sam
+vrtanin (vrtanina), sam
+vrtnin (vrtnina), sam
+vsebin (vsebina), sam
+vstopnin (vstopnina), sam
+vzpetin (vzpetina), sam
+zverin (zverina), sam
+kin (kino), sam
+vin (vino), sam
 
 # ip
+arhetip, sam
+čip, sam
+dovtip, sam
+džip, sam
+egotrip, sam
+hip, sam
+kip, sam
+logotip, sam
+nasip, sam
+osip, sam
+otip, sam
+posip, sam
+princip, sam
+prototip, sam
+stereotip, sam
+strip, sam
+ščip, sam
+škrip, sam
+tip, sam
+utrip, sam
+cip (cipa), sam
+ekip (ekipa), sam
+grip (gripa), sam
+krip (kripa), sam
+lip (lipa), sam
 
 # ir
+bankir, sam
+brigadir, sam
+dir, sam
+čir, sam
+eliksir, sam
+fakir, sam
+gejzir, sam
+furnir, sam
+grenadir, sam
+hotelir, sam
+hudir, sam
+inženir, sam
+izvir, sam
+kavalir, sam
+kefir, sam
+klavir, sam
+klistir, sam
+krompir, sam
+kurir, sam
+mir, sam
+menhir, sam
+mušketir, sam
+nemir, sam
+netopir, sam
+obzir, sam
+oficir, sam
+okvir, sam
+osir, sam
+oštir, sam
+ozir, sam
+palir, sam
+papir, sam
+pastir, sam
+pionir, sam
+pir, sam
+prepir, sam
+prezir, sam
+revir, sam
+sovir, sam
+špalir, sam
+špetir, sam
+tir, sam
+turnir, sam
+vampir, sam
+vezir, sam
+vir, sam
+vizir, sam
+vsemir, sam
+žir, sam
+žolnir, sam
+sir, sam
+izbir (izbira), sam
+lir (lira), sam
+manir (manira), sam
+ovir (ovira), sam
+satir (satira), sam
+sekir (sekira), sam
+valkir (valkire), sam
 
 # is
+bis, sam
+bris, sam
+časopis, sam
+čistopis, sam
+dobropis, sam
+dopis, sam
+dotis, sam
+fis, sam
+fris, sam
+gis, sam
+his, sam
+izpis, sam
+izbris, sam
+izris, sam
+kis, sam
+klinopis, sam
+kompromis, sam
+letopis, sam
+napis, sam
+narcis, sam
+natis, sam
+obris, sam
+odtis, sam
+odpis, sam
+opis, sam
+oris, sam
+podnapis, sam
+podpis, sam
+ponatis, sam
+popis, sam
+potopis, sam
+pravopis, sam
+predpis, sam
+prepis, sam
+pripis, sam
+razpis, sam
+ris, sam
+rokopis, sam
+spis, sam
+škis, sam
+tajnopis, sam
+vis, pris
+vpis, sam
+vtis, sam
+zapis, sam
+zemljepis, sam
+življenjepis, sam
+kulis (kulisa), sam
+lis (lisa), sam
+narcis (narcisa), sam
+premis (premisa), sam
 
 # iš
+fliš, sam
+piš, sam
+pliš, sam
+miš, sam
+tičmiš, sam
+hiš (hiša), sam
+niš (niša), sam
+narediš (narediti), glag
+miriš (miriti), glag
+dobiš (dobiti), glag
+storiš (storiti), glag
+kriviš (kriviti), glag
+ležiš (ležati), glag
+hladiš (hladiti), glag
+stojiš (stati), glag
+bediš (bedeti), glag
+krepiš (krepiti), glag
+groziš (groziti), glag
+greniš (greniti), glag
+bežiš (bežati), glag
+rediš (rediti), glag
+besniš (besneti), glag
+blagosloviš (blagosloviti), glag
+blažiš (blažiti), glag
+bogatiš (bogatiti), glag
+bremeniš (bremeniti), glag
+budiš (buditi), glag
+častiš (častiti), glag
+deliš (deliti), glag
+dodeliš (dodeliti), glag
+dogovoriš (dogovoriti), glag
+dojiš (dojiti), glag
+dopustiš (dopustiti), glag
+dovoliš (dovoliti), glag
+drobiš (drobiti), glag
+dušiš (dušiti), glag
+fališ (faliti), glag
+gasiš (gasiti), glag
+gojiš (gojiti), glag
+gostiš (gostiti), glag
+govoriš (govoriti), glag
+gradiš (graditi), glag
+grešiš (grešiti), glag
+hladiš (hladiti), glag
+izgovoriš (izgovoriti), glag
+izgubiš (izgubiti), glag
+izmojstriš (izmojstriti), glag
+izprašiš (izprašiti), glag
+izpustiš (izpustiti), glag
+izročiš (izročiti), glag
+izslediš (izslediti), glag
+izstreliš (izstreliti), glag
 
 # it
+apetit, sam
+bandit, sam
+barvit, prid
+bit, sam
+blagovit, prid
+bliskovit, prid
+bojevit, prid
+celovit, prid
+celulit, sam
+čudovit, prid
+deficit, sam
+depozit, sam
+dinamit, sam
+dobrobit, sam
+duhovit, prid
+enovit, prid
+favorit, sam
+fit, prid
+gambit, sam
+grafit, sam
+granit, sam
+gromovit, prid
+grozovit, prid
+hit, sam
+hribovit, prid
+izbit, prid
+izpit, sam
+izpit, prid
+izrazit, prid
+jeznorit, prid
+jezuit, sam
+kamnit, prid
+kit, sam
+korenit, prid
+krčevit, prid
+kredit, sam
+limit, sam
+meteorit, sam
+mit, sam
+monolit, sam
+nabit, prid
+nabrit, prid
+nagnit, prid
+nakit, sam
+nalit, prid
+napit, prid
+našit, prid
+navit, prid
+oblit, prid
+odvit, prid
+odbit, prid
+odkrit, prid
+odvit, prid
+ognjevit, prid
+opit, prid
+ovit, prid
+parazit, sam
+plebiscit, sam
+plemenit, prid
+plodovit, prid
+pobit, prid
+pokrit, prid
+povit, prid
+prečudovit, prid
+prekrit, prid
+prikrit, prid
+profit, sam
+razkrit, prid
+razvit, prid
+razvpit, prid
+rekvizit, sam
+satelit, sam
+sešit, prid
+silovit, prid
+skokovit, prid
+skrit, prid
+slikovit, prid
+slojevit, prid
+slovit, prid
+sodomit, sam
+spočit, prid
+srborit, prid
+srdit, prid
+stalagmit, sam
+stalaktit, sam
+strahovit, prid
+sunkovit, prid
+svit, sam
+ščit, sam
+šit, sam
+temeljit, prid
+termit, sam
+tranzit, sam
+transvestit, sam
+troglodit, sam
+ubit, prid
+učinkovit, prid
+umit, prid
+valovit, prid
+zabit, prid
+zakonit, prid
+zakrit, prid
+zalit, prid
+zašit, prid
+zavit, prid
+zenit, sam
+zmagovit, prid
+znamenit, prid
+žarovit, prid
+nit, sam
+rit, sam
+sit, prid
+kit (kita), sam
+pit (pita), sam
+zaščit (zaščita), sam
+vizit (vizita), sam
 
 # iv
 
 # iz
+antifriz, sam
+črkogriz, sam
+kviz, sam
+niz, sam
+ugriz, sam
+zdriz, sam
+deviz (deviza), sam
+franšiz (franšiza), sam
+miz (miza), sam
+repriz (repriza), sam
+viz (viza), sam
+ziz (ziza), sam
 
 # iž
+drobiž, sam
+križ, sam
+navzkriž, sam
+obliž, sam
+ostriž, sam
+paradiž, sam
+prestiž, sam
+riž, sam
+viž (viža), sam
 
 # o
 argo, sam
@@ -4329,3 +4886,280 @@ nož, sam
 lož (loža), sam
 rož (roža), sam
 tavžentrož (tavžentroža), sam
+
+# u
+bu, medm
+čemu, pris
+emu, sam
+frufru, sam
+guru, sam
+iglu, sam
+intervju, sam
+juhu, medm
+kakadu, sam
+kanu, sam
+karibu, sam
+kenguru, sam
+kuku, sam
+kung fu, sam
+mu, medm
+paspartu, sam
+ragu, sam
+tabu, sam
+tatu, sam
+tiramisu, sam
+tofu, sam
+tu, pris
+dnu (dno), sam
+snu (sen), sam
+
+# ub
+človekoljub, sam
+domoljub, sam
+kljub, pred
+klub, sam
+ljub, prid
+knjigoljub, sam
+navkljub, pris
+neljub, prid
+poljub, sam
+preljub, prid
+redoljub, sam
+resnicoljub, sam
+rodoljub, sam
+bub (buba), sam
+gub (guba), sam
+izgub (izguba), sam
+obljub (obljuba), sam
+tub (tuba), sam
+zaobljub (zaobljuba), sam
+zgub (zguba), sam
+
+# uc
+bruc, sam
+kukuc, medm
+muc, sam
+buc, medm
+kapuc (kapuca), sam
+štruc (štruca), sam
+
+# ud
+čud, sam
+hud, prid
+jud, sam
+mrtvoud, sam
+prehud, prid
+trud, sam
+ud, sam
+dud (dude), sam
+pobud (pobuda), sam
+spodbud (spodbuda), sam
+zamud (zamuda), sam
+
+# uf
+goljuf, sam
+puf, sam
+tartuf, sam
+tuf, sam
+uf, medm
+baruf (barufa), sam
+
+# ug
+drug, prid
+jug, sam
+lug, sam
+plug, sam
+sodrug, sam
+fug (fuga), sam
+kug (kuga), sam
+odjug (odjuga), sam
+protiuslug (protiusluga), sam
+slug (sluga), sam
+strug (struga), sam
+trug (truga), sam
+uslug (usluga), sam
+vijug (vijuga), sam
+vlačug (vlačuga), sam
+zaslug (zasluga), sam
+
+
+# uh
+blagoduh, prid
+bleduh, sam
+debeluh, sam
+duh, sam
+gluh, prid
+izbruh, sam
+izpuh, sam
+lenuh, sam
+napuh, sam
+oderuh, sam
+ogleduh, sam
+ostrouh, prid
+ovaduh, sam
+posluh, sam
+potepuh, sam
+požeruh, sam
+presluh, sam
+prisluh, sam
+puh, sam
+skopuh, sam
+sluh, sam
+smrduh, sam
+stremuh, sam
+suh, prid
+kruh, sam
+uh, medm
+juh (juha), sam
+muh (muha), sam
+pazduh (pazduha), sam
+prikuh (prikuha), sam
+rjuh (rjuha), sam
+
+# uj
+čuj (čuti), glag
+feng šuj, sam
+buržuj, sam
+tuj, prid
+fuj, medm
+kuj (kovati), glag
+prikazuj (prikazovati), glag
+nasuj (nasuti), glag
+izpluj (izpluti), glag
+obuj (obuti), glag
+odpluj (odpluti), glag
+posuj (posuti), glag
+sezuj (sezuti), glag
+snuj (snovati), glag
+zarjuj (zarjuti), glag
+zasuj (zasuti), glag
+
+# uk
+čuk, sam
+fuk, sam
+klobuk, sam
+muk, sam
+neuk, prid
+poduk, sam
+pouk, sam
+ruk, sam
+samouk, sam
+smuk, sam
+štuk, sam
+uk, sam
+verouk, sam
+vnuk, sam
+zasuk, sam
+horuk, medm
+kljuk (kljuka), sam
+luk (luka), sam
+muk (muka), sam
+ščuk (ščuka), sam
+
+# ul
+ful, pris
+kobul, sam
+kul, prid
+tul, sam
+vestibul, sam
+ampul (ampula), sam
+bul (bula), sam
+čebul (čebula), sam
+cul (cula), sam
+mul (mula), sam
+nul (nula), sam
+
+# um
+brezum, sam
+bum, sam
+izum, sam
+kostum, sam
+kum, sam
+nesporazum, sam
+parfum, sam
+pogum, sam
+razum, sam
+rum, sam
+sporazum, sam
+sum, sam
+šum, sam
+um, sam
+veleum, sam
+zum, sam
+gum (guma), sam
+
+# un
+čistun, sam
+dolgokljun, prid
+grdun, sam
+imun, prid
+inčun, sam
+izračun, sam
+kljun, sam
+koštrun, sam
+krivokljun, prid
+lizun, sam
+mejdun, medm
+njun, zaim
+obračun, sam
+ostrokljun, prid
+pisun, sam
+pizdun, sam
+poračun, sam
+predračun, sam
+prežun, sam
+proračun, sam
+račun, sam
+rakun, sam
+tajfun, sam
+tajkun, sam
+tribun, sam
+tun, sam
+vohun, sam
+harpun (harpuna), sam
+komun (komuna), sam
+kun (kuna), sam
+lagun (laguna), sam
+lun (luna), sam
+nun (nuna), sam
+run (runa), sam
+strun (struna), sam
+štacun (štacuna), sam
+tribun (tribuna), sam
+tun (tuna), sam
+brun (bruno), sam
+
+# up
+brezup, sam
+glup, prid
+hrup, sam
+kalup, sam
+nakup, sam
+obup, sam
+odkup, sam
+protistrup, sam
+strup, sam
+trup, sam
+up, sam
+zakup, sam
+kup, sam
+vkup, pris
+hup (hupa), sam
+grup (grupa), sam
+kup (kupa), sam
+lup (lupa), sam
+žup (župa), sam
+
+# ur
+
+# us
+
+# uš
+
+# ut
+
+# uv
+
+# uz
+
+# už
