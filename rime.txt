@@ -1642,6 +1642,73 @@ stelaž (stelaža), sam
 tetovaž (tetovaža), sam
 vraž (vraža), sam
 
+# e
+vse, zaim
+anime, sam
+ataše, sam
+atelje, sam
+bife, sam
+bogve, člen
+CD, sam
+čepe, pris
+dekolte, sam
+DVD, sam
+sodje, sam
+drhte, pris
+drugje, pris
+drže, pris
+ekspoze, sam
+file, sam
+frape, sam
+glede, pris
+gorje, sam
+grede, pris
+nehote, pris
+ime, sam
+ječe, pris
+karate, sam
+kanape, sam
+kare, sam
+kdove, pris
+kje, pris
+kleče, pris
+kliše, sam
+komite, sam
+kriče, pris
+kroše, sam
+kupje, sam
+kupe, sam
+lete, pris
+leže, pris
+ljudje (človek), sam
+marsikje, pris
+mimogrede, pris
+miže, pris
+molče, pris
+nekje, pris
+nevede, pris
+pire, sam
+preže, pris
+redkokje, pris
+renče, pris
+sede, pris
+separe, sam
+smeje, pris
+somelje, sam
+srce, sam
+stoje, pris
+sufle, sam
+šume, pris
+TV, sam
+vrešče, pris
+zagre, pris
+že, člen
+žele, sam
+dekle, sam
+dlje, pris
+fante, sam
+kajne, člen
+
 # eb
 galeb, sam
 hleb, sam
@@ -2858,44 +2925,75 @@ tež (teža), sam
 vež (veža), sam
 
 # i
-či, sam
-čri, medm
-etui, sam
-hči, sam
-hojladri, medm
-kikiriki, medm
-kri, sam
-kroki, sam
-meni, sam
-mi, zaim
-pi, sam
-remi, sam
-sani, sam
-ti, zaim
-vi, zaim
-preti (pretiti), glag
-oči (oko), sam
-boli (boleti), glag
-kosti (kost), sam
-zdani (zdaniti se), glag
-čemi (čemeti), glag
-čepi (čepeti), glag
-drvi (drveti), glag
-čeri (čer), sam
-brvi (brv), sam
-brenči (brenčati), glag
-besni (besneti), glag
 bedi (bedeti), glag
-buči (bučati), glag
-buhti (buhteti), glag
-bori (boriti se), glag
+besni (besneti), glag
+blagoslovi (blagosloviti), glag
 blešči (bleščati se), glag
 boji (bati se), glag
+boli (boleti), glag
+bori (boriti se), glag
+brenči (brenčati), glag
+brli (brleti), glag
+brsti (brsteti), glag
+brvi (brv), sam
+buči (bučati), glag
+budi (buditi), glag
+buhti (buhteti), glag
 cedi (cediti se), glag
 cevi (cev), sam
-diši (dišati), glag
+čemi (čemeti), glag
+čepi (čepeti), glag
+čeri (čer), sam
+či, sam
+či, sam
+čri, medm
 dehti (dehteti), glag
+diši (dišati), glag
+dni (dan), sam
+drvi (drveti), glag
+etui, sam
+grozi (groziti), glag
+hči, sam
+hojladri, medm
+ihti (ihteti), glag
+kikiriki, medm
+kosti (kost), sam
+kri, sam
+kroki, sam
+leti (leteti), glag
+ljudi (človek), sam
+lovi (loviti), glag
+medi (mediti), glag
+meni, sam
+mezi (mezeti), glag
+mi, zaim
+moči (moč), sam
+naslovi (nasloviti), glag
+noči (noč), sam
+oči (oko), sam
+pi, sam
+preti (pretiti), glag
+remi, sam
+sani, sam
+smeti (smet), sam
+smeti (smetiti), glag
+snovi (snov), sam
+spi (spati), glag
+stopi (stopiti), glag
+stremi (stremeti), glag
+ti, zaim
+ugotovi (ugotoviti), glag
+vedri (vedriti), glag
+veli (veleti), glag
+vi, zaim
+vihti (vihteti), glag
+vsi, zaim
 zadosti (zadostiti), glag
+zazdi (zazdeti), glag
+zdani (zdaniti se), glag
+zdi (zdeti), glag
+zlakoti (zlakotiti), glag
+zli (zel), prid
 
 # ib
 gib, sam
@@ -4109,6 +4207,160 @@ froc, sam
 škloc, medm
 škartoc, sam
 
+# oč
+begajoč, prid
+bevskajoč, prid
+bingljajoč, prid
+bivajoč, prid
+bliskajoč, prid
+beroč, prid
+božajoč, prid
+brbotajoč, prid
+brenkajoč, prid
+brišoč, prid
+brskajoč, prid
+brizgajoč, prid
+bruhajoč, prid
+butajoč, prid
+čakajoč, prid
+cepetajoč, prid
+čivkajoč, prid
+cmokajoč, prid
+črpajoč, prid
+cvetoč, prid
+dihajoč, prid
+dirjajoč, prid
+divjajoč, prid
+dopisujoč, prid
+dopolnjujoč, prid
+doraščajoč, prid
+doživljajoč, prid
+dremajoč, prid
+deroč, prid
+drgetajoč, prid
+drsajoč, prid
+dvigajoč, prid
+mogoč, prid
+nemogoč, prid
+pivotoč, sam
+proč, pris
+roč, sam
+vinotoč, sam
+vodotoč, sam
+vroč, prid
+žganjetoč, sam
+bedastoč (bedastoča), sam
+finoč (finoča), sam
+koč (koča), sam
+moč, sam
+nečistoč (nečistoča), sam
+gagajoč, prid
+gibajoč, prid
+gladujoč, prid
+gledajoč, prid
+glodajoč, prid
+ženoč, prid
+gnijoč, prid
+godrnjajoč, prid
+goltajoč, prid
+gospodujoč, prid
+gostujoč, prid
+gugajoč, prid
+hirajoč, prid
+hlastajoč, prid
+hlipajoč, prid
+hrustajoč, prid
+hujskajoč, prid
+iščoč, prid
+izginjajoč, prid
+izhajajoč, prid
+izključujoč, prid
+izmikajoč, prid
+izpolnjujoč, prid
+izrabljajoč, prid
+izstopajoč, prid
+iztegujoč, prid
+izumirajoč, prid
+izvirajoč, prid
+javkajoč, prid
+jokajoč, prid
+kašljajoč, prid
+kimajoč, prid
+kopajoč, prid
+korakajoč, prid
+manjkajoč, prid
+migotajoč, prid
+mjavkajoč, prid
+mirujoč, prid
+napenjajoč, prid
+naraščajoč, prid
+nasprotujoč, prid
+nastajajoč, prid
+nastopajoč, prid
+navdihujoč, prid
+navzoč, prid
+nekoč, pris
+nemoč, sam
+noč, sam
+občudujoč, prid
+objemajoč, prid
+obračajoč, prid
+obroč, sam
+odhajajoč, prid
+odmevajoč, prid
+oklepajoč, prid
+ohlajajoč, prid
+oklevajoč, prid
+omahujoč, prid
+omejujoč, prid
+opazujoč, prid
+opirajoč, prid
+opozarjajoč, prid
+ovirajoč, prid
+parajoč, prid
+pešajoč, prid
+pojoč, prid
+piskajoč, prid
+plavajoč, prid
+pljuskajoč, prid
+pojemajoč, prid
+pokajoč, prid
+polobroč, sam
+pomirjujoč, prid
+pomoč, sam
+ponižujoč, prid
+potujoč, prid
+ponavljajoč, prid
+povezujoč, prid
+premoč, sam
+prepevajoč, prid
+presegajoč, prid
+prestopajoč, prid
+prevladujoč, prid
+pričujoč, prid
+pripadajoč, prid
+prodirajoč, prid
+propadajoč, prid
+razpadajoč, prid
+razumevajoč, prid
+tako rekoč, medm
+samopomoč, sam
+tarnajoč, prid
+utripajoč, prid
+vedoč, prid
+vključujoč, prid
+vseobsegajoč, prid
+vseuničujoč, prid
+vzhajajoč, prid
+vznemirjajoč, prid
+zadovoljujoč, prid
+zamirajoč, prid
+zatikajoč, prid
+zavajajoč, prid
+žgoč, prid
+smejoč, prid
+stekajoč, prid
+
 # od
 brod, sam
 drugod, pris
@@ -5151,15 +5403,144 @@ lup (lupa), sam
 žup (župa), sam
 
 # ur
+azur, sam
+ažur, sam
+čefur, sam
+dihur, sam
+dur, sam
+glamur, sam
+lemur, sam
+mehur, sam
+leščur, sam
+Merkur, sam
+piškur, sam
+tambur, sam
+trubadur, sam
+tur, sam
+žur, sam
+armatur (armatura), sam
+avantur (avantura), sam
+babur (babura), sam
+bravur (bravura), sam
+brošur (brošura), sam
+diktatur (diktatura), sam
+figur (figura), sam
+garnitur (garniture), sam
+fur (fura), sam
+karikatur (karikatura), sam
+klaviatur (klaviatura), sam
+kočur (kočura), sam
+korektur (korektura), sam
+kreatur (kreatura), sam
+kultur (kultura), sam
+kur (kura), sam
+miniatur (miniatura), sam
+nadur (nadure), sam
+pijandur (pijandura), sam
+predur (predura), sam
+prefektur (prefektura), sam
+skulptur (skulptura), sam
+struktur (struktura), sam
+subkultur (subkultura), sam
+tastatur (tastatura), sam
+tekstur (tekstura), sam
+temperatur (temperatura), sam
+tinktur (tinktura), sam
+tur (tura), sam
+ur (ura), sam
 
 # us
+brus, sam
+gnus, sam
+okus, sam
+plus, sam
+poskus, sam
+preizkus, sam
+priokus, sam
+Rus, sam
+šus, sam
 
 # uš
+beluš, sam
+fuš, sam
+krščenduš, medm
+prmejduš, medm
+tuš, sam
+uš, sam
+duš (duša), sam
+kartuš (kartuša), sam
+katjuš (katjuša), sam
+skuš (skuša), sam
 
 # ut
+adut, sam
+atribut, sam
+čut, sam
+inštitut, sam
+kaput, sam
+kolut, sam
+krut, prid
+ljut, prid
+nadut, prid
+nasut, prid
+obsut, prid
+obut, prid
+perut, sam
+plavut, sam
+podplut, prid
+posut, prid
+prhut, sam
+prostitut, sam
+pršut, sam
+razsut, prid
+rekrut, sam
+salut, sam
+sesut, prid
+sezut, prid
+skorbut, sam
+statut, sam
+zasut, prid
+cafut (cafuta), sam
+kajut (kajuta), sam
+klofut (klofuta), sam
+košut (košuta), sam
+kut (kuta), sam
+loput (loputa), sam
+minut (minuta), sam
+polut (poluta), sam
+rut (ruta), sam
+redut (reduta), sam
+šut, sam
+ut (uta), sam
+valut (valuta), sam
 
 # uv
+izginul, prid
+poginul, prid
+razsul (razsuti), glag
+čul (čuti), glag
+izrul (izruti), glag
+nasul (nasuti), glag
+obsul (obsuti), glag
+obul (obuti), glag
+odplul (odpluti), glag
+plul (pluti), glag
+posul (posuti), glag
+rjul (rjuti), glag
+sesul (sesuti), glag
+sezul (sezuti), glag
+izplul (izpluti), glag
 
 # uz
+sluz, sam
+bluz (bluza), sam
+hipotenuz (hipotenuza), sam
+jakuz (jakuza), sam
+meduz (meduza), sam
+muz (muza), sam
 
 # už
+mehkuž, sam
+kaluž (kaluža), sam
+luž (luža), sam
+mlakuž (mlakuža), sam
