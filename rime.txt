@@ -818,321 +818,308 @@ podam (podati), glag
 izdam (izdati), glag
 
 # an
-balvan
-ban
-barjan
-bolan
-bran
-bršljan
-butan
-celofan
-česan
-član
-četverostran
-coprijan
-dan
-darovan
-dlan
-dodan
-dognan
-dokončan
-državljan
-dvorjan
-dvostran
-ekran
-etan
-fazan
-faran
-gavran
-goban
-gorjan
-grobijan
-gurman
-human
-huligan
-hurikan
-igran
-imenovan
-iskan
-izbojevan
-izbran
-izdan
-izglasovan
-izgnan
-izigran
-izklesan
-izkopan
-izoblikovan
-izpeljan
-izpodkopan
-izpran
-izravnan
-izsesan
-izžgan
-kan
-kankan
-kapitan
-kaplan
-karavan
-kastelan
-katamaran
-katran
-kaznovan
-klan
-kleptoman
-končan
-Koran
-kovan
-krajan
-kristjan
-lan
-malikovan
-maščevan
-megaloman
-meridijan
-metan
-modrijan
-musliman
-nabran
-nacefran
-načrtovan
-nadzorovan
-nametan
-napeljan
-naphan
-naravnan
-nasejan
-nasmejan
-naspan
-nastlan
-negovan
-nehuman
-neimenovan
-neomadeževan
-neotesan
-neprestan
-nepričakovan
-neslan
-občudovan
-obdan
-obiskan
-objokovan
-oblikovan
-obran
-obrekovan
-obsijan
-obstreljevan
-obvarovan
-ocean
-odbran
-oddan
-odigran
-odkopan
-odlikovan
-odposlan
-ogoljufan
-okopan
-okovan
-okrancljan
-omalovaževan
-omehčan
-opazovan
-opisovan
-opran
-organ
-orkan
-oskrbovan
-osedlan
-osnovan
-oškodovan
-ožgan
-pajčolan
-pan
-parmezan
-partizan
-pelikan
-pesjan
-plan
-piroman
-počečkan
-počesan
-podedovan
-podivjan
-podkovan
-podžgan
-pogan
-poklan
-pokončan
-pokopan
-pokozlan
-pomečkan
-pomendran
-popackan
-poravnan
-poscan
-porcelan
-posejan
-poslan
-postan
-poškodovan
-poteptan
-poveličevan
-pozvan
-požgan
-predan
-preglasovan
-pregnan
-preoran
-prepeljan
-prepoznan
-preprodan
-preran
-prerokovan
-presejan
-pretkan
-pretentan
-pričakovan
-pridržan
-prignan
-pristan
-priznan
-prižgan
-profan
-prostran
-prsobran
-puran
-raketoplan
-ramazan
-ran
-ravan
-razcapan
-razdejan
-razigran
-razklan
-razmetan
-razposlan
-Rimljan
-roman
-rokobran
-samarijan
-samostan
-samozvan
-sežgan
-simultan
-skovan
-slan
-sopran
-spontan
-spoštovan
-stan
-stkan
-stran
-svečan
-svetovljan
-šaman
-šarlatan
-tiran
-tjavdan
-tlakovan
-točkovan
-ugnan
-uležan
-uran
-urban
-usran
-varovan
-vdan
-vegan
-velikan
-veteran
-vetrobran
-vklesan
-vkopan
-volan
-vran
-vsakdan
-vstran
-vulkan
-vzdrževan
-vzravnan
-vzvalovan
-zadržan
-zagnan
-zaklan
-zakopan
-zaležan
-zamolčan
-zaničevan
-zasnovan
-zaspan
-zastran
-zavarovan
-zaverovan
-zavojevan
-zavozlan
-zaznamovan
-zažgan
-zbran
-zlagan
-zmečkan
-zmehčan
-zrahljan
-zravnan
-žafran
-žrtvovan
-župljan
-žveplan
-čekan
-cigan
-dekan
-deželan
-evangeličan
-krpan
-meščan
-nepoznan
-nezemljan
-neznan
-občan
-otočan
-pijan
-podeželan
-poznan
-svečan
-teleban
-tlačan
-uhan
-vaščan
-zaman
-zemljan
-župan
-manj
-danj
-panj
-banj
-dekanj
-kampanj
-kanj
-kotanj
-lazanj
-lobanj
-sanj
-špranj
-županj
-banan
-čežan
-dvoran
-fontan
-havan
-karavan
-katan
-kurtizan
-membran
-nakan
-podgan
-poljan
-ran
-soban
-ukan
+balvan, sam
+ban, sam
+barjan, sam
+bolan, prid
+bran, sam
+bršljan, sam
+butan, sam
+celofan, sam
+česan, prid
+član, sam
+četverostran, prid
+coprijan, sam
+dan, sam
+darovan, prid
+dlan, sam
+dodan, prid
+dognan, prid
+dokončan, prid
+državljan, sam
+dvorjan, sam
+dvostran, prid
+ekran, sam
+etan, sam
+fazan, sam
+faran, sam
+gavran, sam
+goban, sam
+gorjan, sam
+grobijan, sam
+gurman, sam
+human, prid
+huligan, sam
+hurikan, sam
+igran, prid
+imenovan, prid
+iskan, prid
+izbojevan, prid
+izbran, prid
+izdan, prid
+izglasovan, prid
+izgnan, prid
+izigran, prid
+izklesan, prid
+izkopan, prid
+izoblikovan, prid
+izpeljan, prid
+izpodkopan, prid
+izpran, prid
+izravnan, prid
+izsesan, prid
+izžgan, prid
+kan, sam
+kankan, sam
+kapitan, sam
+kaplan, sam
+karavan, sam
+kastelan, sam
+katamaran, sam
+katran, sam
+kaznovan, prid
+klan, sam
+kleptoman, sam
+končan, prid
+Koran, sam
+kovan, prid
+krajan, sam
+kristjan, sam
+lan, sam
+malikovan, prid
+maščevan, prid
+megaloman, sam
+meridijan, sam
+metan, sam
+modrijan, sam
+musliman, sam
+nabran, prid
+nacefran, prid
+načrtovan, prid
+nadzorovan, prid
+nametan, prid
+napeljan, prid
+naphan, prid
+naravnan, prid
+nasejan, prid
+nasmejan, prid
+naspan, prid
+nastlan, prid
+negovan, prid
+nehuman, prid
+neimenovan, prid
+neomadeževan, prid
+neotesan, prid
+neprestan, prid
+nepričakovan, prid
+neslan, prid
+občudovan, prid
+obdan, prid
+obiskan, prid
+objokovan, prid
+oblikovan, prid
+obran, sam
+obrekovan, prid
+obsijan, prid
+obstreljevan, prid
+obvarovan, prid
+ocean, sam
+odbran, prid
+oddan, prid
+odigran, prid
+odkopan, prid
+odlikovan, prid
+odposlan, prid
+ogoljufan, prid
+okopan, prid
+okovan, prid
+okrancljan, prid
+omalovaževan, prid
+omehčan, prid
+opazovan, prid
+opisovan, prid
+opran, prid
+organ, sam
+orkan, sam
+oskrbovan, prid
+osedlan, prid
+osnovan, prid
+oškodovan, prid
+ožgan, prid
+pajčolan, sam
+pan, sam
+parmezan, sam
+partizan, sam
+pelikan, sam
+pesjan, sam
+plan, sam
+piroman, sam
+počečkan, prid
+počesan, prid
+podedovan, prid
+podivjan, prid
+podkovan, prid
+podžgan, prid
+pogan, sam
+poklan, prid
+pokončan, prid
+pokopan, prid
+pokozlan, prid
+pomečkan, prid
+pomendran, prid
+popackan, prid
+poravnan, prid
+poscan, prid
+porcelan, sam
+posejan, prid
+poslan, prid
+postan, prid
+poškodovan, prid
+poteptan, prid
+poveličevan, prid
+pozvan, prid
+požgan, prid
+predan, prid
+preglasovan, prid
+pregnan, prid
+preoran, prid
+prepeljan, prid
+prepoznan, prid
+preprodan, prid
+preran, prid
+prerokovan, prid
+presejan, prid
+pretkan, prid
+pretentan, prid
+pričakovan, prid
+pridržan, prid
+prignan, prid
+pristan, sam
+priznan, prid
+prižgan, prid
+profan, prid
+prostran, prid
+prsobran, sam
+puran, sam
+raketoplan, sam
+ramazan, sam
+ran, prid
+ravan, sam
+razcapan, prid
+razdejan, prid
+razigran, prid
+razklan, prid
+razmetan, prid
+razposlan, prid
+Rimljan, sam
+roman, sam
+rokobran, sam
+samarijan, sam
+samostan, sam
+samozvan, prid
+sežgan, prid
+simultan, prid
+skovan, prid
+slan, prid
+sopran, sam
+spontan, prid
+spoštovan, prid
+stan, sam
+stkan, prid
+stran, sam
+svečan, prid
+svetovljan, sam
+šaman, sam
+šarlatan, sam
+tiran, sam
+tjavdan, pris
+tlakovan, prid
+točkovan, prid
+ugnan, prid
+uležan, prid
+uran, sam
+urban, prid
+usran, prid
+varovan, prid
+vdan, prid
+vegan, sam
+velikan, sam
+veteran, sam
+vetrobran, sam
+vklesan, prid
+vkopan, prid
+volan, sam
+vran, sam
+vsakdan, sam
+vstran, pris
+vulkan, sam
+vzdrževan, prid
+vzravnan, prid
+vzvalovan, prid
+zadržan, prid
+zagnan, prid
+zaklan, prid
+zakopan, prid
+zaležan, prid
+zamolčan, prid
+zaničevan, prid
+zasnovan, prid
+zaspan, prid
+zastran, pred
+zavarovan, prid
+zaverovan, prid
+zavojevan, prid
+zavozlan, prid
+zaznamovan, prid
+zažgan, prid
+zbran, prid
+zlagan, prid
+zmečkan, prid
+zmehčan, prid
+zrahljan, prid
+zravnan, prid
+žafran, sam
+žrtvovan, prid
+župljan, sam
+žveplan, prid
+čekan, sam
+cigan, sam
+dekan, sam
+deželan, sam
+evangeličan, sam
+krpan, sam
+meščan, sam
+nepoznan, prid
+nezemljan, sam
+neznan, prid
+občan, sam
+otočan, sam
+pijan, prid
+podeželan, sam
+poznan, prid
+svečan, prid
+teleban, sam
+tlačan, sam
+uhan, sam
+vaščan, sam
+zaman, pris
+zemljan, sam
+župan, sam
+banan (banana), sam
+čežan (čežana), sam
+dvoran (dvorana), sam
+fontan (fontana), sam
+havan (havana), sam
+karavan (karavana), sam
+katan (katana), sam
+kurtizan (kurtizana), sam
+membran (membrana), sam
+nakan (nakana), sam
+podgan (podgana), sam
+poljan (poljana), sam
+ran (rana), sam
+soban (sobana), sam
+ukan (ukana), sam
 
 # anj
 danj, sam
@@ -1357,10 +1344,8 @@ maš (maša), sam
 paš (paša), sam
 
 # at
-acetat, sam
 advokat, sam
 agregat, sam
-ahat, sam
 akrobat, sam
 aparat, sam
 apostat, sam
@@ -1371,130 +1356,124 @@ certifikat, sam
 citat, sam
 copat, sam
 dekanat, sam
-delegat
-demokrat
-derivat
-diktat
-diplomat
-direktorat
-doktorat
-dolgovrat
-dukat
-eksponat
-fabrikat
-format
-fotoaparat
-gat
-gnjat
-golovrat
-granat
-habitat
-kalifat
-kandidat
-karat
-kavomat
-konzulat
-kurat
-kvadrat
-laminat
-literat
-magnat
-mandat
-mat
-osat
-pagat
-pat
-patriarhat
-pečat
-pirat
-plagiat
-plakat
-plat
-predikat
-prekat
-preparat
-primat
-proletariat
-referat
-psihopat
-rezultat
-senat
-sindikat
-sociopat
-soldat
-svojat
-škrlat
-škržat
-tat
-telepat
-tempomat
-termostat
-ultimat
-valat
-vrat
-zlat
-bat
-bogat
-bradat
-brat
-brkat
-čokat
-enkrat
-gorat
-Hrvat
-jedrnat
-kljunat
-kosmat
-košat
-krat
-krilat
-lasat
-mesnat
-možat
-nepovrat
-obrat
-nosat
-oglat
-plečat
-ploščat
-podolgovat
-podplat
-povrat
-preobrat
-prevrat
-razvrat
-robat
-rogat
-suhljat
-škrat
-takrat
-špehat
-tršat
-zobat
-čabat
-ferat
-granat
-jat
-koordinat
-kravat
-lat
-lopat
-potrat
-solat
-sonat
-trat
-vrat
-zagat
-zaplat
-spat
-stat
-brat
-drat
-ležat
-predat
-barantat
-zbežat
-veslat
+delegat, sam
+demokrat, sam
+derivat, sam
+diplomat, sam
+direktorat, sam
+doktorat, sam
+dolgovrat, prid
+eksponat, sam
+fabrikat, sam
+format, sam
+fotoaparat, sam
+gat (gate), sam
+gnjat, sam
+golovrat, prid
+habitat, sam
+kalifat, sam
+kandidat, sam
+karat, sam
+kavomat, sam
+konzulat, sam
+kvadrat, sam
+laminat, sam
+literat, sam
+magnat, sam
+mandat, sam
+mat, sam
+osat, sam
+pagat, sam
+pat, sam
+patriarhat, sam
+pečat, sam
+pirat, sam
+plagiat, sam
+plakat, sam
+plat, sam
+predikat, sam
+prekat, sam
+primat, sam
+proletariat, sam
+referat, sam
+psihopat, sam
+rezultat, sam
+senat, sam
+sindikat, sam
+sociopat, sam
+soldat, sam
+svojat, sam
+škrlat, sam
+škržat, sam
+tat, sam
+telepat, sam
+tempomat, sam
+termostat, sam
+ultimat, sam
+valat, sam
+vrat, sam
+zlat, prid
+bat, sam
+bogat, prid
+bradat, prid
+brat, sam
+brkat, prid
+čokat, prid
+enkrat, pris
+gorat, prid
+Hrvat, sam
+jedrnat, prid
+kljunat, prid
+kosmat, prid
+košat, prid
+krat, pris
+krilat, prid
+lasat, prid
+mesnat, prid
+možat, prid
+nepovrat, sam
+obrat, sam
+nosat, prid
+oglat, prid
+plečat, prid
+ploščat, prid
+podolgovat, prid
+podplat, sam
+povrat, sam
+preobrat, sam
+prevrat, sam
+razvrat, sam
+robat, prid
+rogat, prid
+suhljat, prid
+škrat, sam
+takrat, pris
+špehat, prid
+tršat, prid
+zobat, prid
+ferat (ferata), sam
+granat (granata), sam
+jat (jata), sam
+koordinat (koordinata), sam
+kravat (kravata), sam
+lat (lata), sam
+lopat (lopata), sam
+potrat (potrata), sam
+solat (solata), sam
+sonat (sonata), sam
+trat (trata), sam
+vrat (vrata), sam
+zagat (zagata), sam
+zaplat (zaplata), sam
+spat (spati), glag
+stat (stati), glag
+brat (brati), glag
+drat, sam
+ležat (ležati), glag
+predat (predati), glag
+barantat (barantati), glag
+zbežat (zbežati), glag
+veslat (veslati), glag
 
 # av
 akoprav
@@ -4255,6 +4234,253 @@ zaščit (zaščita), sam
 vizit (vizita), sam
 
 # iv
+aditiv, sam
+aktiv, sam
+aperitiv, sam
+arhiv, sam
+berljiv, prid
+blazniv, prid
+bojazljiv, prid
+čitljiv, prid
+čivčiv, medm
+črviv, prid
+detektiv, sam
+diapozitiv, sam
+dobavljiv, prid
+dojemljiv, prid
+dokazljiv, prid
+določljiv, prid
+dosegljiv, prid
+dvomljiv, prid
+eksploziv, sam
+ganljiv, prid
+gibljiv, prid
+goljufiv, prid
+gorljiv, prid
+grabežljiv, prid
+grozljiv, prid
+hiv, sam
+hrenljiv, prid
+igriv, prid
+iskriv, prid
+izliv, sam
+izmuzljiv, prid
+iznajdljiv, prid
+izračunljiv, prid
+iznajdljiv, prid
+izziv, sam
+kazniv, prid
+kočljiv, prid
+kolektiv, sam
+kradljiv, prid
+kratkoživ, prid
+kriv, prid
+lahkoživ, prid
+lažniv, prid
+lepljiv, prid
+ljubezniv, prid
+mamljiv, prid
+marljiv, prid
+masiv, sam
+milostljiv, prid
+minljiv, prid
+motiv, sam
+nagajiv, prid
+naliv, sam
+napihljiv, prid
+naziv, sam
+neberljiv, prid
+nečitljiv, prid
+nedojemljiv, prid
+nedokazljiv, prid
+nedoločljiv, prid
+nedosegljiv, prid
+nedotakljiv, prid
+nedoumljiv, prid
+negledljiv, prid
+neizgovorljiv, prid
+neizpolnljiv, prid
+neizrekljiv, prid
+neločljiv, prid
+neminljiv, prid
+nenadomestljiv, prid
+nenasitljiv, prid
+neobčutljiv, prid
+neobvladljiv, prid
+neodložljiv, prid
+neodpustljiv, prid
+neopazljiv, prid
+neopisljiv, prid
+neopravičljiv, prid
+neoprijemljiv, prid
+nepazljiv, prid
+nepogrešljiv, prid
+nepojasnljiv, prid
+nepomirljiv, prid
+neponovljiv, prid
+nepopisljiv, prid
+nepopravljiv, prid
+nepopustljiv, prid
+nepotešljiv, prid
+neprecenljiv, prid
+nepredstavljiv, prid
+nepredvidljiv, prid
+neprekosljiv, prid
+nepremagljiv, prid
+nepremostljiv, prid
+neprimerljiv, prid
+neprizanesljiv, prid
+nerazložljiv, prid
+nerazumljiv, prid
+nerešljiv, prid
+nesprejemljiv, prid
+neškodljiv, prid
+neukrotljiv, prid
+neuničljiv, prid
+neupogljiv, prid
+neumrljiv, prid
+neustavljiv, prid
+neutolažljiv, prid
+nevoščljiv, prid
+nevpadljiv, prid
+nevsiljiv, prid
+nezadovoljiv, prid
+nezamenljiv, prid
+nezanesljiv, prid
+nezanimiv, prid
+nezaupljiv, prid
+nezdružljiv, prid
+nezlomljiv, prid
+normativ, sam
+občutljiv, prid
+objektiv, sam
+obliv, sam
+obnovljiv, prid
+očarljiv, prid
+odliv, sam
+odvedljiv, prid
+odziv, sam
+omahljiv, prid
+opravljiv, prid
+osupljiv, prid
+otipljiv, prid
+pazljiv, prid
+plesniv, prid
+pogrešljiv, prid
+pomanjkljiv, prid
+pomenljiv, prid
+porogljiv, prid
+posmehljiv, prid
+potrpežljiv, prid
+poziv, sam
+poželjiv, prid
+predirljiv, prid
+preliv, sam
+prepričljiv, prid
+preračunljiv, prid
+presenetljiv, prid
+presunljiv, prid
+pretresljiv, prid
+prezirljiv, prid
+prilagodljiv, prid
+priliv, sam
+primerljiv, prid
+prizanesljiv, prid
+priziv, sam
+pronicljiv, prid
+radoživ, prid
+ranljiv, prid
+razburljiv, prid
+razdražljiv, prid
+razliv, sam
+raztegljiv, prid
+razumljiv, prid
+rešljiv, prid
+siv, prid
+smrdljiv, prid
+sokriv, prid
+spogledljiv, prid
+spoštljiv, prid
+spotakljiv, prid
+sprejemljiv, prid
+spremenljiv, prid
+sramežljiv, prid
+srhljiv, prid
+stativ, sam
+strašljiv, prid
+sumljiv, prid
+šaljiv, prid
+šiv, sam
+škodljiv, prid
+trdoživ, prid
+ubogljiv, prid
+ujedljiv, prid
+umljiv, prid
+ustrežljiv, prid
+ušiv, prid
+vabljiv, prid
+vnetljiv, prid
+vpadljiv, prid
+vpliv, sam
+vprašljiv, prid
+vsiljiv, prid
+vseljiv, prid
+vzburljiv, prid
+vzdržljiv, prid
+vzkipljiv, prid
+vznemirljiv, prid
+zadovoljiv, prid
+zadušljiv, prid
+zajedljiv, prid
+zanemarljiv, prid
+zanesljiv, prid
+zaničljiv, prid
+zanimiv, prid
+zapeljiv, prid
+zasmehljiv, prid
+zaposljiv, prid
+zaupljiv, prid
+zavidljiv, prid
+zbadljiv, prid
+združljiv, prid
+zlomljiv, prid
+zmogljiv, prid
+zmotljiv, prid
+žaljiv, prid
+živ, prid
+žgečkljiv, prid
+bil (biti), glag
+gnil, prid
+skril (skriti), glag
+naredil (narediti), glag
+izvil (izviti), glag
+delil (deliti), glag
+stopil (stopiti), glag
+polil (politi), glag
+blažil (blažiti), glag
+bremenil (bremeniti), glag
+bril (briti), glag
+cedil (cediti), glag
+dobil (dobiti), glag
+dogovoril (dogovoriti), glag
+dojil (dojiti), glag
+dopustil (dopustiti), glag
+dovolil (dovoliti), glag
+drobil (drobiti), glag
+dušil (dušiti), glag
+falil (faliti), glag
+gasil (gasiti), glag
+gnil (gniti), glag
+gojil (gojiti), glag
+gostil (gostiti), glag
+gradil (graditi), glag
+grešil (grešiti), glag
+grozil (groziti), glag
+hladil (hladiti), glag
+izboril (izboriti), glag
+izgovoril (izgovoriti), glag
+izostril (izostriti), glag
+
 
 # iz
 antifriz, sam
@@ -5452,6 +5678,85 @@ lož (loža), sam
 rož (roža), sam
 tavžentrož (tavžentroža), sam
 
+# rb
+grb, sam
+skrb, sam
+grb (grba), sam
+vrb (vrba), sam
+Srb, sam
+
+# rc
+brc, sam
+krc, medm
+žogobrc, sam
+brc (brca), sam
+
+# rd
+grd, prid
+srd, sam
+trd, prid
+žrd, sam
+zmrd (zmrda), sam
+
+# rg
+izvrg, sam
+raztrg, sam
+trg, sam
+škrg (škrge), sam
+zadrg (zadrga), sam
+
+# rh
+povrh, pris
+prh, sam
+srh, sam
+vrh, sam
+mrh (mrha), sam
+prh (prha), sam
+svrh (svrha), sam
+
+# rk
+brk, sam
+cvrk, sam
+Grk, sam
+mrk, sam
+smrk, medm
+srk, sam
+štrk, medm
+švrk, medm
+trk, sam
+črk (črka), sam
+frk (frka), sam
+
+# rm
+grm, sam
+strm, prid
+
+# rn
+črn, prid
+drn, sam
+srebrn, prid
+strn, sam
+trn, sam
+srn (srna), sam
+
+# rp
+srp, sam
+krp (krpa), sam
+
+# rs
+goloprs, prid
+beloprs, prid
+spodrs, sam
+trs, sam
+zdrs, sam
+prs (prsa), sam
+
+# rš
+krš, sam
+prš, sam
+trš, sam
+vrš (vrša), sam
+
 # rt
 četrt, sam
 četrt, pris
@@ -5489,6 +5794,30 @@ zatrt, prid
 zazrt, prid
 črt (črta), sam
 trt (trta), sam
+
+# rv
+brv, sam
+črv, sam
+nozdrv (nozdrvi), sam
+obrv, sam
+postrv, sam
+vrv, sam
+drv (drva), sam
+izumrl (izumreti), glag
+odmrl (odmreti), glag
+umrl (umreti), glag
+vrl, prid
+zamrl (zamreti), glag
+
+# rz
+brz, prid
+trz, sam
+
+# rž
+brž, pris
+rž, sam
+srž, sam
+drž (drža), sam
 
 # u
 bu, medm
