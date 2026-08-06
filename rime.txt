@@ -2132,6 +2132,8 @@ podstreh (podstreha), sam
 pregreh (pregreha), sam
 streh (streha), sam
 uteh (uteha), sam
+nasmeh, sam
+vseh (vsi), zaim
 
 # ej
 ajej, medm
@@ -2353,6 +2355,7 @@ krizantem (krizantema), sam
 shem (shema), sam
 šem (šema), sam
 vem (vedeti), glag
+vsem (vsi), zaim
 
 # eme
 dileme (dilema), sam
@@ -3920,6 +3923,44 @@ rogovil (rogovila), sam
 sil (sila), sam
 vil (vila), sam
 žil (žila), sam
+
+# ila
+dila, sam
+gomila, sam
+gorila, sam
+gverila, sam
+idila, sam
+kila, sam
+kobila, sam
+pila, sam
+prisila, sam
+rogovila, sam
+sila, sam
+svila, sam
+tekila, sam
+vila, sam
+žila, sam
+aprila (april), sam
+avtomobila (avtomobil), sam
+azila (azil), sam
+berila (berilo), sam
+čila (čil), prid
+debila (debil), sam
+filmofila (filmofil), sam
+gnila (gnil), prid
+krokodila (krokodil), sam
+dolgokrila (dolgokril), prid
+mila (mil), prid
+profila (profil), sam
+projektila (projektil), sam
+ringelšpila (ringelšpil), sam
+stila (stil), sam
+ventila (ventil), sam
+skrila (skriti), glag
+špila (špilati), glag
+vzklila (vzkliti), glag
+priredila (prirediti), glag
+mudila (muditi), glag
 
 # ilj
 cilj, sam
