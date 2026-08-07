@@ -823,6 +823,7 @@ barantam (barantati), glag
 bezljam (bezljati), glag
 podam (podati), glag
 izdam (izdati), glag
+nam (mi), zaim
 
 # amem
 vzamem (vzeti), glag
@@ -1469,6 +1470,29 @@ gamaš (gamaša), sam
 kaš (kaša), sam
 maš (maša), sam
 paš (paša), sam
+imaš (imeti), glag
+igraš (igrati), glag
+bebljaš (bebljati), glag
+bingljaš (bingljati), glag
+brkljaš (brkljati), glag
+capljaš (capljati), glag
+čenčaš (čenčati), glag
+cingljaš (cingljati), glag
+cmokaš (cmokati), glag
+čofotaš (čofotati), glag
+čvekaš (čvekati), glag
+daš (dati), glag
+divjaš (divjati), glag
+drgetaš (drgetaš), glag
+frfotaš (frfotaš), glag
+gobcaš (gobcati), glag
+gobezdaš (gobezdati), glag
+godrnjaš (godrnjati), glag
+izdaš (izdati), glag
+izravnaš (izravnati), glag
+izsesaš (izsesati), glag
+klepetaš (klepetati), glag
+
 
 # at
 advokat, sam
@@ -1783,6 +1807,7 @@ nastal (nastati), glag
 dal (dati), glag
 spal (spati), glag
 poznal (poznati), glag
+sijal (sijati), glag
 
 # aven
 brezpraven, prid
@@ -2000,6 +2025,8 @@ pove (povedati), glag
 uspe (uspeti), glag
 začne (začeti), glag
 razve (razvedeti), glag
+zre (zreti), glag
+odpre (odpreti), glag
 
 # eb
 galeb, sam
@@ -2380,6 +2407,32 @@ probleme (problem), sam
 sisteme (sistem), sam
 šleme (šlem), sam
 teoreme (teorem), sam
+
+# emi
+nemi (nem), prid
+gluhonemi (gluhonem), prid
+ekstremi (ekstrem), sam
+emblemi (emblem), sam
+frazemi (frazem), sam
+premi (prem), prid
+problemi (problem), sam
+sistemi (sistem), sam
+šlemi (šlem), sam
+temi (tema), sam
+objemi (objem), sam
+prijemi (prijem), sam
+prevzemi (prevzem), sam
+zajemi (zajeti), glag
+dilemi (dilema), sam
+izjemi (izjema), sam
+kremi (krema), sam
+lemi (lema), sam
+opremi (oprema), sam
+posnemi (posneti), glag
+shemi (shema), sam
+šemi (šema), sam
+tremi (trema), sam
+vnemi (vnema), sam
 
 # en
 alergen, sam
@@ -2776,6 +2829,95 @@ zložen, prid
 zven, sam
 želen, prid
 
+# eni
+ženi (žena), sam
+eni (ena), štev
+anteni (antena), sam
+areni (arena), sam
+ceni (cena), sam
+domeni (domena), sam
+higieni (higiena), sam
+hijeni (hijena), sam
+izmeni (izmena), sam
+kopreni (koprena), sam
+migreni (migrena), sam
+mreni (mrena), sam
+oceni (ocena), sam
+peni (peniti), glag
+sceni (scena), sam
+
+
+# enj
+stenj, sam
+drenj, sam
+semenj, sam
+srenj (srenja), sam
+tenj (tenja), sam
+
+# eno
+bakreno, pris
+cerkveno, pris
+iskreno, pris
+jekleno, pris
+kameno, pris
+kleno, pris
+koleno, sam
+koščeno, pris
+ledeno, pris
+leno, pris
+leseno, pris
+megleno, pris
+meseno, pris
+obsceno, pris
+ognjeno, pris
+peščeno (peščen), prid
+stekleno (steklen), prid
+strupeno, pris
+suvereno, pris
+svileno (svilen), prid
+svinčeno (svinčen), prid
+vodeno, pris
+anteno (antena), sam
+areno (arena), sam
+ceno (cena), sam
+domeno (domena), sam
+hijeno (hijena), sam
+izmeno (izmena), sam
+karanteno (karantena), sam
+kopreno (koprena), sam
+mreno (mrena), sam
+oceno (ocena), sam
+peno (pena), sam
+premeno (premena), sam
+sceno (scena), sam
+sireno (sirena), sam
+steno (stena), sam
+v zameno, pris
+ženo (žena), sam
+eno (ena), štev
+rečeno, prid
+blagoslovljeno, prid
+čaščeno, prid
+deljeno, prid
+dobljeno, prid
+dodeljeno, prid
+dogovorjeno, prid
+dorečeno, prid
+izgovorjeno, prid
+izgubljeno, prid
+izpuščeno, prid
+izrečeno, prid
+izročeno, prid
+izrojeno, prid
+izsušeno, prid
+izvedeno, prid
+izvršeno, prid
+nameščeno, prid
+narejeno, prid
+naročeno, prid
+neomejeno, prid
+neurejeno, prid
+
 # ep
 belorep, prid
 brezrep, prid
@@ -2898,6 +3040,7 @@ razmer (razmera), sam
 sfer (sfera), sam
 ver (vera), sam
 zamer (zamera), sam
+nikjer, prid
 
 # es
 bes, sam
@@ -3195,6 +3338,61 @@ vinjet (vinjeta), sam
 dlet (dleto), sam
 let (leto), sam
 
+# etna
+Etna, sam
+baletna, prid
+bogokletna, prid
+brezpredmetna, prid
+celoletna, prid
+cigaretna, prid
+cvetna, prid
+dietna, prid
+diskretna, prid
+dolgoletna, prid
+dovzetna, prid
+fakultetna, prid
+fletna, prid
+istovetna, prid
+kabinetna, prid
+kasetna, prid
+kompletna, prid
+konkretna, prid
+kvalitetna, prid
+letna, prid
+maturitetna, prid
+mladoletna, prid
+nepokretna, prid
+neprijetna, prid
+nespretna, prid
+neverjetna, prid
+nogometna, prid
+novoletna, prid
+okretna, prid
+podjetna, prid
+pokretna, prid
+poletna, prid
+polnoletna, prid
+posvetna, prid
+prevzetna, prid
+prijetna, prid
+prometna, prid
+prosvetna, prid
+spretna, prid
+spletna, prid
+strahopetna, prid
+svetna, prid
+štafetna, prid
+toaletna, rid
+umetna, prid
+univerzitetna, prid
+verjetna, prid
+vzmetna, prid
+začetna, prid
+zagonetna, prid
+
+# etnja
+kretnja, sam
+pretnja, sam
 
 # ev
 cev, sam
@@ -3299,6 +3497,35 @@ zavez (zaveza), sam
 zvez (zveza), sam
 žlez (žleza), sam
 
+# eze
+antiteze (antiteza), sam
+breze (breza), sam
+dereze, sam
+friteze (friteza), sam
+geneze (geneza), sam
+hipoteze (hipoteza), sam
+jeze (jeza), sam
+kontrapeze (kontrapeza), sam
+majoneze (majoneza), sam
+naveze (naveza), sam
+obveze (obveza), sam
+odveze (odveza), sam
+poteze (poteza), sam
+pretveze (pretveza), sam
+preveze (preveza), sam
+proteze (proteza), sam
+teze (teza), sam
+veze (veza), sam
+zareze (zareza), sam
+zaveze (zaveza), sam
+zveze (zveza), sam
+žleze (žleza), sam
+steze (steza), sam
+leze (lesti), glag
+naleze (nalesti), glag
+prileze (prilesti), glag
+irokeze (irokeza), sam
+
 # ež
 jež, sam
 protiutež, sam
@@ -3338,12 +3565,17 @@ cevi (cev), sam
 dehti (dehteti), glag
 diši (dišati), glag
 dni (dan), sam
+doni (doneti), glag
 drvi (drveti), glag
+drži (držati), glag
 etui, sam
+gosti (gostiti), glag
+govori (govoriti), glag
 grozi (groziti), glag
 hči, sam
 hojladri, medm
 ihti (ihteti), glag
+jedmi (jed), sam
 kikiriki, medm
 kosti (kost), sam
 kri, sam
@@ -3356,44 +3588,45 @@ meni, sam
 mezi (mezeti), glag
 mi, zaim
 moči (moč), sam
+možnosti (možnost), sam
+nagradi (nagraditi), glag
 naslovi (nasloviti), glag
+ni, člen
 noči (noč), sam
 oči (oko), sam
+okrepi (okrepiti), glag
+osti (ost), sam
 pi, sam
+poti (pot), sam
 preti (pretiti), glag
+preži (prežati), glag
 remi, sam
 sani, sam
+skrbi (skrb), sam
+sledi (slediti), glag
+smeji (smejati), glag
 smeti (smet), sam
-smeti (smetiti), glag
 snovi (snov), sam
 spi (spati), glag
 stopi (stopiti), glag
 stremi (stremeti), glag
 ti, zaim
+trdi (trditi), glag
+tri, štev
 ugotovi (ugotoviti), glag
 vedri (vedriti), glag
 veli (veleti), glag
 vi, zaim
 vihti (vihteti), glag
 vsi, zaim
+vzcveti (vzcveteti), glas
 zadosti (zadostiti), glag
 zazdi (zazdeti), glag
 zdani (zdaniti se), glag
 zdi (zdeti), glag
 zlakoti (zlakotiti), glag
 zli (zel), prid
-ni, člen
 želi (želeti), glag
-sledi (slediti), glag
-tri, štev
-doni (doneti), glag
-drži (držati), glag
-možnosti (možnost), sam
-gosti (gostiti), glag
-kosti (kost), sam
-osti (ost), sam
-nagradi (nagraditi), glag
-govori (govoriti), glag
 
 # ib
 gib, sam
@@ -4002,6 +4235,7 @@ prežim (prežati), glag
 sledim (slediti), glag
 smetim (smetiti), glag
 simsalabim, sam
+želim (želeti), glag
 
 # in
 adrenalin, sam
@@ -4232,6 +4466,15 @@ vzpetin (vzpetina), sam
 zverin (zverina), sam
 kin (kino), sam
 vin (vino), sam
+
+# inj
+sinj, sam
+boginj (boginja), sam
+črepinj (črepinja), sam
+levinj (levinja), sam
+skrinj (skrinja), sam
+stopinj (stopinja), sam
+svinj (svinja), sam
 
 # ine
 angine (angina), sam
@@ -4635,6 +4878,118 @@ vršitelj, sam
 vzgojitelj, sam
 odrešitelj, sam
 
+# iti
+beliti, glag
+biti, glag
+blažiti, glag
+briti, glag
+buditi, glag
+cediti, glag
+čuditi, glag
+čutiti, glag
+deliti, glag
+dobiti, glag
+določiti, glag
+dopustiti, glag
+dosoditi, glag
+dovoliti, glag
+drobiti, glag
+dušiti, glag
+ganiti, glag
+kriviti, glag
+slepiti, glag
+akoliti (akolit), sam
+banditi (bandit), sam
+barviti (barvit), prid
+biti (bit), sam
+bliskoviti (bliskovit), prid
+bojeviti (bojevit), prid
+celoviti (celovit), prid
+častiti (častit), prid
+čudoviti (čudovit), prid
+dobrobiti (dobrobit), sam
+duhoviti (duhovit), prid
+enoviti (enovit), prid
+favoriti (favorit), sam
+grafiti (grafit), sam
+hiti (hit), sam
+hriboviti (hriboviti), prid
+izbiti, glag
+izpiti (izpit), sam
+izraziti (izrazit), prid
+kamniti (kamnit), prid
+kiti (kit), prid
+koreniti (korenit), prid
+kriti, glag
+liti, glag
+medoviti (medovit), prid
+miti (mit), sam
+nabiti, glag
+nabriti (nabrit), prid
+napiti (napit), prid
+naviti (navit), prid
+odkriti (odkrit), prid
+nerazviti (nerazvit), prid
+nezakoniti (nezakonit), prid
+obiti, glag
+odbiti, glag
+odkriti, glag
+oditi, glag
+odviti, glag
+ognjeviti (ognjevit), prid
+oviti, glag
+paraziti (parazit), sam
+plemeniti (plemenit), prid
+pobiti, glag
+pokriti, glag
+popiti, glag
+poskriti, glag
+poviti, glag
+prebiti, glag
+preliti, glag
+pribiti, glag
+prikriti, glag
+priliti, glag
+priviti, glag
+razbiti, glag
+razkriti, glag
+razviti, glag
+razvpiti (razvpit), prid
+rekviziti (rekvizit), sam
+sateliti (satelit), sam
+sešiti, glag
+siloviti (silovit), prid
+skriti, glag
+slikoviti (slikovit), prid
+sloviti (slovit), prid
+spočiti, glag
+srditi (srdit), prid
+srboriti (srborit), prid
+stalagmiti (stalagmit), sam
+stalaktiti (stalaktit), sam
+stasiti (stasit), prid
+strahoviti (strahovit), prid
+ščiti (ščititi), glag
+temeljiti (temeljit), prid
+transvestiti (transvestit), sam
+trogloditi (troglodit), sam
+ubiti, glag
+učinkoviti (učinkovit), prid
+umiti, glag
+uliti, glag
+vliti, glag
+zabiti (zabit), prid
+zakoniti (zakonit), prid
+zakriti, glag
+zaliti, glag
+zariti, glag
+zaužiti, glag
+zaviti, glag
+zbiti, glag
+zmagoviti (zmagovit), prid
+znameniti (znamenit), prid
+zviti, glag
+
 # iv
 aditiv, sam
 aktiv, sam
@@ -4882,6 +5237,7 @@ hladil (hladiti), glag
 izboril (izboriti), glag
 izgovoril (izgovoriti), glag
 izostril (izostriti), glag
+zgodil (zgoditi), glag
 
 
 # iz
@@ -5306,6 +5662,46 @@ sodo (soda), sam
 usodo (usoda), sam
 zablodo (zabloda), sam
 sodo (sod), prid
+
+# odu
+brodu (brod), sam
+godu (god), sam
+gospodu (gospod), sam
+hlodu (hlod), sam
+labodu (labod), sam
+plodu (plod), sam
+rodu (rod), sam
+sodu (sod), sam
+sorodu (sorod), sam
+velblodu (velblod), sam
+cevovodu (cevovod), sam
+dovodu (dovod), sam
+izhodu (izhod), sam
+izvodu (izvod), sam
+mimohodu (mimohod), sam
+obhodu (obhod), sam
+obodu (obod), sam
+odvodu (odvod), sam
+podu (pod), sam
+pohodu (pohod), sam
+porodu (porod), sam
+povodu (povod), sam
+prehodu (prehod), sam
+prevodu (prevod), sam
+prihodu (prihod), sam
+proizvodu (proizvod), sam
+shodu (shod), sam
+sprehodu (sprehod), sam
+sprevodu (sprevod), sam
+strelovodu (strelovod), sam
+svodu (svod), sam
+uvodu (uvod), sam
+vhodu (vhod), sam
+vodovodu (vodovod), sam
+vzhodu (vzhod), sam
+vzvodu (vzvod), sam
+zahodu (zahod), sam
+pogodu, pris
 
 # of
 apostrof, sam
@@ -5773,6 +6169,11 @@ spon (spona), sam
 šablon (šablona), sam
 ton (tona), sam
 zapon (zapona), sam
+
+# onj
+vonj, sam
+zastonj, pris
+konj, sam
 
 # op
 okop, sam
@@ -6396,6 +6797,13 @@ pobud (pobuda), sam
 spodbud (spodbuda), sam
 zamud (zamuda), sam
 
+# udek
+ponudek, sam
+udek, sam
+
+# udka
+ponudka, sam
+
 # uf
 goljuf, sam
 puf, sam
@@ -6508,6 +6916,23 @@ bul (bula), sam
 cul (cula), sam
 mul (mula), sam
 nul (nula), sam
+
+# ulj
+dragulj, sam
+kragulj, sam
+metulj, sam
+mulj, sam
+žulj, sam
+hodulj (hodulja), sam
+jegulj (jegulja), sam
+klepetulj (klepetulja), sam
+krivulj (krivulja), sam
+lasulj (lasulja), sam
+prdulj (prdulja), sam
+ropotulj (ropotulja), sam
+šatulj (šatulja), sam
+trakulj (trakulja), sam
+volkulj (volkulja), sam
 
 # um
 brezum, sam
