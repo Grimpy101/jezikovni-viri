@@ -643,6 +643,7 @@ omak (omaka), sam
 oznak (oznaka), sam
 srak (sraka), sam
 krepak, prid
+siromak, sam
 
 # al
 admiral, sam
@@ -767,6 +768,52 @@ varoval (varovalo), sam
 vešal (vešala), sam
 zijal (zijala), sam
 zrcal (zrcalo), sam
+
+# ala
+bala, sam
+centrala, sam
+diagonala, sam
+domala, člen
+gala, sam
+hala, sam
+hvala, sam
+ilegala, sam
+koala, sam
+komerciala, sam
+komunala, sam
+magistrala, sam
+mala (mali), prid
+morala, sam
+marginala, sam
+normala, sam
+obala, sam
+očala, sam
+skala, sam
+sociala, sam
+spirala, sam
+šala, sam
+štala, sam
+transverzala, sam
+bodala (bodalo), sam
+brenkala (brenkalo), sam
+budala, sam
+držala (držalo), sam
+dvigala (dvigalo), sam
+godala (godalo), sam
+igrala (igralo), sam
+kazala (kazalo), sam
+letala (letalo), sam
+kukala (kukalo), sam
+naslonjala (naslonjalo), sam
+nihala (nihalo), sam
+obešala (obešalo), sam
+obuvala (obuvalo), sam
+odvajala (odvajalo), sam
+ogledala (ogledalo), sam
+ogrinjala (ogrinjalo), sam
+padala (padalo), sam
+znala (znati), glag
+pognala (pognati), glag
 
 # alj
 dalj, pris
@@ -2027,6 +2074,8 @@ začne (začeti), glag
 razve (razvedeti), glag
 zre (zreti), glag
 odpre (odpreti), glag
+dve, štev
+še, člen
 
 # eb
 galeb, sam
@@ -2048,6 +2097,211 @@ hec, sam
 prec, pris
 dec, sam
 sklec (skleca), sam
+
+# eč
+kleč, sam
+peč, sam
+reč, sam
+seč, sam
+skeč, sam
+všeč, poved
+besneč, prid
+bežeč, prid
+bleščeč, prid
+bodeč, prid
+boječ, prid
+boleč, prid
+brodeč, prid
+buhteč, prid
+čepeč, prid
+čuječ, prid
+čuteč, prid
+cveteč, prid
+dehteč, prid
+dišeč, prid
+doneč, prid
+dražeč, prid
+drhteč, prid
+drseč, prid
+držeč, prid
+goreč, prid
+govoreč, prid
+grozeč, prid
+hlepeč, prid
+hodeč, prid
+hrepeneč, prid
+hrumeč, prid
+ihteč, prid
+ječeč, prid
+kadeč, prid
+kričeč, prid
+kruleč, prid
+leteč, prid
+ležeč, prid
+ljubeč, prid
+meč, sam
+misleč, prid
+molčeč, prid
+moreč, prid
+noseč, prid
+obstoječ, prid
+odveč, pris
+pereč, prid
+plamteč, prid
+preč, pris
+preteč, prid
+preveč, pris
+prežeč, prid
+rdeč, prid
+renčeč, prid
+režeč, prid
+rjoveč, prid
+rjaveč, prid
+roteč, prid
+sedeč, prid
+skeleč, prid
+skrbeč, prid
+slabeč, prid
+sledeč, prid
+slepeč, prid
+sloneč, prid
+sloveč, prid
+smrčeč, prid
+smrdeč, prid
+sodeč, prid
+sopeč, prid
+speč, prid
+srbeč, prid
+srepeč, prid
+stoječ, prid
+strmeč, prid
+svareč, prid
+svetleč, prid
+štrleč, prid
+šumeč, prid
+tolažeč, prid
+tožeč, prid
+trpeč, prid
+trohneč, prid
+tuleč, prid
+vabeč, prid
+več, pris
+vihteč, prid
+vodeč, prid
+vozeč, prid
+vreščeč, prid
+vrteč, prid
+zveneč, prid
+žareč, prid
+želeč, prid
+živeč, prid
+ječ (ječa), sam
+leč (leča), sam
+meč (meča), sam
+nesreč (nesreča), sam
+pleč (pleča), sam
+sveč (sveča), sam
+vreč (vreča), sam
+
+# eče
+bleščeče, pris
+boječe, pris
+boleče, pris
+goreče, pris
+rdeče, pris
+šumeče, pris
+besneče, pris
+bežeče, pris
+bleščeče, pris
+bodeče, pris
+boječe, pris
+boleče, pris
+brodeče, pris
+buhteče, pris
+čepeče, pris
+čuječe, pris
+čuteče, pris
+cveteče, pris
+dehteče, pris
+dišeče, pris
+doneče, pris
+dražeče, pris
+drhteče, pris
+drseče, pris
+držeče, pris
+goreče, pris
+govoreče, pris
+grozeče, pris
+hlepeče, pris
+hodeče, pris
+hrepeneče, pris
+hrumeče, pris
+ihteče, pris
+ječeče, pris
+kadeče, pris
+kričeče, pris
+kruleče, pris
+leteče, pris
+ležeče, pris
+ljubeče, pris
+misleče, pris
+molčeče, pris
+moreče, pris
+noseče, pris
+obstoječe, pris
+pereče, pris
+plamteče, pris
+preteče, pris
+prežeče, pris
+rdeče, pris
+renčeče, pris
+režeče, pris
+rjoveče, pris
+rjaveče, pris
+roteče, pris
+sedeče, pris
+skeleče, pris
+skrbeče, pris
+slabeče, pris
+sledeče, pris
+slepeče, pris
+sloneče, pris
+sloveče, pris
+smrčeče, pris
+smrdeče, pris
+sodeče, pris
+sopeče, pris
+speče, pris
+srbeče, pris
+srepeče, pris
+stoječe, pris
+strmeče, pris
+svareče, pris
+svetleče, pris
+štrleče, pris
+šumeče, pris
+tolažeče, pris
+tožeče, pris
+trpeče, pris
+trohneče, pris
+tuleče, pris
+vabeče, pris
+vihteče, pris
+vodeče, pris
+vozeče, pris
+vreščeče, pris
+vrteče, pris
+zveneče, pris
+žareče, pris
+želeče, pris
+živeče, pris
+gneče (gneča), sam
+ječe (ječa), sam
+leče (leča), sam
+nesreče (nesreča), sam
+sreče (sreča), sam
+sveče (sveča), sam
+vreče (vreča), sam
 
 # ed
 bled, prid
@@ -2407,6 +2661,13 @@ probleme (problem), sam
 sisteme (sistem), sam
 šleme (šlem), sam
 teoreme (teorem), sam
+breme, sam
+pleme, sam
+sleme, sam
+streme, sam
+teme, sam
+vreme, sam
+seme, sam
 
 # emi
 nemi (nem), prid
@@ -3627,6 +3888,11 @@ zdi (zdeti), glag
 zlakoti (zlakotiti), glag
 zli (zel), prid
 želi (želeti), glag
+žari (žareti), glag
+odpri (odpreti), glag
+živi (živeti), glag
+hromi (hrometi), glag
+gori (goreti), glag
 
 # ib
 gib, sam
@@ -4011,6 +4277,12 @@ zoprnij (zoprnija), sam
 žaluzij (žaluzija), sam
 župnij (župnija), sam
 
+# ijo
+adijo, medm
+arheologijo (arheologija), sam
+poezijo (poezija), sam
+spijo (spati), glag
+
 # ik
 bolnik, sam
 branik, sam
@@ -4194,6 +4466,81 @@ skrila (skriti), glag
 vzklila (vzkliti), glag
 priredila (prirediti), glag
 mudila (muditi), glag
+potila (potiti), glag
+barvila (barvilo), sam
+besedila (besedilo), sam
+čistila (čistilo), sam
+črnila (črnilo), sam
+čutila (čutilo), sam
+darila (darilo), sam
+dokazila (dokazilo), sam
+določila (določilo), sam
+glasbila (glasbilo), sam
+glasila (glasilo), sam
+gnojila (gnojilo), sam
+gonila (gonilo), sam
+hranila (hranilo), sam
+izročila (izročilo), sam
+kadila (kadilo), sam
+kosila (kosilo), sam
+kresila (kresilo), sam
+krila (krilo), sam
+krmila (krmilo), sam
+lepila (lepilo), sam
+ličila (ličilo), sam
+ločila (ločilo), sam
+lepotila (lepotilo), sam
+loščila (loščilo), sam
+mamila (mamilo), sam
+mašila (mašilo), sam
+mazila (mazilo), sam
+merila (merilo), sam
+mila (milo), sam
+nadomestila (nadomestilo), sam
+nakazila (nakazilo), sam
+naročila (naročilo), sam
+navodila (navodilo), sam
+netila (netilo), sam
+oblačila (oblačilo), sam
+obvestila (obvestilo), sam
+opozorila (opozorilo), sam
+opravičila (opravičilo), sam
+opravila (opravilo), sam
+perila (perilo), sam
+plačila (plačilo), sam
+plovila (plovilo), sam
+pojasnila (pojasnilo), sam
+pooblastila (pooblastilo), sam
+popravila (popravilo), sam
+poročila (poročilo), sam
+posojila (posojilo), sam
+posvetila (posvetilo), sam
+potrdila (potrdilo), sam
+povračila (povračilo), sam
+pravila (pravilo), sam
+pršila (pršilo), sam
+ravnila (ravnilo), sam
+rdečila (rdečilo), sam
+rezila (rezilo), sam
+senčila (senčilo), sam
+sladila (sladilo), sam
+slepila (slepilo), sam
+sporočila (sporočilo), sam
+strašila (strašilo), sam
+svarila (svarilo), sam
+svetila (svetilo), sam
+števila (število), sam
+trobila (trobilo), sam
+učila (učilo), sam
+vabila (vabilo), sam
+vodila (vodilo), sam
+volila (volilo), sam
+voščila (voščilo), sam
+vozila (vozilo), sam
+vračila (vračilo), sam
+zagotovila (zagotovilo), sam
+zdravila (zdravilo), sam
+živila (živilo), sam
 
 # ilj
 cilj, sam
@@ -4466,6 +4813,211 @@ vzpetin (vzpetina), sam
 zverin (zverina), sam
 kin (kino), sam
 vin (vino), sam
+
+# ina
+angina, sam
+balerina, sam
+bankina, sam
+belina, sam
+beljakovina, sam
+blazina, sam
+bližina, sam
+bolečina, sam
+brežina, sam
+brazgotina, sam
+briljantina, sam
+brzina, sam
+carina, sam
+celina, sam
+cestnina, sam
+četrtina, sam
+čistina, sam
+crkovina, sam
+črnina, sam
+črvina, sam
+daljina, sam
+davnina, sam
+debelina, sam
+deklina, sam
+disciplina, sam
+divjina, sam
+doktrina, sam
+dolina, sam
+dolžina, sam
+domovina, sam
+drobovina, sam
+drobtina, sam
+družina, sam
+duplina, sam
+fužina, sam
+gladina, sam
+glavarina, sam
+glavnina, sam
+glina, sam
+globina, sam
+globočina, sam
+gotovina, sam
+graščina, sam
+grbina, sam
+imovina, sam
+invalidnina, sam
+izboklina, sam
+izdolbina, sam
+izkopanina, sam
+izmišljotina, sam
+izposojnina, sam
+jadrovina, sam
+jasnina, sam
+kabina, sam
+kamnina, sam
+kantina, sam
+kapljevina, sam
+kilometrina, sam
+kislina, sam
+klančina, sam
+količina, sam
+konkubina, sam
+korenina, sam
+košenina, sam
+kotlina, sam
+kovina, sam
+krajina, sam
+kraljevina, sam
+krivina, sam
+krtina, sam
+kupnina, sam
+lastnina, sam
+latrina, sam
+ledina, sam
+lavina, sam
+limuznina, sam
+lina, sam
+ločina, sam
+lupina, sam
+luščina, sam
+mahovina, sam
+malina, sam
+mandarina, sam
+manjšina, sam
+mašina, sam
+medicina, sam
+mesečina, sam
+mesnina, sam
+milina, sam
+mina, sam
+mladina, sam
+množina, sam
+modrina, sam
+mojstrovina, sam
+najemnina, sam
+napitnina, sam
+naplavina, sam
+naročnina, sam
+nižina, sam
+odpravnina, sam
+odprtina, sam
+odrgnina, sam
+odškodnina, sam
+okroglina, sam
+omrežnina, sam
+opeklina, sam
+ostalina, sam
+oteklina, sam
+ožina, sam
+pajčevina, sam
+parkirnina, sam
+pečina, sam
+pelerina, sam
+perutnina, sam
+planina, sam
+plitvina, sam
+pločevina, sam
+plutovina, sam
+pokojnina, sam
+popkovina, sam
+posteljnina, sam
+površina, sam
+praznina, sam
+prijavnina, sam
+prostornina, sam
+prvina, sam
+rastlina, sam
+ravnina, sam
+razbitina, sam
+raztopina, sam
+rdečina, sam
+rezina, sam
+rodbina, sam
+rozina, sam
+rudnina, sam
+rutina, sam
+sardina, sam
+sestavina, sam
+sinjina, sam
+sipina, sam
+sivina, sam
+skupina, sam
+slanina, sam
+slina, sam
+spojina, sam
+srebrnina, sam
+sredina, sam
+starešina, sam
+starina, sam
+steklina, sam
+steklovina, sam
+strmina, sam
+surovina, sam
+svežina, sam
+ščetina, sam
+širina, sam
+škrbina, sam
+šolnina, sam
+tatvina, sam
+tekočina, sam
+tiskovina, sam
+tišina, sam
+tkanina, sam
+toplina, sam
+trgovina, sam
+tujina, sam
+tvarina, sam
+udrtina, sam
+ugreznina, sam
+umetnina, sam
+ureznina, sam
+usedlina, sam
+večina, sam
+veličina, sam
+veščina, sam
+violina, sam
+višina, sam
+vitrina, sam
+votlina, sam
+vrlina, sam
+vročina, sam
+vsebina, sam
+vstopnina, sam
+vzpetina, sam
+zapuščina, sam
+zavarovalnina, sam
+zgodovina, sam
+zlatnina, sam
+zverina, sam
+želatina, sam
+žepnina, sam
+žganina, sam
+živina, sam
+čokolina (čokolino), sam
+edina (edin), člen
+fina (fin), prid
+kapučina (kapučino), sam
+kazina (kazino), sam
+kina (kino), sam
+pianina (pianino), sam
+vina (vino), sam
+adrenalina (adrenalin), sam
+
 
 # inj
 sinj, sam
@@ -6555,6 +7107,39 @@ vol, sam
 napol, pris
 pol, pris
 sol, sam
+
+# ova
+obnova, sam
+osnova, sam
+prenova, sam
+presnova, sam
+sova, sam
+supernova, sam
+ustanova, sam
+vdova, sam
+zasnova, sam
+znova, pris
+blagoslova (blagoslov), sam
+gotova (gotov), prid
+kitolova (kitolov), sam
+kova (kov), sam
+krivolova (krivolov), sam
+krova (krov), sam
+lova (lov), sam
+naslova (naslov), sam
+negotova (negotov), prid
+nova (nov), prid
+podnaslova (podnaslov), sam
+pokrova (pokrov), sam
+prislova (prislov), sam
+ribolova (ribolov), sam
+rova (rov), sam
+srečelova (srečelov), sam
+surova (surov), prid
+ulova (ulov), sam
+zrakoplova (zrakoplov), sam
+njegova (njegov), zaim
+šova (šov), sam
 
 # oz
 francoz, sam
