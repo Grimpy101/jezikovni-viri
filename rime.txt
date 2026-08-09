@@ -45,6 +45,7 @@ prizna (priznati), glag
 sveta (svet), sam
 morja (morje), sam
 mesa (meso), sam
+zna (znati), glag
 
 # ab
 kebab, sam
@@ -1019,6 +1020,81 @@ halj (halja), sam
 medalj (medalja), sam
 razdalj (razdalja), sam
 
+# alo
+bodalo, sam
+brenkalo, sam
+brisalo, sam
+budalo, sam
+dihalo, sam
+držalo, sam
+dvigalo, sam
+godalo, sam
+igralo, sam
+kazalo, sam
+kratko malo, člen
+kresalo, sam
+kukalo, sam
+letalo, sam
+malo, pris
+mehčalo, sam
+nabodalo, sam
+nakovalo, sam
+naslonjalo, sam
+nemalo, pris
+nihalo, sam
+obuvalo, sam
+odevalo, sam
+odvajalo, sam
+ogledalo, sam
+ogrinjalo, sam
+padalo, sam
+pihalo, sam
+pokrivalo, sam
+pomagalo, sam
+pomirjevalo, sam
+pregrinjalo, sam
+premalo, pris
+računalo, sam
+ralo, sam
+ropotalo, sam
+skropucalo, sam
+spričevalo, sam
+stikalo, sam
+stojalo, sam
+stopalo, sam
+strgalo, sam
+tipalo, sam
+tolkalo, sam
+trkalo, sam
+varovalo, sam
+za malo, člen
+zapiralo, sam
+zijalo, sam
+zrcalo, sam
+dalo (dati), glag
+stalo (stati), glag
+balo (bala), sam
+centralo (centrala), sam
+diagonalo (diagonala), sam
+halo (hala), sam
+hvalo (hvala), sam
+ilegalo (ilegala), sam
+katedralo (katedrala), sam
+koalo (koala), sam
+komercialo (komerciala), sam
+komunalo (komunala), sam
+magistralo (magistrala), sam
+moralo (morala), sam
+normalo (normala), sam
+obalo (obala), sam
+skalo (skala), sam
+socialo (sociala), sam
+spiralo (spirala), sam
+šalo (šala), sam
+štalo (štala), sam
+transverzalo (transverzala), sam
+zahvalo (zahvala), sam
+
 # am
 avtogram, sam
 anagram, sam
@@ -1893,6 +1969,7 @@ predat (predati), glag
 barantat (barantati), glag
 zbežat (zbežati), glag
 veslat (veslati), glag
+skat, sam
 
 # av
 akoprav, vez
@@ -2850,6 +2927,101 @@ omel (omelo), sam
 razpel (razpelo), sam
 žrel (žrelo), sam
 
+# ele
+čebele (čebela), sam
+cele (cel), prid
+činele (činela), sam
+citadele (citadela), sam
+favele (favela), sam
+gazele (gazela), sam
+kamele (kamela), sam
+kapele (kapela), sam
+karamele (karamela), sam
+klientele (klientela), sam
+lamele (lamela), sam
+marele (marela), sam
+novele (novela), sam
+omele (omela), sam
+paralele (paralela), sam
+parcele (parcela), sam
+salmonele (salmonela), sam
+sardele (sardela), sam
+skodele (skodela), sam
+strele (strela), sam
+tabele (tabela), sam
+tarantele (tarantela), sam
+telenovele (telenovela), sam
+dežele (dežela), sam
+bele (bel), prid
+bordele (bordel), sam
+dele (del), sam
+decibele (decibel), sam
+gele (gel), sam
+hotele (hotel), sam
+kartele (kartel), sam
+kastele (kastel), sam
+modele (model), sam
+motele (motel), sam
+panele (panel), sam
+predele (predel), sam
+samostrele (samostrel), sam
+strele (strel), sam
+smele (smel), prid
+španjele (španjel), sam
+šrapnele (šrapnel), sam
+tunele (tunel), sam
+uvele (uvel), prid
+vesele (vesel), sam
+dospele (dospeti), glag
+izkrvavele (izkrvaveti), glag
+izparele (izpareti), glag
+obogatele (obogateti), glag
+odletele (odleteti), glag
+odrevenele (odreveneti), glag
+oglušele (oglušeti), glag
+ohromele (ohrometi), glag
+okamnele (okamneti), glag
+oledenele (oledeneti), glag
+omedlele (omedleti), glag
+onemele (onemeti), glag
+osamele (osamel), prid
+osirotele (osiroteti), glag
+osivele (osiveti), glag
+oslabele (oslabeti), glag
+oslepele (oslepeti), glag
+ostarele (ostareti), glag
+otopele (otopeti), glag
+ovdovele (ovdoveti), glag
+ozdravele (ozdraveti), glag
+poblaznele (poblazneti), glag
+pobesnele (pobesneti), glag
+prebledele (prebledeti), glag
+počrnele (počrneti), glag
+potemnele (potemneti), glag
+preživele (preživeti), glag
+prispele (prispeti), glag
+splesnele (splesneti), glag
+spodletele (spodleteti), glag
+splahnele (splahneti), glag
+uspele (uspeti), glag
+vrele (vrel), prid
+vzplamtele (vzplamteti), glag
+zablodele (zablodel), prid
+zakrnele (zakrneti), glag
+zardele (zardeti), glag
+zarjavele (zarjaveti), glag
+zastarele (zastarel), prid
+strmele (strmeti), glag
+zbledele (zbledeti), glag
+zrele (zrel), prid
+želele (želeti), glag
+imele (imeti), glag
+hotele (hoteti), glag
+velele (veleti), glag
+prijele (prijeti), glag
+odele (odeti), glag
+prevzele (prevzeti), glag
+
 # elj
 fotelj, sam
 hmelj, sam
@@ -3691,6 +3863,15 @@ potrese (potres), sam
 ponese (ponesti), glag
 odnese (odnesti), glag
 pretrese (pretresti), glag
+
+# ester
+alkotester, sam
+orkester, sam
+pester, prid
+poliester, sam
+semester, sam
+silvester, sam
+sester (sestra), sam
 
 # eš
 fleš, sam
@@ -4653,6 +4834,8 @@ vrstijo (vrstiti), glag
 valijo (valiti), glag
 slepijo (slepiti), glag
 tajijo (tajiti), glag
+norijo (noreti), glag
+grlijo (grleti), glag
 
 # ik
 bolnik, sam
@@ -5811,6 +5994,70 @@ vršitelj, sam
 vzgojitelj, sam
 odrešitelj, sam
 
+# iten
+dinamiten, prid
+ekspliciten, prid
+eliten, prid
+grozoviten, prid
+imeniten, prid
+impliciten, prid
+krediten, prid
+morebiten, prid
+monoliten, prid
+nasiten, prid
+neizpodbiten, prid
+nenasiten, prid
+očiten, prid
+oplemeniten, prid
+piten, prid
+poglaviten, prid
+pridobiten, prid
+profiten, prid
+rodoviten, prid
+siten, prid
+stanoviten, prid
+starokopiten, prid
+užiten, prid
+zaščiten, prid
+ženiten, prid
+
+# item
+algoritem, sam
+ritem, sam
+logaritem, sam
+barvitem (barvit), prid
+bliskovitem (bliskovit), prid
+bojevitem (bojevit), prid
+častitem (častit), prid
+celovitem (celovit), prid
+čudovitem (čudovit), prid
+duhovitem (duhovit), prid
+enovitem (enovit), prid
+grozovitem (grozovit), prid
+hribovitem (hribovit), prid
+izrazitem (izrazit), prid
+jeznoritem (jeznorit), prid
+kamnitem (kamnit), prid
+korenitem (korenit), prid
+krčevitem (krčevit), prid
+ognjevitem (ognjevit), prid
+plemenitem (plemenit), prid
+plodovitem (plodovit), prid
+silovitem (silovit), prid
+skokovitem (skokovit), prid
+slikovitem (slikovit), prid
+slovitem (slovit), prid
+srditem (srdit), prid
+stasitem (stasit), prid
+strahovitem (strahovit), prid
+sunkovitem (sunkovit), prid
+temeljitem (temeljit), prid
+učinkovitem (učinkovit), prid
+valovitem (valovit), prid
+zakonitem (zakonit), prid
+zmagovitem (zmagovit), prid
+znamenitem (znamenit), prid
+
 # iti
 beliti, glag
 biti, glag
@@ -6197,6 +6444,16 @@ paradiž, sam
 prestiž, sam
 riž, sam
 viž (viža), sam
+
+# iže
+niže (nizko), prid
+bliže (blizu), prid
+griže (griža), sam
+viže (viža), sam
+križe (križ), sam
+obliže (obliž), sam
+liže (lizati), glag
+ostriže (ostriž), sam
 
 # o
 argo, sam
@@ -6950,6 +7207,22 @@ svetobolje, sam
 vesolje, sam
 nejevolje (nejevolja), sam
 volje (volja), sam
+
+# oljke
+oljke (oljka), sam
+prostovoljke (prostovoljka), sam
+školjke (školjka), sam
+vesoljke (vesoljka), sam
+
+# olke
+skolke, sam
+bogomolke, sam
+kontrolke, sam
+osnovnošolke, sam
+polke, sam
+rolke, sam
+sošolke, sam
+srednješolke, sam
 
 # om
 aksiom, sam
