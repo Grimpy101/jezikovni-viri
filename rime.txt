@@ -43,6 +43,7 @@ odigra (odigrati), glag
 pozna (poznati), glag
 prizna (priznati), glag
 sveta (svet), sam
+morja (morje), sam
 
 # ab
 kebab, sam
@@ -501,6 +502,121 @@ zaznaj (zaznati), glag
 zgaraj (zgarati se), glag
 požgečkaj (požgečkati), glag
 
+# aja
+graja, sam
+izdaja, sam
+kraja, sam
+maja (maj), sam
+oddaja, sam
+ograja, sam
+postaja, sam
+predaja, sam
+predvaja (predvajati), glag
+pristaja (pristajati), glag
+prodaja, sam
+raja, sam
+ringaraja, sam
+staja, sam
+utaja, sam
+vaja, sam
+vstaja, sam
+zakonodaja, sam
+izdaja, sam
+bonsaja (bonsaj), sam
+čaja (čaj), sam
+čuvaja (čuvaj), sam
+direndaja (direndaj), sam
+doživljaja (doživljaj), sam
+fičafaja (fičafaj), sam
+grižljaja (grižljaj), sam
+izpuščaja (izpuščaj), sam
+lakaja (lakaj), sam
+lišaja (lišaj), sam
+lučaja (lučaj), sam
+mlaja (mlaj), sam
+naraščaja (naraščaj), sam
+natečaja (natečaj), sam
+nihaja (nihaj), sam
+običaja (običaj), sam
+oklepaja (oklepaj), sam
+otročaja (otročaj), sam
+papagaja (papagaj), sam
+položaja (položaj), sam
+policaja (policaj), sam
+primanjkljaja (primanjkljaj), sam
+pripetljaja (pripetljaj), sam
+raja (raj), sam
+ročaja (ročaj), sam
+samuraja (samuraj), sam
+sijaja (sijaj), sam
+slučaja (slučaj), sam
+smehljaja (smehljaj), sam
+spodrsljaja (spodrsljaj), sam
+stečaja (stečaj), sam
+tečaja (tečaj), sam
+točaja (točaj), sam
+tolovaja (tolovaj), sam
+tresljaja (tresljaj), sam
+vprašaja (vprašaj), sam
+vzdihljaja (vzdihljaj), sam
+zalogaja (zalogaj), sam
+zmaja (zmaj), sam
+značaja (značaj), sam
+kraja (kraj), sam
+daja (dajati), glag
+baja (bajati), glag
+dohaja (dohajati), glag
+dovaja (dovajati), glag
+graja (grajati), glag
+izdaja (izdajati), glag
+izhaja (izhajati), glag
+izvaja (izvajati), glag
+laja (lajati), glag
+maja (majati), glag
+nagaja (nagajati), glag
+nahaja (nahajati), glag
+nastaja (nastajati), glag
+naslaja (naslajati), glag
+navaja (navajati), glag
+obdaja (obdajati), glag
+obhaja (obhajati), glag
+obstaja (obstajati), glag
+oddaja (oddajati), glag
+odhaja (odhajati), glag
+odvaja (odvajati), glag
+ohlaja (ohlajati), glag
+ostaja (ostajati), glag
+osvaja (osvajati), glag
+osvobaja (osvobajati), glag
+podaja (podajati), glag
+podvaja (podvajati), glag
+pogaja (pogajati), glag
+poraja (porajati), glag
+postaja (postajati), glag
+prevaja (prevajati), glag
+prihaja (prihajati), glag
+prilagaja (prilagajati), glag
+prodaja (prodajati), glag
+proizvaja (proizvajati), glag
+razgraja (razgrajati), glag
+razsaja (razsajati), glag
+razvaja (razvajati), glag
+shaja (shajati), glag
+traja (trajati), glag
+ugaja (ugajati), glag
+uhaja (uhajati), glag
+uvaja (uvajati), glag
+vstaja (vstajati), glag
+vzgaja (vzgajati), glag
+vzhaja (vzhajati), glag
+vztraja (vztrajati), glag
+zahaja (zahajati), glag
+zavaja (zavajati), glag
+dogaja (dogajati), glag
+pogaja (pogajati), glag
+shaja (shajati), glag
+raja (rajati), glag
+
 # ak
 bedak, sam
 beljak, sam
@@ -814,6 +930,85 @@ ogrinjala (ogrinjalo), sam
 padala (padalo), sam
 znala (znati), glag
 pognala (pognati), glag
+iskala (iskati), glag
+čakala (čakati), glag
+izdala (izdati), glag
+bala (bati), glag
+
+# ale
+finale, sam
+tale, zaim
+žale, sam
+tjale, pris
+bale (bala), sam
+centrale (centrala), sam
+diagonale (diagonala), sam
+hale (hala), sam
+ilegale (ilegala), sam
+koale (koala), sam
+komerciale (komerciala), sam
+komunale (komunala), sam
+korale, sam
+magistrale (magistrala), sam
+male (mali), prid
+marginale (marginala), sam
+morale (morala), sam
+normale (normala), sam
+obale (obala), sam
+pohvale (pohvala), sam
+sandale (sandali), sam
+skale (skala), sam
+sociale (sociala), sam
+spirale (spirala), sam
+šale (šala), sam
+štale (štala), sam
+transverzale (transverzala), sam
+zahvale (zahvala), sam
+lagale (lagati), glag
+prestale (prestati), glag
+dale (dati), glag
+stale (stati), glag
+brale (brati), glag
+čakale (čakati), glag
+držale (držati), glag
+igrale (igrati), glag
+iskale (iskati), glag
+imenovale (imenovati), glag
+jokale (jokati), glag
+kapljale (kapljati), glag
+klicale (klicati), glag
+končale (končati), glag
+kozlale (kozlati), glag
+kričale (kričati), glag
+ležale (ležati), glag
+občudovale (občudovati), glag
+oboževale (oboževati), glag
+orale (orati), glag
+ostale (ostati), glag
+peljale (peljati), glag
+plačale (plačati), glag
+potovale (potovati), glag
+poznale (poznati), glag
+podcenjevale (podcenjevati), glag
+podkupovale (podkupovati), glag
+postale (postati), glag
+raziskovale (raziskovati), glag
+regljale (regljati), glag
+sejale (sejati), glag
+sesale (sesati), glag
+smrčale (smrčati), glag
+spale (spati), glag
+spoštovale (spoštovati), glag
+šepetale (šepetati), glag
+ustrahovale (ustrahovati), glag
+veljale (veljati), glag
+vstale (vstati), glag
+zaklale (zaklati), glag
+zapeljale (zapeljati), glag
+zavdale (zavdati), glag
+zažgale (zažgati), glag
+žalovale (žalovati), glag
+žgečkale (žgečkati), glag
 
 # alj
 dalj, pris
@@ -1489,6 +1684,31 @@ ras (rasa), sam
 teras (terasa), sam
 tras (trasa), sam
 
+# ast
+balast, sam
+božjast, sam
+čast, sam
+entuziast, sam
+hrast, sam
+hlast, sam
+kontrast, sam
+last, sam
+mast, sam
+oblast, sam
+past, sam
+plast, sam
+podrast, sam
+pošast, sam
+rast, sam
+slast, sam
+strast, sam
+porast, sam
+prirast, sam
+tast, sam
+kast (kasta), sam
+krast (krasta), sam
+past (pasta), sam
+
 # aš
 bogataš, sam
 bombaš, sam
@@ -1855,6 +2075,9 @@ dal (dati), glag
 spal (spati), glag
 poznal (poznati), glag
 sijal (sijati), glag
+tkal (tkati), glag
+prodal (prodati), glag
+potreboval (potrebovati), glag
 
 # aven
 brezpraven, prid
@@ -2076,6 +2299,8 @@ zre (zreti), glag
 odpre (odpreti), glag
 dve, štev
 še, člen
+tre (treti), glag
+združene (združen), prid
 
 # eb
 galeb, sam
@@ -2303,6 +2528,24 @@ sreče (sreča), sam
 sveče (sveča), sam
 vreče (vreča), sam
 
+# ečne
+človečne (človečen), prid
+čuječne (čuječen), prid
+gorečne (gorečen), prid
+mlečne (mlečen), prid
+molčečne (molčečen), prid
+nesrečne (nesrečen), prid
+nespečne (nespečen), prid
+povprečne (povprečen), prid
+prečne (prečen), prid
+srečne (srečen), prid
+tečne (tečen), prid
+večne (večen), prid
+vlečne (vlečen), prid
+všečne (všečen), prid
+odvečne (odvečen), prid
+narečne (narečen), prid
+
 # ed
 bled, prid
 črnogled, prid
@@ -2473,6 +2716,30 @@ imej (imeti), glag
 poglej (pogledati), glag
 glej (gledati), glag
 smej (smejati), glag
+
+# ejo
+alejo (aleja), sam
+epopejo (epopeja), sam
+galejo (galeja), sam
+idejo (ideja), sam
+livrejo (livreja), sam
+mejo (meja), sam
+matinejo (matineja), sam
+mošejo (mošeja), sam
+odejo (odeja), sam
+odisejo (odiseja), sam
+orhidejo (orhideja), sam
+prejo (preja), sam
+rejo (reja), sam
+sejo (seja), sam
+trofejo (trofeja), sam
+turnejo (turneja), sam
+vejo (veja), sam
+verejo (vereja), sam
+žejo (žeja), sam
+umrejo (umreti), glag
+smejo (smeti), glag
+grejo (iti), glag
 
 # eje
 aleje (aleja), sam
@@ -2694,6 +2961,24 @@ shemi (shema), sam
 šemi (šema), sam
 tremi (trema), sam
 vnemi (vnema), sam
+
+# emo
+demo, sam
+nemo, pris
+premo, pris
+gremo (iti), glag
+temo (tema), sam
+dilemo (dilema), sam
+izjemo (izjema), sam
+kremo (krema), sam
+opremo (oprema), sam
+shemo (shema), sam
+šemo (šema), sam
+tremo (trema), sam
+vnemo (vnema), sam
+ujemo (ujema), sam
+lemo (lema), sam
+spremo (spreti), glag
 
 # en
 alergen, sam
@@ -3114,6 +3399,27 @@ drenj, sam
 semenj, sam
 srenj (srenja), sam
 tenj (tenja), sam
+
+# enja
+stenja (stenj), sam
+drenja (drenj), sam
+srenja, sam
+tenja, sam
+izmenja (izmenjati), glag
+menja (menjati), glag
+načenja (načenjati), glag
+namenja (namenjati), glag
+napenja (napenjati), glag
+omenja (omenjati), glag
+počenja (počenjati), glag
+pričenja (pričenjati), glag
+pripenja (pripenjati), glag
+razpenja (razpenjati), glag
+vpenja (vpenjati), glag
+začenja (začenjati), glag
+zamenja (zamenjati), glag
+vzpenja (vzpenjati), glag
+pojenja (pojenjati), glag
 
 # eno
 bakreno, pris
@@ -3718,6 +4024,7 @@ letel (leteti), glag
 pripel (pripeti), glag
 vrtel (vrteti), glag
 velel (veleti), glag
+razodel (razodeti), glag
 
 # ez
 čez, pris
@@ -3893,6 +4200,10 @@ odpri (odpreti), glag
 živi (živeti), glag
 hromi (hrometi), glag
 gori (goreti), glag
+temi (tema), sam
+buči (bučati), glag
+vrši (vršati), glag
+
 
 # ib
 gib, sam
@@ -3907,6 +4218,25 @@ hib (hiba), sam
 kolib (koliba), sam
 rib (riba), sam
 šib (šiba), sam
+
+# iba
+giba, sam
+hriba, sam
+vzgiba, sam
+hiba, sam
+klobina, sam
+riba, sam
+šiba, sam
+giba (gibati), glag
+nagiba (nagibati), glag
+izogiba (izogibati), glag
+ugiba (ugibati), glag
+razgiba (razgibati), glag
+riba (ribati), glag
+šiba (šibati), glag
+upogiba (upogibati), glag
+zariba (zaribati), glag
+ziba (zibati), glag
 
 # ic
 hospic, sam
@@ -4282,6 +4612,10 @@ adijo, medm
 arheologijo (arheologija), sam
 poezijo (poezija), sam
 spijo (spati), glag
+vrstijo (vrstiti), glag
+valijo (valiti), glag
+slepijo (slepiti), glag
+tajijo (tajiti), glag
 
 # ik
 bolnik, sam
@@ -4583,6 +4917,16 @@ sledim (slediti), glag
 smetim (smetiti), glag
 simsalabim, sam
 želim (želeti), glag
+
+# imo
+mimo, pris
+plimo (plima), sam
+klimo (klima), sam
+rimo (rima), sam
+zimo (zima), sam
+žimo (žima), sam
+podimo (poditi), glag
+stopimo (stopiti), glag
 
 # in
 adrenalin, sam
@@ -5891,6 +6235,8 @@ temo (tema), sam
 gospo (gospa), sam
 dlanjo (dlan), sam
 to, zaim
+roko (roka), sam
+močjo (moč), sam
 
 # ob
 zob, sam
@@ -6557,6 +6903,17 @@ olj (olje), sam
 polj (polje), sam
 vesolj (vesolje), sam
 
+# olje
+olje, sam
+bolje, pris
+okolje, sam
+podolje, sam
+polje, sam
+svetobolje, sam
+vesolje, sam
+nejevolje (nejevolja), sam
+volje (volja), sam
+
 # om
 aksiom, sam
 astronom, sam
@@ -6722,6 +7079,15 @@ spon (spona), sam
 ton (tona), sam
 zapon (zapona), sam
 
+# onec
+Japonec, sam
+kromanjonec, sam
+sezonec, sam
+zakonec, sam
+konec, sam
+lonec, sam
+zvonec, sam
+
 # onj
 vonj, sam
 zastonj, pris
@@ -6873,6 +7239,41 @@ vnos, sam
 zanos, sam
 kos (kosa), sam
 os (osa), sam
+
+# ost
+bridkost, sam
+debelost, sam
+dolžnost, sam
+gladkost, sam
+gost, sam
+grenkost, sam
+grobost, sam
+hitrost, sam
+kompost, sam
+kost, sam
+krepost, sam
+lastnost, sam
+mladost, sam
+modrost, sam
+most, sam
+norost, sam
+novost, sam
+ost, sam
+pogost, prid
+prostost, sam
+skrivnost, sam
+slabost, sam
+sladkost, sam
+svetlost, sam
+velikost, sam
+visokost, sam
+gost, sam
+gost, prid
+post, sam
+preprost, prid
+prost, prid
+host (hosta), sam
+starost (starosta), sam
 
 # oš
 kokoš, sam
@@ -7220,6 +7621,17 @@ srk, sam
 trk, sam
 črk (črka), sam
 frk (frka), sam
+
+# rla
+umrla (umreti), glag
+vrla (vrl), prid
+uprla (upreti), glag
+zatrla (zatreti), glag
+sprla (spreti), glag
+požrla (požreti), glag
+strla (streti), glag
+zadrla (zadreti), glag
+grla (grlo), sam
 
 # rm
 grm, sam
