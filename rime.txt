@@ -44,6 +44,7 @@ pozna (poznati), glag
 prizna (priznati), glag
 sveta (svet), sam
 morja (morje), sam
+mesa (meso), sam
 
 # ab
 kebab, sam
@@ -3960,6 +3961,42 @@ zagonetna, prid
 # etnja
 kretnja, sam
 pretnja, sam
+
+# etov
+dekletov, prid
+kmetov, prid
+očetov, prid
+poetov, prid
+planetov, prid
+amuletov (amulet), sam
+atletov (atlet), sam
+banketov (banket), sam
+briketov (briket), sam
+brodetov (brodet), sam
+duetov (duet), sam
+estetov (estet), sam
+interpretov (interpret), sam
+kabinetov (kabinet), sam
+kadetov (kadet), sam
+kompletov (komplet), sam
+konfetov (konfeti), sam
+kornetov (kornet), sam
+korzetov (korzet), sam
+magnetov (magnet), sam
+paketov (paket), sam
+pamfletov (pamflet), sam
+peletov (peleti), sam
+planetov (planet), sam
+poetov (poet), sam
+portretov (portret), sam
+prepletov (preplet), sam
+servetov (servet), sam
+setov (set), sam
+skeletov (skelet), sam
+sonetov (sonet), sam
+sovjetov (sovjet), sam
+špagetov (špageti), sam
+polpetov (polpet), sam
 
 # ev
 cev, sam
