@@ -8477,3 +8477,41 @@ mehkuž, sam
 kaluž (kaluža), sam
 luž (luža), sam
 mlakuž (mlakuža), sam
+
+# uža
+kaluža, sam
+kuža, sam
+luža, sam
+mlakuža, sam
+mehkuža (mehkuž), sam
+
+# uže
+druže, sam
+kaluže (kaluža), sam
+luže (luža), sam
+mlakuže (mlakuža), sam
+mehkuže (mehkuž), sam
+
+# uži
+kaluži (kaluža), sam
+luži (luža), sam
+odsluži (odslužiti), glag
+mlakuži (mlakuža), sam
+mehkuži (mehkuž), sam
+druži (družiti), glag
+okuži (okužiti), glag
+pluži (plužiti), glag
+zasluži (zaslužiti), glag
+služi (služiti), glag
+združi (združiti), glag
+
+# užiti
+družiti, glag
+okužiti, glag
+pomehkužiti, glag
+pridružiti, glag
+prislužiti, glag
+razdružiti, glag
+služiti, glag
+zaslužiti, glag
+združiti, glag
