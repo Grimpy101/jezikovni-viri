@@ -620,6 +620,109 @@ pogaja (pogajati), glag
 shaja (shajati), glag
 raja (rajati), glag
 
+# ajem
+čajem (čaj), sam
+čuvajem (čuvaj), sam
+dihljajem (dihljaj), sam
+direndajem (direndaj), sam
+doživljajem (doživljaj), sam
+fičafajem (fičafaj), sam
+gajem (gaj), sam
+grižljajem (grižljaj), sam
+izpuščajem (izpuščaj), sam
+kuplerajem (kupleraj), sam
+lakajem (lakaj), sam
+lišajem (lišaj), sam
+lučajem (lučaj), sam
+majem (maj), sam
+naraščajem (naraščaj), sam
+natečajem (natečaj), sam
+nihajem (nihaj), sam
+običajem (običaj), sam
+papagajem (papagaj), sam
+otročajem (otročaj), sam
+policajem (policaj), sam
+položajem (položaj), sam
+prhljajem (prhljaj), sam
+primanjkljajem (primanjkljaj), sam
+pripetljajem (pripetljaj), sam
+rajem (raj), sam
+ročajem (ročaj), sam
+samurajem (samuraj), sam
+sijajem (sijaj), sam
+slučajem (slučaj), sam
+spodrsljajem (spodrsljaj), sam
+spotikljajem (spotikljaj), sam
+stečajem (stečaj), sam
+streljajem (streljaj), sam
+strežajem (strežaj), sam
+šetrajem (šetraj), sam
+tečajem (tečaj), sam
+točajem (točaj), sam
+tolovajem (tolovaj), sam
+vitrajem (vitraj), sam
+vodostajem (vodostaj), sam
+vprašajem (vprašaj), sam
+vzdihljajem (vzdihljaj), sam
+zalogajem (zalogaj), sam
+zbodljajem (zbodljaj), sam
+zmajem (zmaj), sam
+značajem (značaj), sam
+krajem (kraj), sam
+dajem (dajati), glag
+
+# aju
+čaju (čaj), sam
+čuvaju (čuvaj), sam
+dihljaju (dihljaj), sam
+direndaju (direndaj), sam
+doživljaju (doživljaj), sam
+fičafaju (fičafaj), sam
+gaju (gaj), sam
+grižljaju (grižljaj), sam
+izpuščaju (izpuščaj), sam
+kupleraju (kupleraj), sam
+lakaju (lakaj), sam
+lišaju (lišaj), sam
+lučaju (lučaj), sam
+maju (maj), sam
+naraščaju (naraščaj), sam
+natečaju (natečaj), sam
+nihaju (nihaj), sam
+običaju (običaj), sam
+papagaju (papagaj), sam
+otročaju (otročaj), sam
+policaju (policaj), sam
+položaju (položaj), sam
+prhljaju (prhljaj), sam
+primanjkljaju (primanjkljaj), sam
+pripetljaju (pripetljaj), sam
+raju (raj), sam
+ročaju (ročaj), sam
+samuraju (samuraj), sam
+sijaju (sijaj), sam
+slučaju (slučaj), sam
+spodrsljaju (spodrsljaj), sam
+spotikljaju (spotikljaj), sam
+stečaju (stečaj), sam
+streljaju (streljaj), sam
+strežaju (strežaj), sam
+šetraju (šetraj), sam
+tečaju (tečaj), sam
+točaju (točaj), sam
+tolovaju (tolovaj), sam
+vitraju (vitraj), sam
+vodostaju (vodostaj), sam
+vprašaju (vprašaj), sam
+vzdihljaju (vzdihljaj), sam
+zalogaju (zalogaj), sam
+zbodljaju (zbodljaj), sam
+zmaju (zmaj), sam
+značaju (značaj), sam
+kraju (kraj), sam
+vaju (vidva), zaim
+naju (midva), zaim
+
 # ak
 bedak, sam
 beljak, sam
@@ -2746,6 +2849,78 @@ spregleda (spregledati), glag
 zagleda (zagledati), glag
 zaseda (zasedati), glag
 zaveda (zavedati), glag
+
+# edi
+bog si ga vedi, člen
+dedi, sam
+sredi, pris
+vrag si ga vedi, člen
+abecedi (abeceda), sam
+bedi (beda), sam
+besedi (beseda), sam
+čredi (čreda), sam
+kredi (kreda), sam
+razjedi (razjeda), sam
+skledi (skleda), sam
+sosedi (soseda), sam
+sredi (sreda), sam
+ujedi (ujeda), sam
+vedi (veda), sam
+vedi (vedeti), glag
+zasedi (zaseda), sam
+zmedi (zmeda), sam
+gredi (greda), sam
+povedi (poved), sam
+vedi (vedeti), glag
+sledi (slediti), glag
+bledi (bled), prid
+bistrogledi (bistrogled), prid
+črnogledi (črnogled), prid
+dvosedi (dvosed), prid
+jedi (jed), sam
+mesojedi (mesojed), prid
+ostrogledi (ostrogled), prid
+ozkogledi (ozkogled), prid
+pedi (ped), sam
+rastlinojedi (rastlinojed), prid
+sledi (sled), sam
+tragedi (traged), sam
+vsevedi (vseved), prid
+daljnogledi (daljnogled), sam
+izgredi (izgred), sam
+obredi (obred), sam
+pogledi (pogled), sam
+pregledi (pregled), sam
+razgledi (razgled), sam
+sporedi (spored), sam
+zvezdogledi (zvezdogled), sam
+drevoredi (drevored), sam
+sladkosnedi (sladkosned), prid
+
+# edo
+bledo (bled), prid
+govedo, sam
+medo, sam
+stampedo, sam
+torpedo, sam
+mesojedo (mesojed), prid
+mrkogledo (mrkogled), prid
+sladkosnedo (sladkosned), prid
+črnogledo (črnogled), prid
+abecedo (abeceda), sam
+bedo (beda), sam
+besedo (beseda), sam
+čredo (čreda), sam
+kredo (kreda), sam
+razjedo (razjeda), sam
+skledo (skleda), sam
+sosedo (soseda), sam
+sredo (sreda), sam
+ujedo (ujeda), sam
+vedo (veda), sam
+zasedo (zaseda), sam
+zmedo (zmeda), sam
+gredo (greda), sam
 
 # ef
 relief, sam
