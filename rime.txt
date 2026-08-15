@@ -61,6 +61,245 @@ vab (vaba), sam
 zlorab (zloraba), sam
 žab (žaba), sam
 
+# aba
+baba, sam
+baraba, sam
+koleraba, sam
+obraba, sam
+ogaba, sam
+pohaba, sam
+poraba, sam
+pozaba, sam
+raba, sam
+uporaba, sam
+vaba, sam
+zloraba, sam
+žaba, sam
+kebaba (kebab), sam
+štaba (štab), sam
+švaba (švab), sam
+slaba (slab), prid
+
+# abe
+babe (baba), sam
+barabe (baraba), sam
+kolerabe (koleraba), sam
+obrabe (obraba), sam
+ogabe (ogaba), sam
+pohabe (pohaba), sam
+porabe (poraba), sam
+pozabe (pozaba), sam
+rabe (raba), sam
+uporabe (uporaba), sam
+vabe (vaba), sam
+zlorabe (zloraba), sam
+žabe (žaba), sam
+kebabe (kebab), sam
+štabe (štab), sam
+švabe (švab), sam
+slabe (slab), prid
+
+# abi
+babi (baba), sam
+barabi (baraba), sam
+kolerabi (koleraba), sam
+obrabi (obraba), sam
+ogabi (ogaba), sam
+pohabi (pohaba), sam
+porabi (poraba), sam
+pozabi (pozaba), sam
+rabi (raba), sam
+uporabi (uporaba), sam
+vabi (vaba), sam
+zlorabi (zloraba), sam
+žabi (žaba), sam
+kebabi (kebab), sam
+štabi (štab), sam
+švabi (švab), sam
+slabi (slab), prid
+povabi (povabiti), glag
+pograbi (pograbiti), glag
+zvabi (zvabiti), glag
+uporabi (uporabiti), glag
+pozabi (pozabiti), glag
+ugrabi (ugrabiti), glag
+spozabi (spozabiti), glag
+
+# abo
+babo (baba), sam
+barabo (baraba), sam
+kolerabo (koleraba), sam
+obrabo (obraba), sam
+ogabo (ogaba), sam
+pohabo (pohaba), sam
+porabo (poraba), sam
+pozabo (pozaba), sam
+rabo (raba), sam
+uporabo (uporaba), sam
+vabo (vaba), sam
+zlorabo (zloraba), sam
+žabo (žaba), sam
+slabo (slab), prid
+tabo (ti), zaim
+sabo (se), zaim
+
+# ac
+pajac, sam
+paparac, sam
+vršac, sam
+štrapac, sam
+plac, sam
+fac (faca), sam
+rac (raca), sam
+tac (taca), sam
+
+# aca
+faca, sam
+raca, sam
+taca, sam
+pajaca (pajac), sam
+paparaca (paparac), sam
+vršaca (vršac), sam
+placa (plac), sam
+štrapaca (štrapac), sam
+
+# ace
+face (faca), sam
+race (raca), sam
+tace (taca), sam
+pajace (pajac), sam
+paparace (paparac), sam
+vršace (vršac), sam
+place (plac), sam
+štrapace (štrapac), sam
+muštace, sam
+
+# aci
+faci (faca), sam
+raci (raca), sam
+taci (taca), sam
+pajaci (pajac), sam
+paparaci (paparac), sam
+vršaci (vršac), sam
+placi (plac), sam
+štrapaci (štrapac), sam
+
+# acija
+adaptacija, sam
+administracija, sam
+akacija, sam
+akrobacija, sam
+aktivacija, sam
+aktualizacija, sam
+akumulacija, sam
+amerikanizacija, sam
+amortizacija, sam
+animacija, sam
+aplikacija, sam
+aproksimacija, sam
+artikulacija, sam
+asimilacija, sam
+asociacija, sam
+centralizacija, sam
+civilizacija, sam
+deformacija, sam
+degradacija, sam
+degeneracija, sam
+degustacija, sam
+deklamacija, sam
+deklaracija, sam
+dekoracija, sam
+delegacija, sam
+depilacija, sam
+deportacija, sam
+deviacija, sam
+digitalizacija, sam
+diskriminacija, sam
+dokumentacija, sam
+donacija, sam
+ekranizacija, sam
+eliminacija, sam
+emigracija, sam
+evakuacija, sam
+federacija, sam
+formacija, sam
+fragmentacija, sam
+fundacija, sam
+generacija, sam
+gravitacija, sam
+identifikacija, sam
+ilustracija, sam
+imitacija, sam
+implementacija, sam
+improvizacija, sam
+inflacija, sam
+informacija, sam
+inspiracija, sam
+inštalacija, sam
+integracija, sam
+interpretacija, sam
+intonacija, sam
+iteracija, sam
+izolacija, sam
+kanalizacija, sam
+kapitulacija, sam
+klasifikacija, sam
+kombinacija, sam
+kompenzacija, sam
+komplikacija, sam
+komunikacija, sam
+koncentracija, sam
+korporacija, sam
+legalizacija, sam
+lokacija, sam
+mahinacija, sam
+manipulacija, sam
+markacija, sam
+menstruacija, sam
+migracija, sam
+mobilizacija, sam
+modernizacija, sam
+motivacija, sam
+mutacija, sam
+navigacija, sam
+nominacija, sam
+notacija, sam
+operacija, sam
+ordinacija, sam
+organizacija, sam
+orientacija, sam
+pistacija, sam
+populacija, sam
+provokacija, sam
+publikacija, sam
+racija, sam
+realizacija, sam
+reformacija, sam
+registracija, sam
+regulacija, sam
+reklamacija, sam
+rekreacija, sam
+relacija, sam
+restavracija, sam
+rezervacija, sam
+robotizacija, sam
+rotacija, sam
+sanacija, sam
+segregacija, sam
+senzacija, sam
+simulacija, sam
+špekulacija, sam
+transformacija, sam
+urbanizacija, sam
+variacija, sam
+vibracija, sam
+vizualizacija, sam
+
+# aco
+faco (faca), sam
+raco (raca), sam
+taco (taca), sam
+
 # ačen
 drugačen, prid
 privlačen, prid
@@ -89,16 +328,6 @@ zasačen, prid
 zatlačen, prid
 zračen, prid
 zvijačen, prid
-
-# ac
-pajac, sam
-paparac, sam
-vršac, sam
-štrapac, sam
-plac, sam
-fac (faca), sam
-rac (raca), sam
-tac (taca), sam
 
 # ad
 belobrad, prid
