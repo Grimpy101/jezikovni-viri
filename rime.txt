@@ -1282,6 +1282,51 @@ izdali (izdati), glag
 bali (bati), glag
 
 # alih
+finalih (finale), sam
+malih (mali), prid
+sandalih (sandali), sam
+prestalih (prestal), prid
+admiralih (admiral), sam
+festivalih (festival), sam
+generalih (general), sam
+hospitalih (hospital), sam
+idealih (ideal), sam
+integralih (integral), sam
+intervalih (interval), sam
+kanalih (kanal), sam
+kanibalih (kanibal), sam
+kardinalih (kardinal), sam
+karnevalih (karneval), sam
+koralih (koral), sam
+kristalih (kristal), sam
+lokalih (lokal), sam
+materialih (material), sam
+mineralih (mineral), sam
+originalih (original), sam
+pedalih (pedal), sam
+pokalih (pokal), sam
+portalih (portal), sam
+potencialih (potencial), sam
+predalih (predal), sam
+prevalih (preval), sam
+rafalih (rafal), sam
+recitalih (recital), sam
+regalih (regal), sam
+ritualih (ritual), sam
+signalih (signal), sam
+šakalih (šakal), sam
+šalih (šal), sam
+škandalih (škandal), sam
+špitalih (špital), sam
+terminalih (terminal), sam
+tribunalih (tribunal), sam
+vandalih (vandal), sam
+vazalih (vazal), sam
+vogalih (vogal), sam
+vokalih (vokal), sam
+žurnalih (žurnal), sam
+nastalih (nastal), prid
+ostalih (ostal), prid
 
 # alj
 dalj, pris
@@ -2164,6 +2209,52 @@ omar (omara), sam
 prevar (prevara), sam
 punčar (punčara), sam
 
+# ara
+ara, sam
+cigara, sam
+čira čara, sam
+fanfara, sam
+fara, sam
+kapilara, sam
+izobara, sam
+kitara, sam
+košara, sam
+močvara, sam
+nemara, člen
+obara, sam
+okvara, sam
+omara, sam
+para, sam
+prevara, sam
+punčara, sam
+sopara, sam
+šara, sam
+tiara, sam
+utvara, sam
+žara, sam
+čara (čar), sam
+vara (var), sam
+žara (žar), sam
+udara (udar), sam
+špara (špar), sam
+stara (star), prid
+samovara (samovar), sam
+požara (požar), sam
+para (par), sam
+kalamara (kalamar), sam
+bara (bar), sam
+jara (jar), prid
+bara (barati), glag
+čara (čarati), glag
+kara (karati), glag
+mara (marati), glag
+očara (očarati), glag
+postara (postarati), glag
+prevara (prevarati), glag
+razočara (razočarati), glag
+razpara (razparati), glag
+špara (šparati), glag
+
 # arja
 zarja, sam
 arhivarja (arhivar), sam
@@ -2224,6 +2315,161 @@ zlatarja (zlatar), sam
 zvonarja (zvonar), sam
 udarja (udarjati), glag
 ukvarja (ukvarjati), glag
+
+# arjem
+arhivarjem (arhivar), sam
+bazarjem (bazar), sam
+brodarjem (brodar), sam
+carjem (car), sam
+čebelarjem (čebelar), sam
+čevljarjem (čevljar), sam
+cirkularjem (cirkular), sam
+čolnarjem (čolnar), sam
+čuvarjem (čuvar), sam
+denarjem (denar), sam
+drvarjem (drvar), sam
+formularjem (formular), sam
+funkcionarjem (funkcionar), sam
+glavarjem (glavar), sam
+gospodarjem (gospodar), sam
+gozdarjem (gozdar), sam
+grobarjem (grobar), sam
+honorarjem (honorar), sam
+inventarjem (inventar), sam
+ječarjem (ječar), sam
+kiparjem (kipar), sam
+ključarjem (ključar), sam
+koledarjem (koledar), sam
+kolesarjem (kolesar), sam
+komarjem (komar), sam
+komentarjem (komentar), sam
+komisarjem (komisar), sam
+krčmarjem (krčmar), sam
+krmarjem (krmar), sam
+krošnjarjem (krošnjar), sam
+loparjem (lopar), sam
+mesarjem (mesar), sam
+misijonarjem (misijonar), sam
+mornarjem (mornar), sam
+notarjem (notar), sam
+oltarjem (oltar), sam
+pisarjem (pisar), sam
+pisoarjem (pisoar), sam
+redarjem (redar), sam
+revolucionarjem (revolucionar), sam
+samotarjem (samotar), sam
+seminarjem (seminar), sam
+slikarjem (slikar), sam
+slovarjem (slovar), sam
+stražarjem (stražar), sam
+šušmarjem (šušmar), sam
+tiskarjem (tiskar), sam
+veterinarjem (veterinar), sam
+viharjem (vihar), sam
+vladarjem (vladar), sam
+vizionarjem (vizionar), sam
+vodnarjem (vodnar), sam
+vratarjem (vratar), sam
+vrtnarjem (vrtnar), sam
+zlatarjem (zlatar), sam
+zvonarjem (zvonar), sam
+
+# arju
+arhivarju (arhivar), sam
+bazarju (bazar), sam
+brodarju (brodar), sam
+carju (car), sam
+čebelarju (čebelar), sam
+čevljarju (čevljar), sam
+cirkularju (cirkular), sam
+čolnarju (čolnar), sam
+čuvarju (čuvar), sam
+denarju (denar), sam
+drvarju (drvar), sam
+formularju (formular), sam
+funkcionarju (funkcionar), sam
+glavarju (glavar), sam
+gospodarju (gospodar), sam
+gozdarju (gozdar), sam
+grobarju (grobar), sam
+honorarju (honorar), sam
+inventarju (inventar), sam
+ječarju (ječar), sam
+kiparju (kipar), sam
+ključarju (ključar), sam
+koledarju (koledar), sam
+kolesarju (kolesar), sam
+komarju (komar), sam
+komentarju (komentar), sam
+komisarju (komisar), sam
+krčmarju (krčmar), sam
+krmarju (krmar), sam
+krošnjarju (krošnjar), sam
+loparju (lopar), sam
+mesarju (mesar), sam
+misijonarju (misijonar), sam
+mornarju (mornar), sam
+notarju (notar), sam
+oltarju (oltar), sam
+pisarju (pisar), sam
+pisoarju (pisoar), sam
+redarju (redar), sam
+revolucionarju (revolucionar), sam
+samotarju (samotar), sam
+seminarju (seminar), sam
+slikarju (slikar), sam
+slovarju (slovar), sam
+stražarju (stražar), sam
+šušmarju (šušmar), sam
+tiskarju (tiskar), sam
+veterinarju (veterinar), sam
+viharju (vihar), sam
+vladarju (vladar), sam
+vizionarju (vizionar), sam
+vodnarju (vodnar), sam
+vratarju (vratar), sam
+vrtnarju (vrtnar), sam
+zlatarju (zlatar), sam
+zvonarju (zvonar), sam
+
+
+# aro
+karo, sam
+aro (ara), sam
+cigaro (cigara), sam
+čira čaro (čira čara), sam
+fanfaro (fanfara), sam
+faro (fara), sam
+kapilaro (kapilara), sam
+izobaro (izobara), sam
+kitaro (kitara), sam
+košaro (košara), sam
+močvaro (močvara), sam
+obaro (obara), sam
+okvaro (okvara), sam
+omaro (omara), sam
+paro (para), sam
+prevaro (prevara), sam
+punčaro (punčara), sam
+soparo (sopara), sam
+šaro (šara), sam
+tiaro (tiara), sam
+utvaro (utvara), sam
+žaro (žara), sam
+jaro (jar), prid
+staro (star), prid
+
+# arom
+barbarom (barbar), sam
+čarom (čar), sam
+darom (dar), sam
+kvarom (kvar), sam
+parom (par), sam
+šparom (špar), sam
+udarom (udar), sam
+varom (var), sam
+žarom (žar), sam
+karom (karo), sam
 
 # as
 as, sam
@@ -2471,6 +2717,205 @@ barantat (barantati), glag
 zbežat (zbežati), glag
 veslat (veslati), glag
 skat, sam
+
+# ata
+copata, sam
+debata, sam
+ferata, sam
+fregata, sam
+granata, sam
+jata, sam
+koordinata, sam
+kravata, sam
+lata, sam
+lopata, sam
+ordinata, sam
+potrata, sam
+prata, sam
+solata, sam
+sonata, sam
+tartufata, sam
+tata, sam
+trata, sam
+vata, sam
+vrata, sam
+zagata, sam
+zaplata, sam
+advokata (advokat), sam
+agregata (agregat), sam
+akrobata (akrobat), sam
+aparata (aparat), sam
+apostata (apostat), sam
+aristokrata (aristokrat), sam
+atentata (atentat), sam
+avtomata (avtomat), sam
+avtokrata (avtokrat), sam
+bankomata (bankomat), sam
+birokrata (birokrat), sam
+certifikata (certifikata), sam
+celibata (celibat), sam
+citata (citat), sam
+dekanata (dekanat), sam
+delegata (delegat), sam
+demokrata (demokrat), sam
+diplomata (diplomat), sam
+direktorata (direktorat), sam
+doktorata (doktorat), sam
+dolgovrata (dolgovrat), prid
+duplikata (duplikat), sam
+formata (format), sam
+fotoaparata (fotoaparat), sam
+inšpektorata (inšpektorat), sam
+kalifata (kalifat), sam
+kandidata (kandidat), sam
+karata (karat), sam
+kavomata (kavomat), sam
+kastrata (kastrat), sam
+konzulata (konzulat), sam
+kvadrata (kvadrat), sam
+laminata (laminat), sam
+literata (literat), sam
+magnata (magnat), sam
+mandata (mandat), sam
+muškata (muškat), sam
+opata (opat), sam
+osata (osat), sam
+parkomata (parkomat), sam
+patriarhata (patriarhat), sam
+pečata (pečat), sam
+pirata (pirat), sam
+plagiata (plagiat), sam
+plakata (plakat), sam
+postulata (postulat), sam
+predikata (predikat), sam
+prekata (prekat), sam
+primata (primat), sam
+proletariata (proletariat), sam
+protektorata (protektorat), sam
+psihopata (psihopat), sam
+referata (referat), sam
+rektorata (rektorat), sam
+rezervata (rezervat), sam
+rezultata (rezultat), sam
+senata (senat), sam
+sindikata (sindikat), sam
+skata (skat), sam
+sociopata (sociopat), sam
+soldata (soldat), sam
+telepata (telepat), sam
+tempomata (tempomat), sam
+termostata (termostat), sam
+ultimata (ultimat), sam
+unikata (unikat), sam
+zlata (zlat), prid
+bogata (bogat), prid
+bata (bat), sam
+brata (brat), sam
+čokata (čokat), prid
+gorata (gorat), prid
+Hrvata (Hrvat), sam
+jedrnata (jedrnat), prid
+kosmata (kosmat), prid
+košata (košat), prid
+krilata (krilat), prid
+mesnata (mesnat), prid
+možata (možat), prid
+oglata (oglat), prid
+osata (osat), sam
+plečata (plečat), prid
+ploščata (ploščat), prid
+podolgovata (podolgovat), prid
+podplata (podplat), sam
+prevrata (prevrat), sam
+preobrata (preobrat), sam
+razvrata (razvrat), sam
+repata (repat), prid
+robata (robat), prid
+rogata (rogat), prid
+škrata (škrat), sam
+tršata (tršat), prid
+blata (blato), sam
+vibrata (vibrato), sam
+
+# atu
+advokatu (advokat), sam
+agregatu (agregat), sam
+akrobatu (akrobat), sam
+aparatu (aparat), sam
+apostatu (apostat), sam
+aristokratu (aristokrat), sam
+atentatu (atentat), sam
+avtomatu (avtomat), sam
+avtokratu (avtokrat), sam
+bankomatu (bankomat), sam
+birokratu (birokrat), sam
+certifikatu (certifikata), sam
+celibatu (celibat), sam
+citatu (citat), sam
+dekanatu (dekanat), sam
+delegatu (delegat), sam
+demokratu (demokrat), sam
+diplomatu (diplomat), sam
+direktoratu (direktorat), sam
+doktoratu (doktorat), sam
+duplikatu (duplikat), sam
+formatu (format), sam
+fotoaparatu (fotoaparat), sam
+inšpektoratu (inšpektorat), sam
+kalifatu (kalifat), sam
+kandidatu (kandidat), sam
+karatu (karat), sam
+kavomatu (kavomat), sam
+kastratu (kastrat), sam
+konzulatu (konzulat), sam
+kvadratu (kvadrat), sam
+laminatu (laminat), sam
+literatu (literat), sam
+magnatu (magnat), sam
+mandatu (mandat), sam
+muškatu (muškat), sam
+opatu (opat), sam
+osatu (osat), sam
+parkomatu (parkomat), sam
+patriarhatu (patriarhat), sam
+pečatu (pečat), sam
+piratu (pirat), sam
+plagiatu (plagiat), sam
+plakatu (plakat), sam
+postulatu (postulat), sam
+predikatu (predikat), sam
+prekatu (prekat), sam
+primatu (primat), sam
+proletariatu (proletariat), sam
+protektoratu (protektorat), sam
+psihopatu (psihopat), sam
+referatu (referat), sam
+rektoratu (rektorat), sam
+rezervatu (rezervat), sam
+rezultatu (rezultat), sam
+senatu (senat), sam
+sindikatu (sindikat), sam
+skatu (skat), sam
+sociopatu (sociopat), sam
+soldatu (soldat), sam
+telepatu (telepat), sam
+tempomatu (tempomat), sam
+termostatu (termostat), sam
+ultimatu (ultimat), sam
+unikatu (unikat), sam
+zlatu (zlato), sam
+batu (bat), sam
+bratu (brat), sam
+Hrvatu (Hrvat), sam
+osatu (osat), sam
+podplatu (podplat), sam
+prevratu (prevrat), sam
+preobratu (preobrat), sam
+razvratu (razvrat), sam
+škratu (škrat), sam
+blatu (blato), sam
+vibratu (vibrato), sam
+matu (mat), sam
 
 # av
 akoprav, vez
@@ -6452,16 +6897,6 @@ pianina (pianino), sam
 vina (vino), sam
 adrenalina (adrenalin), sam
 
-
-# inj
-sinj, sam
-boginj (boginja), sam
-črepinj (črepinja), sam
-levinj (levinja), sam
-skrinj (skrinja), sam
-stopinj (stopinja), sam
-svinj (svinja), sam
-
 # ine
 angine (angina), sam
 bankine (bankina), sam
@@ -6503,6 +6938,183 @@ graščine (graščina), sam
 grbine (grbina), sam
 kraljevine (kraljevina), sam
 zgodovine (zgodovina), sam
+
+# inj
+sinj, sam
+boginj (boginja), sam
+črepinj (črepinja), sam
+levinj (levinja), sam
+skrinj (skrinja), sam
+stopinj (stopinja), sam
+svinj (svinja), sam
+
+# inom
+adrenalinom (adrinalin), sam
+amfetaminom (amfetamin), sam
+albinom (albin), sam
+aspirinom (aspirin), sam
+baldahinom (baldahin), sam
+balinom (balin), sam
+barabinom (barabin), sam
+bencinom (bencin), sam
+bogatinom (bogatin), sam
+brancinom (brancin), sam
+capinom (capin), sam
+cekinom (cekin), sam
+cepelinom (cepelin), sam
+cepinom (cepin), sam
+činom (čin), sam
+cinom (cin), sam
+delfinom (delfin), sam
+dolginom (dolgin), sam
+domačinom (domačin), sam
+dopaminom (dopamin), sam
+duhovinom (duhovin), sam
+fakinom (fakin), sam
+fantalinom (fantalin), sam
+fantinom (fantin), sam
+formalinom (formalin), sam
+frkolinom (frkolin), sam
+gizdalinom (gizdalin), sam
+grdinom (grdin), sam
+harlekinom (harlekin), sam
+heroinom (heroin), sam
+hitinom (hitin), sam
+inzulinom (inzulin), sam
+jasminom (jasmin), sam
+kaminom (kamin), sam
+karabinom (karabin), sam
+kofeinom (kofein), sam
+kokainom (kokain), sam
+kosmatinom (kosmatin), sam
+magazinom (magazin), sam
+mandarinom (mandarin), sam
+metamfetaminom (metamfetamin), sam
+mizoginom (mizogin), sam
+mlinom (mlin), sam
+mudžahedinom (mudžahedin), sam
+načinom (način), sam
+naftalinom (naftalin), sam
+nevrotoksinom (nevrotoksin), sam
+nikotinom (nikotin), sam
+opominom (opomin), sam
+paladinom (paladin), sam
+palankinom (palankin), sam
+penicilinom (penicilin), sam
+pingvinom (pingvin), sam
+PIN-u (PIN), sam
+plastelinom (plastelin), sam
+plinom (plin), sam
+pobalinom (pobalin), sam
+poginom (pogin), sam
+potepinom (potepin), sam
+proteinom (protein), sam
+rabinom (rabin), sam
+rešpetlinom (rešpetlin), sam
+rubinom (rubin), sam
+seratoninom (seratonin), sam
+sinom (sin), sam
+skinom (skin), sam
+smrkolinom (smrkolin), sam
+spominom (spomin), sam
+tamburinom (tamburin), sam
+terminom (termin), sam
+toksinom (toksin), sam
+trampolinom (trampolin), sam
+ultramarinom (ultramarin), sam
+urinom (urin), sam
+vazelinom (vazelin), sam
+vitaminom (vitamin), sam
+zločinom (zločin), sam
+zvinom (zvin), sam
+brinom (brin), sam
+klinom (klin), sam
+kinom (kino), sam
+vinom (vino), sam
+
+# inu
+adrenalinu (adrinalin), sam
+amfetaminu (amfetamin), sam
+albinu (albin), sam
+aspirinu (aspirin), sam
+baldahinu (baldahin), sam
+balinu (balin), sam
+barabinu (barabin), sam
+bencinu (bencin), sam
+bogatinu (bogatin), sam
+brancinu (brancin), sam
+capinu (capin), sam
+cekinu (cekin), sam
+cepelinu (cepelin), sam
+cepinu (cepin), sam
+činu (čin), sam
+cinu (cin), sam
+delfinu (delfin), sam
+dolginu (dolgin), sam
+domačinu (domačin), sam
+dopaminu (dopamin), sam
+duhovinu (duhovin), sam
+fakinu (fakin), sam
+fantalinu (fantalin), sam
+fantinu (fantin), sam
+formalinu (formalin), sam
+frkolinu (frkolin), sam
+gizdalinu (gizdalin), sam
+grdinu (grdin), sam
+harlekinu (harlekin), sam
+heroinu (heroin), sam
+hitinu (hitin), sam
+inzulinu (inzulin), sam
+jasminu (jasmin), sam
+kaminu (kamin), sam
+karabinu (karabin), sam
+kofeinu (kofein), sam
+kokainu (kokain), sam
+kosmatinu (kosmatin), sam
+magazinu (magazin), sam
+mandarinu (mandarin), sam
+metamfetaminu (metamfetamin), sam
+mizoginu (mizogin), sam
+mlinu (mlin), sam
+mudžahedinu (mudžahedin), sam
+načinu (način), sam
+naftalinu (naftalin), sam
+nevrotoksinu (nevrotoksin), sam
+nikotinu (nikotin), sam
+opominu (opomin), sam
+paladinu (paladin), sam
+palankinu (palankin), sam
+penicilinu (penicilin), sam
+pingvinu (pingvin), sam
+PIN-u (PIN), sam
+plastelinu (plastelin), sam
+plinu (plin), sam
+pobalinu (pobalin), sam
+poginu (pogin), sam
+potepinu (potepin), sam
+proteinu (protein), sam
+rabinu (rabin), sam
+rešpetlinu (rešpetlin), sam
+rubinu (rubin), sam
+seratoninu (seratonin), sam
+sinu (sin), sam
+skinu (skin), sam
+smrkolinu (smrkolin), sam
+spominu (spomin), sam
+tamburinu (tamburin), sam
+terminu (termin), sam
+toksinu (toksin), sam
+trampolinu (trampolin), sam
+ultramarinu (ultramarin), sam
+urinu (urin), sam
+vazelinu (vazelin), sam
+vitaminu (vitamin), sam
+zločinu (zločin), sam
+zvinu (zvin), sam
+brinu (brin), sam
+klinu (klin), sam
+kinu (kino), sam
+vinu (vino), sam
 
 # ip
 arhetip, sam
@@ -8206,6 +8818,9 @@ dlanjo (dlan), sam
 to, zaim
 roko (roka), sam
 močjo (moč), sam
+krvjo (kri), sam
+brvjo (brv), sam
+vrvjo (vrv), sam
 
 # ob
 zob, sam
@@ -9700,6 +10315,17 @@ umrl (umreti), glag
 vrl, prid
 zamrl (zamreti), glag
 
+# rvi
+prvi, štev
+krvi (kri), sam
+črvi (črv), sam
+postrvi (postrv), sam
+vrvi (vrv), sam
+obrvi (obrv), sam
+brvi (brv), sam
+drvi (drva), sam
+mrvi (mrva), sam
+
 # rz
 brz, prid
 trz, sam
@@ -10122,11 +10748,104 @@ redut (reduta), sam
 ut (uta), sam
 valut (valuta), sam
 
+# uta
+cafuta, sam
+glažuta, sam
+kajuta, sam
+klofuta, sam
+košuta, sam
+loputa, sam
+kuta, sam
+minuta, sam
+paštašuta, sam
+pluta, sam
+poluta, sam
+ruta, sam
+skuta, sam
+uta, sam
+valuta, sam
+kruta (krut), prid
+ljuta (ljut), prid
+aduta (adut), sam
+atributa (atribut), sam
+čuta (čut), sam
+inštituta (inštitut), sam
+koluta (kolut), sam
+naduta (nadut), prid
+nasuta (nasut), prid
+obsuta (obsut), prid
+obuta (obut), prid
+posuta (posut), prid
+pršuta (pršut), sam
+rekruta (rekrut), sam
+skorbuta (skorbut), sam
+statuta (statut), sam
+zasuta (zasut), prid
+
 # utek
 kolutek, sam
 občutek, sam
 osnutek, sam
 trenutek, sam
+
+# uti
+cafuti (cafuta), sam
+glažuti (glažuta), sam
+kajuti (kajuta), sam
+klofuti (klofuta), sam
+košuti (košuta), sam
+loputi (loputa), sam
+kuti (kuta), sam
+minuti (minuta), sam
+paštašuti (paštašuta), sam
+pluti (pluta), sam
+poluti (poluta), sam
+ruti (ruta), sam
+skuti (skuta), sam
+uti (uta), sam
+valuti (valuta), sam
+aduti (adut), sam
+atributi (atribut), sam
+čuti (čut), sam
+inštituti (inštitut), sam
+koluti (kolut), sam
+rekruti (rekrut), sam
+statuti (statut), sam
+čuti, glag
+nasuti, glag
+obuti, glag
+pluti, glag
+posuti, glag
+razsuti, glag
+rjuti, glag
+sezuti, glag
+sesuti, glag
+snuti, glag
+začuti (začutiti), glag
+zasuti, glag
+priskuti (priskutiti), glag
+sluti (slutiti), glag
+operuti (operutiti), glag
+podpluti (podplut), prid
+naduti (nadut), prid
+ljuti (ljut), prid
+kruti (krut), prid
+
+# utih
+adutih (adut), sam
+atributih (atribut), sam
+čutih (čut), sam
+inštitutih (inštitut), sam
+kolutih (kolut), sam
+rekrutih (rekrut), sam
+statutih (statut), sam
+podplutih (podplut), prid
+nadutih (nadut), prid
+ljutih (ljut), prid
+krutih (krut), prid
+obutih (obut), prid
+nasutih (nasut), prid
+sezutih (sezut), prid
 
 # utka
 kolutka (kolutek), sam
@@ -10134,6 +10853,43 @@ občutka (občutek), sam
 osnutka (osnutek), sam
 trenutka (trenutek), sam
 putka, sam
+
+# uto
+bruto, pris
+kruto, pris
+ljuto, pris
+
+# utom
+adutom (adut), sam
+atributom (atribut), sam
+čutom (čut), sam
+inštitutom (inštitut), sam
+kolutom (kolut), sam
+pršutom (pršut), sam
+rekrutom (rekrut), sam
+skorbutom (skorbut), sam
+statutom (statut), sam
+
+# utov
+adutov (adut), sam
+atributov (atribut), sam
+čutov (čut), sam
+inštitutov (inštitut), sam
+kolutov (kolut), sam
+rekrutov (rekrut), sam
+statutov (statut), sam
+plutov, prid
+
+# utu
+adutu (adut), sam
+atributu (atribut), sam
+čutu (čut), sam
+inštitutu (inštitut), sam
+kolutu (kolut), sam
+pršutu (pršut), sam
+rekrutu (rekrut), sam
+skorbutu (skorbut), sam
+statutu (statut), sam
 
 # uv
 izginul, prid
