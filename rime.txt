@@ -300,6 +300,291 @@ faco (faca), sam
 raco (raca), sam
 taco (taca), sam
 
+# ač
+barkač (barkača), sam
+brisač (brisača), sam
+cvetač (cvetača), sam
+drvač (drvača), sam
+frač (frača), sam
+globač (globača), sam
+gorjač (gorjača), sam
+hrbtenjač (hrbtenjača), sam
+igrač (igrača), sam
+kač (kača), sam
+klopotač (klopotača), sam
+krač (krača), sam
+krastač (krastača), sam
+krtač (krtača), sam
+lovač (lovača), sam
+ogrinjač (ogrinjača), sam
+pahljač (pahljača), sam
+palač (palača), sam
+plač (plača), sam
+pletenjač (pletenjača), sam
+pogač (pogača), sam
+prač (prača), sam
+sekač (sekača), sam
+strgač (strgača), sam
+strupenjač (strupenjača), sam
+tesač (tesača), sam
+topnjač (topnjača), sam
+tovornjač (tovornjača), sam
+vrtač (vrtača), sam
+vzpenjač (vzpenjača), sam
+zvijač (zvijača), sam
+bahač, sam
+berač, sam
+bolhač, sam
+bradač, sam
+brenčač, sam
+brenkač, sam
+brkač, sam
+burkač, sam
+dirkač, sam
+drekač, sam
+garač, sam
+glumač, sam
+gofljač, sam
+gonjač, sam
+govnač, sam
+hujskač, sam
+izvijač, sam
+jahač, sam
+kolač, sam
+kopač, sam
+kovač, sam
+kričač, sam
+krojač, sam
+kurjač, sam
+mazač, sam
+nakladač, sam
+naslanjač, sam
+nastopač, sam
+natikač, sam
+navijač, sam
+nergač, sam
+nosač, sam
+odbijač, sam
+odpirač, sam
+opekač, sam
+orač, sam
+pekač, sam
+pomagač, sam
+potapljač, sam
+pretepač, sam
+razbijač, sam
+razparač, sam
+rokovnjač, sam
+sanjač, sam
+sankač, sam
+skakač, sam
+stiskač, sam
+tekač, sam
+tolmač, sam
+tolkač, sam
+trač, sam
+trobentač, sam
+uživač, sam
+veslač, sam
+vohljač, sam
+vozač, sam
+vrač, sam
+žvižgač, sam
+domač, prid
+pač, člen
+
+# ača
+barkača, sam
+brisača, sam
+cvetača, sam
+drvača, sam
+frača, sam
+globača, sam
+gorjača, sam
+hrbtenjača, sam
+igrača, sam
+jedača, sam
+kača, sam
+klopotača, sam
+krača, sam
+krastača, sam
+krtača, sam
+lovača, sam
+ogrinjača, sam
+pahljača, sam
+palača, sam
+pijača, sam
+plača, sam
+pletenjača, sam
+pogača, sam
+prača, sam
+sekača, sam
+strgača, sam
+strupenjača, sam
+tesača, sam
+topnjača, sam
+tovornjača, sam
+vrtača, sam
+vzpenjača, sam
+zvijača, sam
+bahača (bahač), sam
+berača (berač), sam
+bolhača (bolhač), sam
+bradača (bradač), sam
+brenčača (brenčač), sam
+brenkača (brenkač), sam
+brkača (brkač), sam
+burkača (burkač), sam
+dirkača (dirkač), sam
+drekača (drekač), sam
+garača (garač), sam
+glumača (glumač), sam
+gofljača (gofljač), sam
+gonjača (gonjač), sam
+govnača (govnač), sam
+hujskača (hujskač), sam
+izvijača (izvijač), sam
+jahača (jahač), sam
+kolača (kolač), sam
+kopača (kopač), sam
+kovača (kovač), sam
+kričača (kričač), sam
+krojača (krojač), sam
+kurjača (kurjač), sam
+mazača (mazač), sam
+nakladača (nakladač), sam
+naslanjača (naslanjač), sam
+nastopača (nastopač), sam
+natikača (natikač), sam
+navijača (navijač), sam
+nergača (nergač), sam
+nosača (nosač), sam
+odbijača (odbijač), sam
+odpirača (odpirač), sam
+opekača (opekač), sam
+orača (orač), sam
+pekača (pekač), sam
+pomagača (pomagač), sam
+potapljača (potapljač), sam
+pretepača (pretepač), sam
+razbijača (razbijač), sam
+razparača (razparač), sam
+rokovnjača (rokovnjač), sam
+sanjača (sanjač), sam
+sankača (sankač), sam
+skakača (skakač), sam
+stiskača (stiskač), sam
+tekača (tekač), sam
+tolmača (tolmač), sam
+tolkača (tolkač), sam
+trača (trač), sam
+trobentača (trobentač), sam
+uživača (uživač), sam
+veslača (veslač), sam
+vohljača (vohljač), sam
+vozača (vozač), sam
+vrača (vrač), sam
+žvižgača (žvižgač), sam
+gaspača (gaspačo), sam
+domača (domač), prid
+mača (mačo), sam
+
+# ače
+drugače, pris
+hlače, sam
+barkače (barkača), sam
+brisače (brisača), sam
+cvetače (cvetača), sam
+drvače (drvača), sam
+frače (frača), sam
+globače (globača), sam
+gorjače (gorjača), sam
+hrbtenjače (hrbtenjača), sam
+igrače (igrača), sam
+jedače (jedača), sam
+kače (kača), sam
+klopotače (klopotača), sam
+krače (krača), sam
+krastače (krastača), sam
+krtače (krtača), sam
+lovače (lovača), sam
+ogrinjače (ogrinjača), sam
+pahljače (pahljača), sam
+palače (palača), sam
+pijače (pijača), sam
+plače (plača), sam
+pletenjače (pletenjača), sam
+pogače (pogača), sam
+prače (prača), sam
+sekače (sekača), sam
+strgače (strgača), sam
+strupenjače (strupenjača), sam
+tesače (tesača), sam
+topnjače (topnjača), sam
+tovornjače (tovornjača), sam
+vrtače (vrtača), sam
+vzpenjače (vzpenjača), sam
+zvijače (zvijača), sam
+bahače (bahač), sam
+berače (berač), sam
+bolhače (bolhač), sam
+bradače (bradač), sam
+brenčače (brenčač), sam
+brenkače (brenkač), sam
+brkače (brkač), sam
+burkače (burkač), sam
+dirkače (dirkač), sam
+drekače (drekač), sam
+garače (garač), sam
+glumače (glumač), sam
+gofljače (gofljač), sam
+gonjače (gonjač), sam
+govnače (govnač), sam
+hujskače (hujskač), sam
+izvijače (izvijač), sam
+jahače (jahač), sam
+kolače (kolač), sam
+kopače (kopač), sam
+kovače (kovač), sam
+kričače (kričač), sam
+krojače (krojač), sam
+kurjače (kurjač), sam
+mazače (mazač), sam
+nakladače (nakladač), sam
+naslanjače (naslanjač), sam
+nastopače (nastopač), sam
+natikače (natikač), sam
+navijače (navijač), sam
+nergače (nergač), sam
+nosače (nosač), sam
+odbijače (odbijač), sam
+odpirače (odpirač), sam
+opekače (opekač), sam
+orače (orač), sam
+pekače (pekač), sam
+pomagače (pomagač), sam
+potapljače (potapljač), sam
+pretepače (pretepač), sam
+razbijače (razbijač), sam
+razparače (razparač), sam
+rokovnjače (rokovnjač), sam
+sanjače (sanjač), sam
+sankače (sankač), sam
+skakače (skakač), sam
+stiskače (stiskač), sam
+tekače (tekač), sam
+tolmače (tolmač), sam
+tolkače (tolkač), sam
+trače (trač), sam
+trobentače (trobentač), sam
+uživače (uživač), sam
+veslače (veslač), sam
+vohljače (vohljač), sam
+vozače (vozač), sam
+vrače (vrač), sam
+žvižgače (žvižgač), sam
+domače (domač), prid
+
 # ačen
 drugačen, prid
 privlačen, prid
@@ -328,6 +613,200 @@ zasačen, prid
 zatlačen, prid
 zračen, prid
 zvijačen, prid
+
+# ači
+domači (domač), prid
+barkači (barkača), sam
+brisači (brisača), sam
+cvetači (cvetača), sam
+drvači (drvača), sam
+frači (frača), sam
+globači (globača), sam
+gorjači (gorjača), sam
+hrbtenjači (hrbtenjača), sam
+igrači (igrača), sam
+jedači (jedača), sam
+kači (kača), sam
+klopotači (klopotača), sam
+krači (krača), sam
+krastači (krastača), sam
+krtači (krtača), sam
+lovači (lovača), sam
+ogrinjači (ogrinjača), sam
+pahljači (pahljača), sam
+palači (palača), sam
+pijači (pijača), sam
+plači (plača), sam
+pletenjači (pletenjača), sam
+pogači (pogača), sam
+prači (prača), sam
+sekači (sekača), sam
+strgači (strgača), sam
+strupenjači (strupenjača), sam
+tesači (tesača), sam
+topnjači (topnjača), sam
+tovornjači (tovornjača), sam
+vrtači (vrtača), sam
+vzpenjači (vzpenjača), sam
+zvijači (zvijača), sam
+bahači (bahač), sam
+berači (berač), sam
+bolhači (bolhač), sam
+bradači (bradač), sam
+brenčači (brenčač), sam
+brenkači (brenkač), sam
+brkači (brkač), sam
+burkači (burkač), sam
+dirkači (dirkač), sam
+drekači (drekač), sam
+garači (garač), sam
+glumači (glumač), sam
+gofljači (gofljač), sam
+gonjači (gonjač), sam
+govnači (govnač), sam
+hujskači (hujskač), sam
+izvijači (izvijač), sam
+jahači (jahač), sam
+kolači (kolač), sam
+kopači (kopač), sam
+kovači (kovač), sam
+kričači (kričač), sam
+krojači (krojač), sam
+kurjači (kurjač), sam
+mazači (mazač), sam
+nakladači (nakladač), sam
+naslanjači (naslanjač), sam
+nastopači (nastopač), sam
+natikači (natikač), sam
+navijači (navijač), sam
+nergači (nergač), sam
+nosači (nosač), sam
+odbijači (odbijač), sam
+odpirači (odpirač), sam
+opekači (opekač), sam
+orači (orač), sam
+pekači (pekač), sam
+pomagači (pomagač), sam
+potapljači (potapljač), sam
+pretepači (pretepač), sam
+razbijači (razbijač), sam
+razparači (razparač), sam
+rokovnjači (rokovnjač), sam
+sanjači (sanjač), sam
+sankači (sankač), sam
+skakači (skakač), sam
+stiskači (stiskač), sam
+tekači (tekač), sam
+tolmači (tolmač), sam
+tolkači (tolkač), sam
+trači (trač), sam
+trobentači (trobentač), sam
+uživači (uživač), sam
+veslači (veslač), sam
+vohljači (vohljač), sam
+vozači (vozač), sam
+vrači (vrač), sam
+žvižgači (žvižgač), sam
+
+# ačo
+gaspačo, sam
+mačo, sam
+barkačo (barkača), sam
+brisačo (brisača), sam
+cvetačo (cvetača), sam
+drvačo (drvača), sam
+fračo (frača), sam
+globačo (globača), sam
+gorjačo (gorjača), sam
+hrbtenjačo (hrbtenjača), sam
+igračo (igrača), sam
+jedačo (jedača), sam
+kačo (kača), sam
+klopotačo (klopotača), sam
+kračo (krača), sam
+krastačo (krastača), sam
+krtačo (krtača), sam
+lovačo (lovača), sam
+ogrinjačo (ogrinjača), sam
+pahljačo (pahljača), sam
+palačo (palača), sam
+pijačo (pijača), sam
+plačo (plača), sam
+pletenjačo (pletenjača), sam
+pogačo (pogača), sam
+pračo (prača), sam
+sekačo (sekača), sam
+strgačo (strgača), sam
+strupenjačo (strupenjača), sam
+tesačo (tesača), sam
+topnjačo (topnjača), sam
+tovornjačo (tovornjača), sam
+vrtačo (vrtača), sam
+vzpenjačo (vzpenjača), sam
+zvijačo (zvijača), sam
+domačo (domač), prid
+
+# aču
+gaspaču (gaspačo), sam
+maču (mačo), sam
+bahaču (bahač), sam
+beraču (berač), sam
+bolhaču (bolhač), sam
+bradaču (bradač), sam
+brenčaču (brenčač), sam
+brenkaču (brenkač), sam
+brkaču (brkač), sam
+burkaču (burkač), sam
+dirkaču (dirkač), sam
+drekaču (drekač), sam
+garaču (garač), sam
+glumaču (glumač), sam
+gofljaču (gofljač), sam
+gonjaču (gonjač), sam
+govnaču (govnač), sam
+hujskaču (hujskač), sam
+izvijaču (izvijač), sam
+jahaču (jahač), sam
+kolaču (kolač), sam
+kopaču (kopač), sam
+kovaču (kovač), sam
+kričaču (kričač), sam
+krojaču (krojač), sam
+kurjaču (kurjač), sam
+mazaču (mazač), sam
+nakladaču (nakladač), sam
+naslanjaču (naslanjač), sam
+nastopaču (nastopač), sam
+natikaču (natikač), sam
+navijaču (navijač), sam
+nergaču (nergač), sam
+nosaču (nosač), sam
+odbijaču (odbijač), sam
+odpiraču (odpirač), sam
+opekaču (opekač), sam
+oraču (orač), sam
+pekaču (pekač), sam
+pomagaču (pomagač), sam
+potapljaču (potapljač), sam
+pretepaču (pretepač), sam
+razbijaču (razbijač), sam
+razparaču (razparač), sam
+rokovnjaču (rokovnjač), sam
+sanjaču (sanjač), sam
+sankaču (sankač), sam
+skakaču (skakač), sam
+stiskaču (stiskač), sam
+tekaču (tekač), sam
+tolmaču (tolmač), sam
+tolkaču (tolkač), sam
+traču (trač), sam
+trobentaču (trobentač), sam
+uživaču (uživač), sam
+veslaču (veslač), sam
+vohljaču (vohljač), sam
+vozaču (vozač), sam
+vraču (vrač), sam
+žvižgaču (žvižgač), sam
 
 # ad
 belobrad, prid
@@ -2661,6 +3140,21 @@ vrtnarju (vrtnar), sam
 zlatarju (zlatar), sam
 zvonarju (zvonar), sam
 
+# arnica
+bukvarnica, sam
+carinarnica, sam
+denarnica, sam
+drvarnica, sam
+knjigarnica, sam
+malomarnica, sam
+nemarnica, sam
+ribarnica, sam
+sirarnica, sam
+ropotarnica, sam
+stražarnica, sam
+šmarnica, sam
+vratarnica, sam
+žarnica, sam
 
 # aro
 karo, sam
@@ -10043,6 +10537,96 @@ opor (opora), sam
 por (pora), sam
 spor (spora), sam
 zapor (zapora), sam
+
+# orij
+štorij (štorija), sam
+avditorij, sam
+direktorij, sam
+emporij, sam
+krematorij, sam
+laboratorij, sam
+observatorij, sam
+oratorij, sam
+teritorij, sam
+
+# orija
+cikorija, sam
+glorija, sam
+štorija, sam
+avditorija (avditorij), sam
+direktorija (direktorij), sam
+emporija (emporij), sam
+krematorija (krematorij), sam
+laboratorija (laboratorij), sam
+observatorija (observatorij), sam
+oratorija (oratorij), sam
+teritorija (teritorij), sam
+
+# oriji
+cikoriji (cikorija), sam
+gloriji (glorija), sam
+štoriji (štorija), sam
+avditoriji (avditorij), sam
+direktoriji (direktorij), sam
+emporiji (emporij), sam
+krematoriji (krematorij), sam
+laboratoriji (laboratorij), sam
+observatoriji (observatorij), sam
+oratoriji (oratorij), sam
+teritoriji (teritorij), sam
+
+# orijo
+cikorijo (cikorija), sam
+glorijo (glorija), sam
+štorijo (štorija), sam
+dvorijo (dvoriti), glag
+otvorijo (otvoriti), glag
+potvorijo (potvoriti), glag
+tovorijo (tovoriti), glag
+tvorijo (tvoriti), glag
+
+# orja
+besedotvorja (besedotvorje), sam
+morja (morje), sam
+obzorja (obzorje), sam
+pogorja (pogorje), sam
+podgorja (podgorje), sam
+primorja (primorje), sam
+prostorja (prostorje), sam
+sredogorja (sredogorje), sam
+visokogorja (visokogorje), sam
+skorja, sam
+
+# orje
+besedotvorje, sam
+morje, sam
+obzorje, sam
+pogorje, sam
+podgorje, sam
+primorje, sam
+prostorje, sam
+sredogorje, sam
+visokogorje, sam
+skorje (skorja), sam
+
+# orji
+morji (morje), sam
+pogorji (pogorje), sam
+podgorji (podgorje), sam
+sredogorji (sredogorje), sam
+visokogorji (visokogorje), sam
+skorji (skorja), sam
+
+# orju
+besedotvorju (besedotvorje), sam
+morju (morje), sam
+obzorju (obzorje), sam
+pogorju (pogorje), sam
+podgorju (podgorje), sam
+primorju (primorje), sam
+prostorju (prostorje), sam
+sredogorju (sredogorje), sam
+visokogorju (visokogorje), sam
 
 # os
 bos, prid
