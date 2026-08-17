@@ -2778,6 +2778,27 @@ svečano, pris
 zaspano, pris
 znano, pris
 plano, sam
+dano (dan), prid
+mano (jaz), zaim
+banano (banana), sam
+brano (brana), sam
+čežano (čežana), sam
+dvorano (dvorana), sam
+hrano (hrana), sam
+karavano (karavana), sam
+katano (katana), sam
+kurtizano (kurtizana), sam
+mano (mana), sam
+membrano (membrana), sam
+nakano (nakana), sam
+nirvano (nirvana), sam
+podgano (podgana), sam
+poljano (poljana), sam
+rano (rana), sam
+sobano (sobana), sam
+ukano (ukana), sam
+vrano (vrana), sam
+
 
 # ap
 hlap, sam
@@ -3826,6 +3847,170 @@ tkal (tkati), glag
 prodal (prodati), glag
 potreboval (potrebovati), glag
 
+# ava
+baklava, sam
+bleščava, sam
+čivava, sam
+daljava, sam
+dišava, sam
+dobava, sam
+dobrava, sam
+dostava, sam
+Drava, sam
+država, sam
+enklava, sam
+glava, sam
+goličava, sam
+goščava, sam
+izboljšava, sam
+izdelava, sam
+izgovorjava, sam
+izjava, sam
+izmenjava, sam
+izpeljava, sam
+izpostava, sam
+kava, sam
+krajšava, sam
+krava, sam
+kurjava, sam
+lava, sam
+menjava, sam
+nabava, sam
+napeljava, sam
+najava, sam
+naprava, sam
+narava, sam
+obdelava, sam
+objava, sam
+obravnava, sam
+odprava, sam
+oktava, sam
+olajšava, sam
+oprava, sam
+pisava, sam
+planjava, sam
+pojava, sam
+ponjava, sam
+poplava, sam
+poprava, sam
+poslikava, sam
+postava, sam
+povezava, sam
+prebava, sam
+predelava, sam
+predstava, sam
+preiskava, sam
+preslikava, sam
+prestava, sam
+prijava, sam
+primerjava, sam
+priprava, sam
+proslava, sam
+puščava, sam
+raziskava, sam
+razprava, sam
+razstava, sam
+razsvetljava, sam
+sestava, sam
+skušnjava, sam
+slava, sam
+sončava, sam
+sprava, sam
+spremljava, sam
+stava, sam
+težava, sam
+širjava, sam
+trava, sam
+trdnjava, sam
+tujlava, sam
+uprava, sam
+ustava, sam
+veljava, sam
+vezava, sam
+višava, sam
+vonjava, sam
+zabava, sam
+zamenjava, sam
+zastava, sam
+zelenjava, sam
+zmešnjava, sam
+bavbava (bavbav), sam
+kakava (kakav), sam
+krvava (krvav), prid
+pava (pav), sam
+plava (plav), prid
+rokava (rokav), sam
+splava (splav), sam
+živžava (živžav), sam
+bahava (bahav), prid
+beloglava (beloglav), prid
+bistroglava (bistroglav), prid
+bleščava (bleščav), prid
+blodnjava (blodnjav), prid
+brezglava (brezglav), prid
+brzojava (brzojav), sam
+čenčava (čenčav), prid
+cepetava (cepetav), prid
+cmerava (cmerav), prid
+cmokava (cmokav), prid
+čvekava (čvekav), prid
+domišljava (domišljav), prid
+drčava (drčav), prid
+dremava (dremav), prid
+drgetava (drgetav), prid
+frfotava (frfotav), prid
+godrnjava (godrnjav), prid
+gobezdava (gobezdav), prid
+gologlava (gologlav), prid
+hehetava (hehetav), prid
+hrustljava (hrustljav), prid
+jezikava (jezikav), prid
+ječava (ječav), prid
+jokava (jokav), prid
+klepetava (klepetav), prid
+krmežljava (krmežljav), prid
+lesketava (lesketav), prid
+lokava (lokav), prid
+majava (majav), prid
+migetava (migetav), prid
+nepridiprava (nepridiprav), prid
+nergava (nergav), prid
+nezdrava (nezdrav), prid
+norčava (norčav), prid
+nosljava (nosljav), prid
+odrezava (odrezav), prid
+odzdrava (odzdrav), sam
+oglava (oglav), sam
+pojava (pojav), sam
+poniglava (poniglav), prid
+pozdrava (pozdrav), sam
+praznoglava (praznoglav), prid
+pristava (pristav), sam
+puhoglava (puhoglav), prid
+renčava (renčav), prid
+rjava (rjav), prid
+samoglava (samoglav), prid
+sanjava (sanjav), prid
+sestava (sestav), sam
+solzava (solzav), prid
+šegava (šegav), prid
+šepetava (šepetav), prid
+šumljava (šumljav), prid
+topoglava (topoglav), prid
+trdoglava (trdoglav), prid
+trepetava (trepetav), prid
+tresava (tresav), prid
+trmoglava (trmoglav), prid
+udava (udav), sam
+vihrava (vihrav), prid
+vrtoglava (vrtoglav), prid
+zaletava (zaletav), prid
+zdrava (zdrav), prid
+zvedava (zvedav), prid
+žerjava (žerjav), sam
+prava (pravi), prid
+prava (pravo), sam
+
 # aven
 brezpraven, prid
 brzojaven, prid
@@ -4735,6 +4920,64 @@ načel (načelo), sam
 omel (omelo), sam
 razpel (razpelo), sam
 žrel (žrelo), sam
+
+# ela
+bagatela, sam
+čebela, sam
+cela (cel), prid
+činela, sam
+citadela, sam
+docela, pris
+favela, sam
+gazela, sam
+kamela, sam
+kapela, sam
+karamela, sam
+klientela, sam
+marela, sam
+mortadela, sam
+novela, sam
+omela, sam
+paralela, sam
+parcela, sam
+scela, pris
+sardela, sam
+skodela, sam
+strela, sam
+tabela, sam
+tarantela, sam
+telenovela, sam
+zabela, sam
+dežela, sam
+apela (apel), sam
+bela (bel), prid
+bordela (bordel), sam
+bešamela (bešamel), sam
+dela (del), sam
+gela (gel), sam
+hotela (hotel), sam
+kartela (kartel), sam
+modela (model), sam
+panela (panel), sam
+pepela (pepel), sam
+plevela (plevel), sam
+predela (predel), sam
+samostrela (samostrel), sam
+strela (strel), sam
+smela (smel), prid
+tunela (tunel), sam
+šrapnela (šrapnel), sam
+vesela (vesel), prid
+čela (čelo), sam
+krepela (krepelo), sam
+načela (načelo), sam
+počela (počelo), sam
+sela (selo), sam
+razpela (razpelo), sam
+žela (želo), sam
+žrela (žrelo), sam
+dela (delo), sam
+krdela (krdelo), sam
 
 # ele
 čebele (čebela), sam
@@ -5753,6 +5996,36 @@ ponese (ponesti), glag
 odnese (odnesti), glag
 pretrese (pretresti), glag
 
+# esla
+gesla (geslo), sam
+tesla (teslo), sam
+vesla (veslo), sam
+
+# eslo
+geslo, sam
+teslo, sam
+veslo, sam
+prineslo (prinesti), glag
+naneslo (nanesti), glag
+natreslo (natresti), glag
+neslo (nesti), glag
+odneslo (odnesti), glag
+otreslo (otresti), glag
+preneslo (prenesti), glag
+prineslo (prinesti), glag
+treslo (tresti), glag
+zaneslo (zanesti), glag
+
+# eslom
+geslom (geslo), sam
+teslom (teslo), sam
+veslom (veslo), sam
+
+# eslu
+geslu (geslo), sam
+teslu (teslo), sam
+veslu (veslo), sam
+
 # est
 alkotest, sam
 azbest, sam
@@ -5791,6 +6064,75 @@ poliester, sam
 semester, sam
 silvester, sam
 sester (sestra), sam
+
+# esti
+jesti, glag
+lesti, glag
+nalesti, glag
+nasesti, glag
+natresti, glag
+obresti, sam
+obsesti, glag
+otresti, glag
+pretresti, glag
+prevesti, glag
+prilesti, glag
+prisesti, glag
+raztresti, glag
+sesti, glag
+stresti, glag
+tresti, glag
+vesti, glag
+zasesti, glag
+zlesti, glag
+zmesti, glag
+usesti, glag
+blesti, glag
+dovesti, glag
+izpodnesti, glag
+izvesti, glag
+mesti, glag
+namesti (namestiti), glag
+nanesti, glag
+navesti, glag
+nesti, glag
+odnesti, glag
+odvesti, glag
+ponesti, glag
+pomesti, glag
+prebresti, glag
+prenesti, glag
+presti, glag
+prinesti, glag
+prizanesti, glag
+splesti, glag
+šesti, štev
+uvesti, glag
+vnesti, glag
+znesti, glag
+bolesti (bolest), sam
+bresti (brest), sam
+manifesti (manifest), sam
+mresti (mrest), sam
+nezavesti (nezavest), sam
+nezvesti (nezvest), prid
+pesti (pest), sam
+posesti (posest), sam
+povesti (povest), sam
+prelesti (prelest), sam
+protesti (protest), sam
+samozavesti (samozavest), sam
+testi (test), sam
+vesti (vest), sam
+zavesti (zavest), sam
+zvesti (zvest), prid
+aresti (arest), sam
+cesti (cesta), sam
+gesti (gesta), sam
+nevesti (nevesta), sam
+presti (presta), sam
+mesti (mesto), sam
+zločesti (zločest), prid
 
 # eš
 fleš, sam
@@ -6526,6 +6868,426 @@ zlatic (zlatica), sam
 žebljic (žebljica), sam
 žlic (žlica), sam
 žrebic (žrebica), sam
+
+# ica
+betica, sam
+beznica, sam
+bledica, sam
+bodica, sam
+bolnica, sam
+bradavica, sam
+brzica, sam
+cesarica, sam
+cvetica, sam
+cvetlica, sam
+desetica, sam
+desnica, sam
+devica, sam
+dolžnica, sam
+drobnica, sam
+družica, sam
+dvojica, sam
+glasnica, sam
+golica, sam
+golobica, sam
+gorčica, sam
+gospodarica, sam
+rojenica, sam
+govorica, sam
+grenčica, sam
+grofica, sam
+hrbtenica, sam
+kmetica, sam
+končnica, sam
+konica, sam
+kopica, sam
+koščica, sam
+kozica, sam
+kraljica, sam
+kratica, sam
+krasotica, sam
+kresnica, sam
+krčmarica, sam
+krivica, sam
+krvavica, sam
+krvnica, sam
+lastnica, sam
+ledenica, sam
+lepotica, sam
+levica, sam
+lisica, sam
+ločnica, sam
+matrica, sam
+medenica, sam
+meglica, sam
+mesarica, sam
+mesnica, sam
+modrica, sam
+mrtvica, sam
+mučenica, sam
+mušica, sam
+nogavica, sam
+novica, sam
+notica, sam
+nožica, sam
+orlica, sam
+oblastnica, sam
+oskrbnica, sam
+oslica, sam
+ovčica, sam
+pasica, sam
+pastirica, sam
+pečica, sam
+peščica, sam
+pica, sam
+planica, sam
+platnica, sam
+polica, sam
+polovica, sam
+pomočnica, sam
+potica, sam
+prasica, sam
+pravica, sam
+psica, sam
+pšenica, sam
+ptica, sam
+ravnica, sam
+rdečica, sam
+resnica, sam
+ročica, sam
+rokavica, sam
+samica, sam
+skica, sam
+skrbnica, sam
+sladica, sam
+slaščica, sam
+sodnica, sam
+snežnica, sam
+solzica, sam
+spomenica, sam
+srbečica, sam
+spovednica, sam
+sredica, sam
+steklenica, sam
+stenica, sam
+stezica, sam
+stopnica, sam
+stranica, sam
+svečenica, sam
+svetnica, sam
+šica, sam
+tančica, sam
+tatica, sam
+telica, sam
+temnica, sam
+tovarišica, sam
+trojica, sam
+veselica, sam
+vladarica, sam
+vodnica, sam
+vročica, sam
+vrstica, sam
+vrstnica, sam
+zdravica, sam
+zdravnica, sam
+zelenica, sam
+zenica, sam
+zlatica, sam
+žica, sam
+žganjica, sam
+žlica, sam
+žrebica, sam
+belolica (belolic), prid
+hospica (hospic), sam
+indica (indic), sam
+klica (klic), sam
+možica (možic), sam
+poklica (poklic), sam
+preklica (preklic), sam
+priklica (priklic), sam
+sklica (sklic), sam
+strica (stric), sam
+škrica (škric), sam
+vica (vic), sam
+šlica (šlic), sam
+vpoklica (vpoklic), sam
+
+# ice
+betice (betica), sam
+beznice (beznica), sam
+bledice (bledica), sam
+bleščice, sam
+gorice, sam
+kolesnice, sam
+ledvice, sam
+rojenice (rojenica), sam
+norice, sam
+bodice (bodica), sam
+bolnice (bolnica), sam
+bradavice (bradavica), sam
+brzice (brzica), sam
+cesarice (cesarica), sam
+cvetice (cvetica), sam
+cvetlice (cvetlica), sam
+desetice (desetica), sam
+desnice (desnica), sam
+device (devica), sam
+dolžnice (dolžnica), sam
+drobnice (drobnica), sam
+družice (družica), sam
+dvojice (dvojica), sam
+glasnice (glasnica), sam
+golice (golica), sam
+golobice (golobica), sam
+gorčice (gorčica), sam
+gospodarice (gospodarica), sam
+govorice (govorica), sam
+grenčice (grenčica), sam
+grofice (grofica), sam
+hrbtenice (hrbtenica), sam
+kmetice (kmetica), sam
+končnice (končnica), sam
+konice (konica), sam
+kopice (kopica), sam
+koščice (koščica), sam
+kozice (kozica), sam
+kraljice (kraljica), sam
+kratice (kratica), sam
+krasotice (krasotica), sam
+kresnice (kresnica), sam
+krčmarice (krčmarica), sam
+krivice (krivica), sam
+krvavice (krvavica), sam
+krvnice (krvnica), sam
+lastnice (lastnica), sam
+ledenice (ledenica), sam
+lepotice (lepotica), sam
+levice (levica), sam
+lisice (lisica), sam
+ločnice (ločnica), sam
+matrice (matrica), sam
+medenice (medenica), sam
+meglice (meglica), sam
+mesarice (mesarica), sam
+mesnice (mesnica), sam
+modrice (modrica), sam
+mrtvice (mrtvica), sam
+mučenice (mučenica), sam
+mušice (mušica), sam
+nogavice (nogavica), sam
+novice (novica), sam
+notice (notica), sam
+nožice (nožica), sam
+orlice (orlica), sam
+oblastnice (oblastnica), sam
+oskrbnice (oskrbnica), sam
+oslice (oslica), sam
+ovčice (ovčica), sam
+pasice (pasica), sam
+pastirice (pastirica), sam
+pečice (pečica), sam
+peščice (peščica), sam
+pice (pica), sam
+planice (planica), sam
+platnice (platnica), sam
+police (polica), sam
+polovice (polovica), sam
+pomočnice (pomočnica), sam
+potice (potica), sam
+prasice (prasica), sam
+pravice (pravica), sam
+psice (psica), sam
+pšenice (pšenica), sam
+ptice (ptica), sam
+ravnice (ravnica), sam
+rdečice (rdečica), sam
+resnice (resnica), sam
+ročice (ročica), sam
+rokavice (rokavica), sam
+samice (samica), sam
+skice (skica), sam
+skrbnice (skrbnica), sam
+sladice (sladica), sam
+slaščice (slaščica), sam
+sodnice (sodnica), sam
+snežnice (snežnica), sam
+solzice (solzica), sam
+spomenice (spomenica), sam
+srbečice (srbečica), sam
+spovednice (spovednica), sam
+sredice (sredica), sam
+steklenice (steklenica), sam
+stenice (stenica), sam
+stezice (stezica), sam
+stopnice (stopnica), sam
+stranice (stranica), sam
+svečenice (svečenica), sam
+svetnice (svetnica), sam
+šice (šica), sam
+tančice (tančica), sam
+tatice (tatica), sam
+telice (telica), sam
+temnice (temnica), sam
+tovarišice (tovarišica), sam
+trojice (trojica), sam
+veselice (veselica), sam
+vladarice (vladarica), sam
+vodnice (vodnica), sam
+vročice (vročica), sam
+vrstice (vrstica), sam
+vrstnice (vrstnica), sam
+zdravice (zdravica), sam
+zdravnice (zdravnica), sam
+zelenice (zelenica), sam
+zenice (zenica), sam
+zlatice (zlatica), sam
+žice (žica), sam
+žganjice (žganjica), sam
+žlice (žlica), sam
+žrebice (žrebica), sam
+belolice (belolic), prid
+hospice (hospic), sam
+indice (indic), sam
+klice (klic), sam
+možice (možic), sam
+poklice (poklic), sam
+preklice (preklic), sam
+priklice (priklic), sam
+sklice (sklic), sam
+strice (stric), sam
+škrice (škric), sam
+vice (vic), sam
+šlice (šlic), sam
+vpoklice (vpoklic), sam
+
+# ico
+betico (betica), sam
+beznico (beznica), sam
+bledico (bledica), sam
+bodico (bodica), sam
+bolnico (bolnica), sam
+bradavico (bradavica), sam
+brzico (brzica), sam
+cesarico (cesarica), sam
+cvetico (cvetica), sam
+cvetlico (cvetlica), sam
+desetico (desetica), sam
+desnico (desnica), sam
+devico (devica), sam
+dolžnico (dolžnica), sam
+drobnico (drobnica), sam
+družico (družica), sam
+dvojico (dvojica), sam
+glasnico (glasnica), sam
+golico (golica), sam
+golobico (golobica), sam
+gorčico (gorčica), sam
+gospodarico (gospodarica), sam
+govorico (govorica), sam
+grenčico (grenčica), sam
+grofico (grofica), sam
+hrbtenico (hrbtenica), sam
+kmetico (kmetica), sam
+končnico (končnica), sam
+konico (konica), sam
+kopico (kopica), sam
+koščico (koščica), sam
+kozico (kozica), sam
+kraljico (kraljica), sam
+kratico (kratica), sam
+krasotico (krasotica), sam
+kresnico (kresnica), sam
+krčmarico (krčmarica), sam
+krivico (krivica), sam
+krvavico (krvavica), sam
+krvnico (krvnica), sam
+lastnico (lastnica), sam
+ledenico (ledenica), sam
+lepotico (lepotica), sam
+levico (levica), sam
+lisico (lisica), sam
+ločnico (ločnica), sam
+matrico (matrica), sam
+medenico (medenica), sam
+meglico (meglica), sam
+mesarico (mesarica), sam
+mesnico (mesnica), sam
+modrico (modrica), sam
+mrtvico (mrtvica), sam
+mučenico (mučenica), sam
+mušico (mušica), sam
+nogavico (nogavica), sam
+novico (novica), sam
+notico (notica), sam
+nožico (nožica), sam
+orlico (orlica), sam
+oblastnico (oblastnica), sam
+oskrbnico (oskrbnica), sam
+oslico (oslica), sam
+ovčico (ovčica), sam
+pasico (pasica), sam
+pastirico (pastirica), sam
+pečico (pečica), sam
+peščico (peščica), sam
+pico (pica), sam
+planico (planica), sam
+platnico (platnica), sam
+polico (polica), sam
+polovico (polovica), sam
+pomočnico (pomočnica), sam
+potico (potica), sam
+prasico (prasica), sam
+pravico (pravica), sam
+psico (psica), sam
+pšenico (pšenica), sam
+ptico (ptica), sam
+ravnico (ravnica), sam
+rdečico (rdečica), sam
+resnico (resnica), sam
+ročico (ročica), sam
+rokavico (rokavica), sam
+samico (samica), sam
+skico (skica), sam
+skrbnico (skrbnica), sam
+sladico (sladica), sam
+slaščico (slaščica), sam
+sodnico (sodnica), sam
+snežnico (snežnica), sam
+solzico (solzica), sam
+spomenico (spomenica), sam
+srbečico (srbečica), sam
+spovednico (spovednica), sam
+sredico (sredica), sam
+steklenico (steklenica), sam
+stenico (stenica), sam
+stezico (stezica), sam
+stopnico (stopnica), sam
+stranico (stranica), sam
+svečenico (svečenica), sam
+svetnico (svetnica), sam
+šico (šica), sam
+tančico (tančica), sam
+tatico (tatica), sam
+telico (telica), sam
+temnico (temnica), sam
+tovarišico (tovarišica), sam
+trojico (trojica), sam
+veselico (veselica), sam
+vladarico (vladarica), sam
+vodnico (vodnica), sam
+vročico (vročica), sam
+vrstico (vrstica), sam
+vrstnico (vrstnica), sam
+zdravico (zdravica), sam
+zdravnico (zdravnica), sam
+zelenico (zelenica), sam
+zenico (zenica), sam
+zlatico (zlatica), sam
+žico (žica), sam
+žganjico (žganjica), sam
+žlico (žlica), sam
+žrebico (žrebica), sam
+belolico (belolic), prid
 
 # ič
 bič, sam
@@ -11666,6 +12428,22 @@ občutka (občutek), sam
 osnutka (osnutek), sam
 trenutka (trenutek), sam
 putka, sam
+
+# utna
+absolutna (absoluten), prid
+akutna (akuten), prid
+brezčutna (brezčuten), prid
+minutna (minuten), prid
+neslutna (nesluten), prid
+občutna (občuten), prid
+okrutna (okruten), prid
+priskutna (priskuten), prid
+rahločutna (rahločuten), prid
+sočutna (sočuten), prid
+tenkočutna (tenkočuten), prid
+trenutna (trenuten), prid
+zloslutna (zlosluten), prid
+čutna (čuten), prid
 
 # uto
 bruto, pris
