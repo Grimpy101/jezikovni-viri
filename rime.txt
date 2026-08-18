@@ -4600,6 +4600,67 @@ zagleda (zagledati), glag
 zaseda (zasedati), glag
 zaveda (zavedati), glag
 
+# ede
+blede (bled), prid
+črnoglede (črnogled), prid
+dede (ded), sam
+drevorede (drevored), sam
+dvosede (dvosed), sam
+mesojede (mesojed), prid
+mrkoglede (mrkogled), prid
+ozkoglede (ozkogled), prid
+rastlinojede (rastlinojed), prid
+scenoslede (scenosled), sam
+sladolede (sladoled), sam
+tragede (traged), sam
+vsejede (vsejed), prid
+izgrede (izgred), sam
+obrede (obred), sam
+odrede (odred), sam
+poglede (pogled), sam
+preglede (pregled), sam
+razglede (razgled), sam
+sporede (spored), sam
+zglede (zgled), sam
+zvezdoglede (zvezdogled), sam
+stampede (stampedo), sam
+torpede (torpedo), sam
+abecede (abeceda), sam
+bede (beda), sam
+besede (beseda), sam
+črede (čreda), sam
+krede (kreda), sam
+razjede (razjeda), sam
+sklede (skleda), sam
+sosede (soseda), sam
+srede (sreda), sam
+ujede (ujeda), sam
+vede (veda), sam
+zasede (zaseda), sam
+zmede (zmeda), sam
+blede (blesti), glag
+brede (bresti), glag
+izvede (izvesti), glag
+mede (mesti), glag
+nasede (nasesti), glag
+navede (navesti), glag
+obsede (obsesti), glag
+odvede (odvesti), glag
+pomede (pomesti), glag
+posede (posesti), glag
+povede (povesti), glag
+preprede (prepresti), glag
+prede (presti), glag
+prevede (prevesti), glag
+prisede (prisesti), glag
+privede (privesti), glag
+sede (sesti), glag
+uvede (uvesti), glag
+vede (vesti), glag
+zaprede (zapresti), glag
+zasede (zasesti), glag
+zmede (zmesti), glag
+
 # edi
 bog si ga vedi, člen
 dedi, sam
@@ -5182,7 +5243,7 @@ problem, sam
 sistem, sam
 šlem, sam
 tandem, sam
-tem, zaim
+tem (to), zaim
 vtem, pris
 teorem, sam
 zatem, pris
@@ -5207,8 +5268,12 @@ lem (lema), sam
 krizantem (krizantema), sam
 shem (shema), sam
 šem (šema), sam
-vem (vedeti), glag
 vsem (vsi), zaim
+grem (iti), glag
+vem (vedeti), glag
+jem (jesti), glag
+napovem (napovedati), glag
+
 
 # eme
 dileme (dilema), sam
@@ -11987,6 +12052,65 @@ puč, sam
 buč (buča), sam
 gruč (gruča), sam
 pljuč (pljuča), sam
+
+# učen
+bučen, prid
+izključen, prid
+izmučen, prid
+ključen, prid
+mučen, prid
+naključen, prid
+pljučen, prid
+poučen, prid
+priključen, prid
+sključen, prid
+vključen, prid
+veroučen, prid
+zaključen, prid
+desnosučen, prid
+levosučen, prid
+
+# učna
+bučna (bučen), prid
+ključna (ključen), prid
+mučna (mučen), prid
+naključna (naključen), prid
+pljučna (pljučen), prid
+poučna (poučen), prid
+priključna (priključen), prid
+veroučna (veroučen), prid
+učna (učen), prid
+zaključna (zaključen), prid
+desnosučna (desnosučen), prid
+levosučna (levosučen), prid
+
+# učni
+bučni (bučen), prid
+ključni (ključen), prid
+mučni (mučen), prid
+naključni (naključen), prid
+pljučni (pljučen), prid
+poučni (poučen), prid
+priključni (priključen), prid
+veroučni (veroučen), prid
+učni (učen), prid
+zaključni (zaključen), prid
+desnosučni (desnosučen), prid
+levosučni (levosučen), prid
+
+# učno
+bučno (bučen), prid
+ključno (ključen), prid
+mučno (mučen), prid
+naključno (naključen), prid
+pljučno (pljučen), prid
+poučno (poučen), prid
+priključno (priključen), prid
+veroučno (veroučen), prid
+učno (učen), prid
+zaključno (zaključen), prid
+desnosučno (desnosučen), prid
+levosučno (levosučen), prid
 
 # ud
 čud, sam
