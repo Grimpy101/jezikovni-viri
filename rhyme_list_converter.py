@@ -45,6 +45,8 @@ for line in content.split('\n'):
             words[key] = set([val])
 
 
+print(len(words), "unique words")
+
 table = []
 for key, val in words.items():
     for v in val:

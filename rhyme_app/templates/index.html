@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rime</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            padding: 2rem 1rem;
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f7f7f8;
+            color: #222;
+        }
+
+        .head-title {
+            max-width: 700px;
+            margin: 0 auto 1.5rem;
+            text-align: center;
+            font-size: 2rem;
+        }
+
+        .rhyme-form {
+            max-width: 700px;
+            margin: 0 auto 2rem;
+        }
+
+        .rhyme-form form {
+            display: flex;
+            gap: .5rem;
+        }
+
+        .rhyme-form input,
+        .rhyme-form select,
+        .rhyme-form input[type="submit"] {
+            padding: .65rem .8rem;
+            border: 1px solid #ddd;
+            border-radius: .5rem;
+            font: inherit;
+        }
+
+        .rhyme-form input[name="search"] {
+            flex: 1;
+        }
+
+        .rhyme-form input[type="submit"] {
+            background: #333;
+            color: white;
+            border-color: #333;
+            cursor: pointer;
+        }
+
+        .rhyme-list {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 0;
+            list-style: none;
+            display: grid;
+            gap: .5rem;
+        }
+
+        .rhyme-item {
+            display: flex;
+            align-items: baseline;
+            gap: .5rem;
+            padding: .75rem 1rem;
+            background: white;
+            border: 1px solid #e5e5e5;
+            border-radius: .6rem;
+        }
+
+        .main-word {
+            font-size: 1.1rem;
+            font-weight: 600;
+        }
+
+        .lemma {
+            color: #888;
+        }
+
+        .pos {
+            margin-left: auto;
+            color: #666;
+            font-size: .85rem;
+        }
+
+        @media (max-width: 600px) {
+            .rhyme-form form {
+                flex-wrap: wrap;
+            }
+
+            .rhyme-form input[name="search"] {
+                flex-basis: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1 class="head-title">Rime</h1>
+    <div class="rhyme-form">
+        <form action="/" method="get">
+            <input type="text" name="search" id="search" placeholder="Končnica rime">
+            <select name="filterpos" id="posFilter">
+                <option value="">---</option>
+                {% for pos in pos_list %}
+                <option value="{{ pos }}">{{ pos|capitalize }}.</option>
+                {% endfor %}
+            </select>
+            <input type="submit" value="Išči">
+        </form>
+    </div>
+    <div>
+        <ul class="rhyme-list">
+            {% for rhyme in rhymes %}
+            <li class="rhyme-item">
+                <span class="main-word">{{ rhyme.word }}</span>
+                <span class="lemma">({{ rhyme.lemma }})</span>
+                <span class="pos">{{ rhyme.pos }}.</span>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+<script>
+    const searchField = document.getElementById('search');
+    const posField = document.getElementById('posFilter');
+
+    const url = new URL(window.location.href);
+    const query = url.searchParams.get('search');
+    const pos = url.searchParams.get('filterpos');
+
+    searchField.value = query;
+    posField.value = pos;
+</script>
+</html>

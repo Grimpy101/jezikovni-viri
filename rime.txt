@@ -6401,7 +6401,7 @@ spletna, prid
 strahopetna, prid
 svetna, prid
 štafetna, prid
-toaletna, rid
+toaletna, prid
 umetna, prid
 univerzitetna, prid
 verjetna, prid
@@ -6675,7 +6675,7 @@ veli (veleti), glag
 vi, zaim
 vihti (vihteti), glag
 vsi, zaim
-vzcveti (vzcveteti), glas
+vzcveti (vzcveteti), glag
 zadosti (zadostiti), glag
 zazdi (zazdeti), glag
 zdani (zdaniti se), glag
@@ -11192,7 +11192,7 @@ kiklop, sam
 mikroskop, sam
 mizantrop, sam
 rop, sam
-skop, prod
+skop, prid
 štop, sam
 hiphop, sam
 antilop (antilopa), sam
@@ -11831,6 +11831,18 @@ spodrs, sam
 trs, sam
 zdrs, sam
 prs (prsa), sam
+
+# rst
+brst, sam
+čvrst, prid
+drst, sam
+krst, sam
+prst, sam
+trst, sam
+vzbrst, sam
+zvrst, sam
+krst (krsta), sam
+vrst (vrsta), sam
 
 # rš
 krš, sam
